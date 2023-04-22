@@ -1,6 +1,7 @@
 ---
-title: "An Extendable Obsidian Publish alternative using Next.JS"
-excerpt: "Create your own template or use someone else's. Changing the template is a matter of updating one line"
+title: "Blog"
+excerpt: "Random notes & thoughts"
 ---
-Hello world!
 
+## Coming soon
+- [[remote-blog/publish/random-note]]
