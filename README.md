@@ -1,4 +1,3 @@
 # linked-blog-starter-md
-These are the markdown files for the [linked-blog-starter](https://github.com/matthewwong525/linked-blog-starter) repository
 
-Testing
+These are the markdown files for the [linked-blog-starter](https://github.com/VinnyE/linked-blog-starter) repository
