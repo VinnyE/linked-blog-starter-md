@@ -4,4 +4,4 @@ excerpt: "Random notes & thoughts"
 ---
 
 ## Coming soon
-- [[remote-blog/publish/random-note]]
+- [Random Note](random-note.md)
