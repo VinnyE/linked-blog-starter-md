@@ -1,8 +1,8 @@
 ---
-title: "Blog"
+title: "Notes"
 excerpt: "Random notes & thoughts"
 ---
 
-## Coming soon
+## Recent
 
-- [Random Note](random-note.md)
+- [[AI Cheat Sheet]]
