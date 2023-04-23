@@ -1,6 +1,6 @@
 ---
-title: "Notes"
-excerpt: "Random notes & thoughts"
+title: "Home"
+excerpt: "Home page"
 ---
 
 ## Recent
