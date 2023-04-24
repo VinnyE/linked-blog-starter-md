@@ -12,3 +12,9 @@ AI cheatsheet that is periodically updated as I come across new topics I'm curio
 - [[Cosine similarity]]
 - [[Continuous Vector Space]]
 
+## Frameworks
+- [[LangChain]]
+
+## Resources:
+- [LangChain JS docs](https://js.langchain.com/docs/)
+- [LangChain Cookbook](https://github.com/gkamradt/langchain-tutorials/blob/main/LangChain%20Cookbook.ipynb)
