@@ -1,5 +1,5 @@
 ---
-title:  Beyond The First Mistake
+title:  "Beyond The First Mistake: The Importance of Being Present"
 created: Tuesday 25th April 2023 07:45
 excerpt: "In the book “The Art Of Learning” by Josh Waitzkin, Josh shares a story that reminds me of the importance of presence and clarity of mind."
 ---
