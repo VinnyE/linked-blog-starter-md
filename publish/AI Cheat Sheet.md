@@ -9,9 +9,9 @@ AI cheatsheet that is periodically updated as I come across new topics I'm curio
 
 ## Concepts
 - [[Embeddings]]
-- [[neural-network|Neural Network]]
-- [[cosine-similarity|Cosine similarity]]
-- [[continuous-vector-space|Continuous Vector Space]]
+- [[Neural network|Neural Network]]
+- [[Cosine similarity|Cosine similarity]]
+- [[Continuous vector space|Continuous Vector Space]]
 
 ## Frameworks
 - [[LangChain]]
