@@ -1,5 +1,5 @@
 ---
-title:  LangChain
+title:  "LangChain"
 created: Monday 24th April 2023 18:11
 ---
 

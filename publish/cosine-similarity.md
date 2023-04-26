@@ -1,7 +1,8 @@
 ---
-title:  Cosine similarity
+title:  "Cosine similarity"
 created: Sunday 23rd April 2023 08:52
 excerpt: "Cosine similarity is a measure used to determine the similarity between two vectors in a continuous vector space."
+Alias: "Cosine similarity"
 ---
 
 ### What is Cosine similarity?

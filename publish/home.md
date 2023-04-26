@@ -4,7 +4,7 @@ excerpt: "Home page"
 ---
 
 ## Recent
-- [[Beyond The First Mistake]]
-- [[AI Cheat Sheet]]
+- [[beyond-the-first-mistake]]
+- [[ai-cheat-sheet]]
 
 
