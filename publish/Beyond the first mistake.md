@@ -30,7 +30,7 @@ So, what exactly does it mean to be present? Presence, as I will be discussing i
 
 When we’re not present, we have a kind of out-of-body experience as our mind wanders to this and that. For instance, have you ever driven home after a fun night with friends, only to find yourself replaying the evening’s events in your head? You recreate the entire night and re-analyze everything. You create your own personal mental movie.
 
-Pretty soon, you start to wonder w_hy did she say that?_ or _I hope they didn’t take what I said the wrong way._ Before you know it, 20 minutes have passed, and you’re home without knowing how you got home. By the time you walk in the door, you’re no longer sure that dinner went as well as you thought.
+Pretty soon, you start to wonder _why did she say that?_ or _I hope they didn’t take what I said the wrong way._ Before you know it, 20 minutes have passed, and you’re home without knowing how you got home. By the time you walk in the door, you’re no longer sure that dinner went as well as you thought.
 
 Swap out the dinner scenario for an interview or a date, and you’ll see how prevalent this is. But you’re not alone if you’ve experienced this mental wandering. It happens to all of us.
 

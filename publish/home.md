@@ -4,7 +4,7 @@ excerpt: "Home page"
 ---
 
 ## Writing
-- [[Beyond the first mistake]]
+- [[Beyond The First Mistake]]
 
 ## Cheat sheets
 - [[AI Cheat Sheet]]
