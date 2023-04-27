@@ -33,7 +33,9 @@ jobs:
           for file in temp_blog/common_md/*.md; do
             title="$(basename "$file" .md)"
             slug=$(echo "$title" | tr '[:upper:]' '[:lower:]' | tr ' ' '-' | tr -cd '[[:alnum:]-]')
-            mv "$file" "temp_blog/common_md/$slug.md"
+            if [ "$title" != "$slug" ]; then
+              mv "$file" "temp_blog/common_md/$slug.md"
+            fi
           done
       - name: Move blog dir to currDir
         run: |
