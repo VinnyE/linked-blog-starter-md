@@ -3,7 +3,7 @@ title:  "Reveal reality through the lens of mental models"
 created: Thursday 27th April 2023 07:49
 ---
 
-The first step to understanding a problem is to be able to accurately describe the full scope of the situation. To see a problem for what it is, we first need to break it down into substantive parts. Only by understanding the most basic elements first do the interconnections and causal relationships eventually reveal themselves (see: [[First principles thinking]]). Applying various mental model lenses (see: [[What are mental models?]]) illuminates these connections and helps us see more of reality. This is why [[Embracing Munger's multidisciplinary latticework of mental models]] is useful. 
+The first step to understanding a problem is to be able to accurately describe the full scope of the situation. To see a problem for what it is, we first need to break it down into substantive parts. Only by understanding the most basic elements first do the interconnections and causal relationships eventually reveal themselves (see: [[First principles thinking]]). Applying various mental model lenses (see: [[What are mental models]]) illuminates these connections and helps us see more of reality. This is why [[Embracing Munger's multidisciplinary latticework of mental models]] is useful. 
 
 It's important to remember that this process is always on-going. We must [[Overcome obstacles to learning from reality]]. Constantly testing understanding against reality is essential for refining mental models and adapting to new information. A useful mental model to consider here is [[Bayesian thinking]]. 
 

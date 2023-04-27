@@ -3,7 +3,7 @@ title: "Embracing Munger's multidisciplinary latticework of mental models"
 created: Thursday 27th April 2023 07:22
 ---
 
-[[Charlie Munger]] advocates using what he calls a "a broad latticework of mental models" (see:  [[What are mental models?]]) to help better think through problems and understand the world. These simplified chunks of knowledge we've obtained from various disciplines can help identify what information is relevant in any given situation and establish reasonable parameters for problem solving. 
+[[Charlie Munger]] advocates using what he calls a "a broad latticework of mental models" (see:  [[What are mental models]]) to help better think through problems and understand the world. These simplified chunks of knowledge we've obtained from various disciplines can help identify what information is relevant in any given situation and establish reasonable parameters for problem solving. 
 
 Multidisciplinary thinking in this way helps: 
 - Make us less vulnerable to compounding mistakes.
