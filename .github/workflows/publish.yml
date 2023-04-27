@@ -28,6 +28,13 @@ jobs:
           cargo install obsidian-export
           rm -rf temp_blog/common_md && mkdir temp_blog/common_md
           ~/.cargo/bin/obsidian-export ./temp_md/${{ env.PUBLISH_DIR }} temp_blog/common_md
+      - name: Rename files to SEO-friendly slugs
+        run: |
+          for file in temp_blog/common_md/*.md; do
+            title="$(basename "$file" .md)"
+            slug=$(echo "$title" | tr '[:upper:]' '[:lower:]' | tr ' ' '-' | tr -cd '[[:alnum:]-]')
+            mv "$file" "temp_blog/common_md/$slug.md"
+          done
       - name: Move blog dir to currDir
         run: |
           cp -r temp_blog/. .
