@@ -14,6 +14,7 @@ Multidisciplinary thinking in this way helps:
 In essence, we can [[Enhance decision-making by reducing blindspots with mental models]] and get closer to [[Reveal reality through the lens of mental models]]. But first we have to [[Overcome obstacles to learning from reality]]. 
 
 ---
+### References
 
 Parrish, S. (2019). _The Great Mental Models: General thinking concepts. Latticework Publishing_.
 

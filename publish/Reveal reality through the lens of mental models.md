@@ -9,6 +9,8 @@ It's important to remember that this process is always on-going. We must [[Overc
 
 
 --- 
+### References
+
 Parrish, S. (2019). _The Great Mental Models: General thinking concepts. Latticework Publishing_.
 
 >In order to see a problem for what it is, we must first break it down into its substantive parts so the interconnections can reveal themselves. This bottom-up perspective allows us to expose what we believe to be the causal relationships and how they will govern the situation both now and in the future. Being able to accurately describe the full scope of a situation is the first step to understanding it. Using the lenses of our mental models helps us illuminate these interconnections. The more lenses used on a given problem, the more of reality reveals itself. The more of reality we see, the more we understand. The more we understand, the more we know what to do.
