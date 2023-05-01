@@ -3,13 +3,13 @@ title:  "What are mental models?"
 created: Thursday 27th April 2023 07:09
 ---
 
-Mental models are representations of how something works. They're incredibly important because: 
+Mental models are representations of how something works. They're important because: 
 
 - They help to simplify complex information into understandable and organizable chunks. 
 - They shape our how we think, how we understand, and how we form beliefs, operating largely subconsciously. 
 - They are how we infer causality, match patterns, and draw analogies. 
 
-If we want to learn how to [[Enhance decision-making by reducing blindspots with mental models]] and how to [[Reveal reality through the lens of mental models]], a good place to start would be [[Embracing Munger's multidisciplinary latticework of mental models]]. 
+If we want to learn how to [[Enhance decision-making by overcoming obstacles to learning from reality]] and start to [[Reveal reality through the lens of mental models]], a good place to start would be [[Embracing Munger's multidisciplinary latticework of mental models]]. 
 
 --- 
 ### References

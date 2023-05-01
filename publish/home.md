@@ -13,5 +13,5 @@ excerpt: "Home page"
 - [[What are mental models]]
 - [[Embracing Munger's multidisciplinary latticework of mental models]]
 - [[Reveal reality through the lens of mental models]]
-- [[Overcome obstacles to learning from reality]]
-- [[Enhance decision-making by reducing blindspots with mental models]]
+- [[Enhance decision-making by overcoming obstacles to learning from reality]]
+- [[Using flawed models leads to suboptimal decisions and repeated mistakes]]
