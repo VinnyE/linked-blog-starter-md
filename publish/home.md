@@ -15,7 +15,14 @@ excerpt: "Home page"
 - [[Reveal reality through the lens of mental models]]
 - [[Enhance decision-making by overcoming obstacles to learning from reality]]
 - [[Using flawed models leads to suboptimal decisions and repeated mistakes]]
+
+### The map is not the territory
 - [[The map is not the territory - abstractions must be distinguished from reality]]
 - [[Maps and models simplify complexity with inherent limitations]]
 - [[Continuously update maps and models for accuracy]]
 - [[Embrace critical thinking for effective use of maps and models]]
+
+### Circle of competence
+- [[Utilize your circle of competence for better decision-making]]
+- [[Strengthen your circle of competence with key practices]]
+- [[Navigate unfamiliar domains effectively by leveraging expertise and mental models]]

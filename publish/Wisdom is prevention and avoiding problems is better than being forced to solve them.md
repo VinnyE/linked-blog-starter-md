@@ -1,6 +1,6 @@
 ---
 title:  Wisdom is prevention and avoiding problems is better than being forced to solve them
-created: Friday 28th April 2023 07:20
+created: April 28, 2023
 ---
 
 [[Charlie Munger]] and [[Warren Buffett]] emphasize that mistakes are inevitable and a natural part of decision-making. They believe success comes from structuring life and business to withstand these errors. They advocate for a "remember your helmet" approach, focusing on simplicity and preparedness. But Munger also highlights the importance of prevention as wisdom. In the end, [[Avoiding stupidity is easier than seeking brilliance]]. But since mistakes are inevitable, [[We should aim for antifragility, which allows us to adapt, improve, and thrive in the face of adversity]]

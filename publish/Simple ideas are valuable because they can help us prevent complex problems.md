@@ -1,6 +1,6 @@
 ---
 title: "Simple ideas are valuable because they can help us prevent complex problems"
-created: Monday 1st May 2023 09:11
+created: May 1, 2023
 ---
 
 People often overlook the power of simple ideas, focusing instead on developing specialized knowledge ([[Arm yourself with specific knowledge to achieve greater success, impact, and fulfillment]]) to set themselves apart. However, it is essential to recognize that simple ideas, drawn from various disciplines, can help prevent complex problems and foster a deeper understanding of the interconnectedness of the world ([[Recognize the interconnectedness of the self and the world around us to open a pathway to empathy and understanding]].) [[Wisdom is prevention and avoiding problems is better than being forced to solve them]]. One way to achieve this is by [[Embracing Munger's multidisciplinary latticework of mental models]]. 

@@ -1,7 +1,6 @@
 ---
 title: "Using flawed models leads to suboptimal decisions and repeated mistakes"
-created: Monday 1st May 2023 11:10
-Last modified: Monday 1st May 2023 11:10
+created: May 1, 2023
 ---
 
 When we do not have accurate models for a situation, we make poor decisions and repeat mistakes. This can happen when either our model of reality is wrong (doesn't survive real world experience), or when our model is right but we apply it to the wrong situation. A good example of this is how Doctors believed bloodletting cured many different illnesses, which was ultimately a misunderstanding of the situation, leading to many patient deaths. 

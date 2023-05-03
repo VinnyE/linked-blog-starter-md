@@ -1,6 +1,6 @@
 ---
 title: "Embracing Munger's multidisciplinary latticework of mental models"
-created: Thursday 27th April 2023 07:22
+created: April 27, 2023
 ---
 
 The quality of our thinking and decision-making is greatly influenced by the variety and accuracy of the mental models we employ. Limiting ourselves to specific disciplines can result in a narrow perspective, leading to blind spots and the overuse of familiar models, even when they're not applicable (see: [[Using flawed models leads to suboptimal decisions and repeated mistakes]]). By adopting [[Charlie Munger]]'s approach to building a "broad latticework of mental models" (see: [[What are mental models]]), we can foster multidisciplinary thinking that enables us to identify relevant information and establish practical parameters for problem-solving.

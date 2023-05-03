@@ -1,6 +1,6 @@
 ---
 title: "Enhance decision-making by overcoming obstacles to learning from reality"
-created: Friday 28th April 2023 06:43
+created: April 28, 2023
 ---
 
 When we reduce our blindspots with solid mental models, we come closer to reality. [[Embracing Munger's multidisciplinary latticework of mental models]] is beneficial for this as it helps improve our thinking. We can start to [[Reveal reality through the lens of mental models]] by using simple processes to explore problems from various dimensions and perspectives. This approach leads to better decision-making and finding more effective solutions. However, we need to overcome obstacles to achieve this.
