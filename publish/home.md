@@ -23,6 +23,6 @@ excerpt: "Home page"
 - [[Embrace critical thinking for effective use of maps and models]]
 
 ### Circle of competence
-- [[Utilize your circle of competence for better decision-making]]
+- [[Use your circle of competence for better decision-making]]
 - [[Strengthen your circle of competence with key practices]]
 - [[Navigate unfamiliar domains effectively by leveraging expertise and mental models]]
