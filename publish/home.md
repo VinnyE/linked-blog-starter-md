@@ -26,3 +26,10 @@ excerpt: "Home page"
 - [[Use your circle of competence for better decision-making]]
 - [[Strengthen your circle of competence with key practices]]
 - [[Navigate unfamiliar domains effectively by leveraging expertise and mental models]]
+
+### Falsifiability
+- [[The principle of Falsifiability in Science]]
+- [[Understanding trends and laws in human history]]
+
+### First Principles Thinking
+- [[First principles thinking and its evolving nature]]
