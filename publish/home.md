@@ -33,3 +33,9 @@ excerpt: "Home page"
 
 ### First Principles Thinking
 - [[First principles thinking and its evolving nature]]
+
+### Though Experiments
+- [[Thought experiments]]
+
+### Second-order thinking
+- [[Second-order thinking for holistic decision making]]

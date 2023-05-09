@@ -20,6 +20,8 @@ Parrish, S. (2019). _The Great Mental Models: General thinking concepts. Lattice
 
 > Much like the scientific method, a thought experiment generally has the following steps: Ask a question Conduct background research Construct hypothesis Test with (thought) experiments Analyze outcomes and draw conclusions Compare to hypothesis and adjust accordingly (new question, etc.)
 
+>  Intuiting the non-intuitive: One of the uses of thought experiments is to improve our ability to intuit the non-intuitive. In other words, a thought experiment allows us to verify if our natural intuition is correct by running experiments in our deliberate, conscious minds that make a point clear. 
+
 ### Related Notes
 **Source**: [[The Great Mental Models]]
 **Tags**: #EvergreenNote
