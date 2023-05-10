@@ -39,3 +39,6 @@ excerpt: "Home page"
 
 ### Second-order thinking
 - [[Second-order thinking for holistic decision making]]
+
+### Probabalistic thinking
+- [[Probabalistic thinking]]
