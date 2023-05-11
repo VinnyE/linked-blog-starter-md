@@ -1,5 +1,5 @@
 ---
-title: "Use your circle of competence for better decision-making"
+title: "Circle of competence"
 created: May 3, 2023
 ---
 

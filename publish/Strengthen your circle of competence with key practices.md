@@ -3,7 +3,7 @@ title: "Strengthen your circle of competence with key practices"
 created: May 3, 2023
 ---
 
-The circle of competence (see: [[Use your circle of competence for better decision-making]]) can be developed and maintained through years of experience, learning from mistakes, and actively seeking better methods of practice and thought. We must [[Continuously update maps and models for accuracy]]. Curiosity, monitoring, and feedback are key practices that contribute to building and maintaining a circle of competence. By learning from the experiences of others, we can more effectively expand our knowledge and expertise. Honest self-reporting and keeping a record of our performance (ex: keeping a decision journal) is essential for self-improvement and overcoming ego/overconfidence.
+The circle of competence (see: [[remote-blog/publish/Circle of competence]]) can be developed and maintained through years of experience, learning from mistakes, and actively seeking better methods of practice and thought. We must [[Continuously update maps and models for accuracy]]. Curiosity, monitoring, and feedback are key practices that contribute to building and maintaining a circle of competence. By learning from the experiences of others, we can more effectively expand our knowledge and expertise. Honest self-reporting and keeping a record of our performance (ex: keeping a decision journal) is essential for self-improvement and overcoming ego/overconfidence.
 
 Journaling is an effective way to track our performance, as it allows us to step back from automatic thinking and analyze our successes and failures. It is important to seek external feedback as well, as it provides valuable insights that can help refine our circle of competence. 
 

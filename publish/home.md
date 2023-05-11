@@ -23,7 +23,7 @@ excerpt: "Home page"
 - [[Embrace critical thinking for effective use of maps and models]]
 
 ### Circle of competence
-- [[Use your circle of competence for better decision-making]]
+- [[remote-blog/publish/Circle of competence]]
 - [[Strengthen your circle of competence with key practices]]
 - [[Navigate unfamiliar domains effectively by leveraging expertise and mental models]]
 
@@ -38,7 +38,12 @@ excerpt: "Home page"
 - [[Thought experiments]]
 
 ### Second-order thinking
-- [[Second-order thinking for holistic decision making]]
+- [[Second-order thinking]]
 
 ### Probabalistic thinking
 - [[Probabalistic thinking]]
+
+### Anti-fragility
+- [[The Antifragile Mindset]]
+- [[Upside optionality]]
+- [[Learning how to fail properly]]
