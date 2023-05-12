@@ -3,7 +3,7 @@ title: "The five whys"
 created: May 8, 2023
 ---
 
-The five whys is another technique we can use to uncover [[First principles thinking and its evolving nature]]. Similar to what children often do, the five whys involves repeatedly asking "why?" until you land on a "what" or "how". If this answer is abides is falsifiable (see: [[The principle of Falsifiability in Science]]), then you can likely consider said answer a first principle. Otherwise, the answer may just be the currently accepted dogma or myth. 
+The five whys is another technique we can use to uncover [[First principles thinking and its evolving nature]]. Similar to what children often do, the five whys involves repeatedly asking "why?" until you land on a "what" or "how". If this answer is abides is falsifiable (see: [[The principle of falsifiability in science]]), then you can likely consider said answer a first principle. Otherwise, the answer may just be the currently accepted dogma or myth. 
 
 The five whys are not really a tool for introspection, but more a system for reliably figuring out the roots of a statement or concept. (note to self: seems like it could be useful to [[Navigate unfamiliar domains effectively by leveraging expertise and mental models]]).
 

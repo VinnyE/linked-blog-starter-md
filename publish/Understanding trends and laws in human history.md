@@ -3,7 +3,7 @@ title: "Understanding trends and laws in human history"
 created: May 5, 2023
 ---
 
-In the context of human history, it is important to recognize the distinction between trends and fundamental laws. While certain laws of human biology can be identified and understood, historical trends are subject to change due to varying conditions. Bertrand Russell's example of the chicken being fed every day illustrates this point. The chicken believes the feedings are a guaranteed part of its life, mistaking a trend for a law. However, the feedings abruptly end when the chicken is slaughtered, revealing the trend as a poor predictor of future events. This example demonstrates that trends do not necessarily determine destiny (something [[Karl Popper]] also believed thanks to applying his [[The principle of Falsifiability in Science]]).
+In the context of human history, it is important to recognize the distinction between trends and fundamental laws. While certain laws of human biology can be identified and understood, historical trends are subject to change due to varying conditions. Bertrand Russell's example of the chicken being fed every day illustrates this point. The chicken believes the feedings are a guaranteed part of its life, mistaking a trend for a law. However, the feedings abruptly end when the chicken is slaughtered, revealing the trend as a poor predictor of future events. This example demonstrates that trends do not necessarily determine destiny (something [[Karl Popper]] also believed thanks to applying his [[The principle of falsifiability in science]]).
 
 Related: [[Conditional probability]]
 

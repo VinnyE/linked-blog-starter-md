@@ -1,5 +1,5 @@
 ---
-title: "The principle of Falsifiability in Science"
+title: "The principle of falsifiability in science"
 created: May 5, 2023
 ---
 
