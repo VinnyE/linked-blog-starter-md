@@ -7,7 +7,7 @@ As we move away from the traditional emphasis on strategy development and execut
 
 Interestingly, [[Sam Altman]] also expresses his belief in this view of increasingly leveraging AI to handle complex business tasks in [[A Conversation With OpenAI CEO Sam Altman  Hosted by Elevate]]:
 
- ![[A Conversation With OpenAI CEO Sam Altman  Hosted by Elevate#^2a82f9]]
+>  I think humans will have a role Toby and I were talking earlier this analogy that like everybody's going to be the CEO of like all of the work they want to do and they'll have tons of people that they're able to coordinate and direct and sort of provide the taste and the feedback on um but they'll have like lots of agents for lack of a better word that go off and do increasingly complex tasks
 
 ---
 ### References
