@@ -3,11 +3,13 @@ title:  "Reveal reality through the lens of mental models"
 created: April 27, 2023
 ---
 
-The first step in understanding a problem is accurately describing the full scope of the situation. To truly grasp a problem, we need to break it down into its fundamental components. By comprehending the basic elements, we can unveil the interconnections and causal relationships (see: [[First principles thinking and its evolving nature]]). Applying various mental models (see: [[What are mental models]]) helps highlight these connections and allows us to perceive more of reality. That's why [[Embracing Munger's multidisciplinary latticework of mental models]] is beneficial.
+The first step in understanding a problem is accurately describing the full scope of the situation. To truly grasp a problem, we need to break it down into its fundamental components. By comprehending the basic elements, we can unveil the interconnections and causal relationships (see: [[First principles thinking and its evolving nature]] and [[The bulletproof problem solving framework]]). Applying various mental models (see: [[What are mental models]]) helps highlight these connections and allows us to perceive more of reality. That's why [[Embracing Munger's multidisciplinary latticework of mental models]] is beneficial.
 
 Remember, the more accurately our models represent reality, the more they improve our thought process (see: [[Enhance decision-making by overcoming obstacles to learning from reality]]). Once we understand a problem, we can better anticipate second, third, and fourth-order consequences, guiding us in choosing actions to take or avoid (see: [[Wisdom is prevention and avoiding problems is better than being forced to solve them]]). [[The true value of comprehension emerges when it leads to meaningful changes in our actions and behavior]]
 
 Understanding is not a one-time action. We must continually test our understanding against reality to refine mental models and adapt to new information. A helpful mental model to consider in this context is [[Bayesian thinking]].
+
+Related: [[Problem solving is a vital skill in the 21st century]]
 
 --- 
 ### References

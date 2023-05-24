@@ -9,6 +9,7 @@ Poor decisions and repeat mistakes can also lead unnecessary stress, anxiety and
 
 Suboptimal decisions and repeated mistakes also stem from not being rooted in the present. Repeated mistakes can often compound when we fail to update our models and refuse to see reality for what it is right now. See [[Beyond The First Mistake]].
 
+Related: [[Avoiding common pitfalls is key to effective problem solving]]
 
 ---
 ### References
