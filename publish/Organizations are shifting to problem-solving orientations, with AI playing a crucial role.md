@@ -9,6 +9,20 @@ Interestingly, [[Sam Altman]] also expresses his belief in this view of increasi
 
 >  I think humans will have a role Toby and I were talking earlier this analogy that like everybody's going to be the CEO of like all of the work they want to do and they'll have tons of people that they're able to coordinate and direct and sort of provide the taste and the feedback on um but they'll have like lots of agents for lack of a better word that go off and do increasingly complex tasks
 
+
+### West: Similar
+
+
+### East: Opposite
+
+
+### North: Theme / Question
+- What does this mean for solopreneurship? As we rely more on machines/agents to do the work, the value of individuals that can break apart problems and delegate specific problems to agents well goes up. Smaller personal teams means less overhead, and likely increased agility. You can be more nimble with a team of 1 and an army of machines. Organizations with thousands of people are likely to be a little slower in being able to pivot a strategy, but may have other benefits. #build 
+
+### South: What does this lead to?
+- 
+
+
 ---
 ### References
 
