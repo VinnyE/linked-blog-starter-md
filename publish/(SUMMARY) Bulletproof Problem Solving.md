@@ -6,5 +6,11 @@
 - [[Organizations are shifting to problem-solving orientations, with AI playing a crucial role]]
 - [[Avoiding common pitfalls is key to effective problem solving]]
 
+### Chapter One Learn the Bulletproof Problem Solving Approach
+- [[One-day answer]]
+- [[Logic Trees]]
+
+### Chapter Two Define the Problem
+- [[Getting problem definition right, including boundaries, is essential to good problem solving and can be a competitive advantage]]
 
 Source: [[Bulletproof Problem Solving]]
