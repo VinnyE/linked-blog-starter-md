@@ -13,6 +13,8 @@ Deductive and inductive logic trees form the basis of more complex problem-solvi
 
 On the other hand, inductive logic trees, based on inductive reasoning, work from specific observations towards general principles. These are employed when general principles behind the problem are less known, but specific case data or insights are available. These trees display probabilistic relationships rather than causal ones. It is not uncommon to employ both deductive and inductive reasoning while working on the initial tree.
 
+Note: [[We should be careful with inductive reasoning and the kind of logical leaps that can result from it]]
+
 ![[logic-tree-types.png]]
 
 ---
