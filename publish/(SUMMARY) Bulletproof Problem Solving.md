@@ -8,9 +8,13 @@
 
 ### Chapter One Learn the Bulletproof Problem Solving Approach
 - [[One-day answer]]
-- [[Logic Trees]]
+- [[Dissecting a problem and utilizing logic trees streamlines problem-solving]]
 
 ### Chapter Two Define the Problem
 - [[Getting problem definition right, including boundaries, is essential to good problem solving and can be a competitive advantage]]
+
+### Chapter Three Problem Disaggregation and Prioritization
+- [[Dissecting a problem and utilizing logic trees streamlines problem-solving]]
+- [[Prioritization and theoretical constructs, aka cleaving frames, enhance efficiency in problem-solving]]
 
 Source: [[Bulletproof Problem Solving]]

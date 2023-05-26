@@ -16,7 +16,7 @@ good problem solving.
 
 *NOTE: This is the most important step*
 >Step 2: Disaggregate the issues
-Once the problem is defined, It must be disaggregated (or broken down) into component parts or issues. We employ [[Logic Trees]] of various types to elegantly disassemble problems into parts
+Once the problem is defined, It must be disaggregated (or broken down) into component parts or issues. We employ [[Dissecting a problem and utilizing logic trees streamlines problem-solving]] of various types to elegantly disassemble problems into parts
 for analysis, driving from alternative hypotheses of the answer. There is both an art and science to "cleaving problems-revealing their fault lines-that drives better solutions. This is the stage
 at which theoretical frameworks from economics and science provide useful guides to better understanding the drivers of your problem solution. We usually try several different cuts at
 disaggregation to see which yields the most Insight.
