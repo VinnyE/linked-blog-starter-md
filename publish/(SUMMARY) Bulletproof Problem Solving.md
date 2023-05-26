@@ -16,6 +16,5 @@
 ### Chapter Three Problem Disaggregation and Prioritization
 - [[Dissecting a problem and utilizing logic trees streamlines problem-solving]]
 - [[Prioritization and theoretical constructs, aka cleaving frames, enhance efficiency in problem-solving]]
-k
 
 Source: [[Bulletproof Problem Solving]]

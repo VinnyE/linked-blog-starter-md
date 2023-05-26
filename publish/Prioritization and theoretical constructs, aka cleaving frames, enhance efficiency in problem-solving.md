@@ -9,6 +9,10 @@ Successful problem solvers often utilize theoretical constructs or frameworks ([
 
 **Word of caution**: One must be cautious not to get too attached to their initial problem perspective or rely too heavily on external views (especially when dealing with problems outside of your [[Circle of competence]]), as these could lead to misapplication of frames. Regular constructive challenging, brainstorming, and asking "what you'd have to believe" questions can stimulate creative solutions and avoid cognitive bias. Remember, we must [[Continuously update maps and models for accuracy]] and [[Using flawed models leads to suboptimal decisions and repeated mistakes]].
 
+![[individual-cleaving-frames.png]]
+![[business-cleaving-frames.png]]
+![[social-cleaving-frames.png]]
+
 ---
 ### References
 
