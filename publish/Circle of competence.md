@@ -1,6 +1,6 @@
 ---
 title: "Circle of competence"
-created: May 3, 2023
+created: 2023-05-03
 ---
 
 The circle of competence is a mental model (see: [[What are mental models]]) which represents the areas of expertise and knowledge where an individual excels. It is the domain(s) that you're intimately familiar with and comfortable in making successful decisions that take into account multiple variables. Understanding and acknowledging one's circle of competence is crucial for making better decisions and achieving successful outcomes. It is important to recognize the limits of our knowledge and expertise, as well as where we have an edge over others. This awareness helps us identify our vulnerabilities and areas for improvement (see: [[Enhance decision-making by overcoming obstacles to learning from reality]]). 

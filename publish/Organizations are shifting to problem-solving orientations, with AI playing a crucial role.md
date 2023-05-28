@@ -1,6 +1,6 @@
 ---
 title: "Organizations are shifting to problem-solving orientations, with AI playing a crucial role"
-created: May 24, 2023
+created: 2023-05-24
 ---
 
 As we move away from the traditional emphasis on strategy development and execution, organizations are becoming more agile and are evolving into problem-solving entities. This shift requires honing complex problem-solving and critical thinking skills ([[Problem solving is a vital skill in the 21st century]]), also referred to as mental muscle. Further, advances in machine learning are increasingly being used to enhance problem-solving efforts. This machine muscle frees human problem solvers from computational drudgery, amplifying pattern recognition capabilities and enabling faster organizational response to external challenges.

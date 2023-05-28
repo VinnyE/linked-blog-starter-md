@@ -1,6 +1,6 @@
 ---
 title: "Inversion"
-created: May 12, 2023
+created: 2023-05-12
 ---
 
 Inversion, another sort of mental model (see: [[What are mental models]]), involves reimagining a problem or situation by approaching it from its opposite end. Instead of merely progressing forward in a linear fashion, inversion encourages backward thinking, thereby providing a more comprehensive and varied understanding of a problem. This technique can prove instrumental in avoiding potential pitfalls and achieving success, underscoring the adage that averting mistakes is often simpler than striving for brilliance (see: [[Wisdom is prevention and avoiding problems is better than being forced to solve them]]).

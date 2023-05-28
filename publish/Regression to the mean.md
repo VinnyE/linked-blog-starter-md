@@ -1,6 +1,6 @@
 ---
 title: "Regression to the mean"
-created: May 12, 2023
+created: 2023-05-12
 ---
 
 A critical concept that often gets overlooked in the context of [[Correlation vs Causation]] is the idea of regression to the mean. This statistical phenomenon signifies that over time, exceptionally high or low outcomes tend to move closer to the average. This means that the top performers might seem to deteriorate, and the worst performers may appear to improve, regardless of any additional interventions. This principle is commonly disregarded, even by trained scientists and the media, leading to misconstrued interpretations of causality (see: [[Using flawed models leads to suboptimal decisions and repeated mistakes]]).

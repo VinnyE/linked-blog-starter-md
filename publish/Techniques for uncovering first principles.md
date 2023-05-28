@@ -1,6 +1,6 @@
 ---
 title:  "Techniques for uncovering first principles"
-created: May 8, 2023
+created: 2023-05-08
 ---
 
 To effectively identify the principles at play in any situation, one can employ techniques such as [[Socratic questioning]] and [[The five whys]]. These methods promote critical thinking, help distinguish between reliable knowledge and assumptions, and ultimately enable us to uncover the underlying principles.

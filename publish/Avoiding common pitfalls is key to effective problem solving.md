@@ -1,11 +1,14 @@
 ---
 title: "Avoiding common pitfalls is key to effective problem solving"
-created: May 24, 2023
+created: 2023-05-24
 ---
 
 Effective problem-solving practices can be hampered by several common mistakes. These include weak problem statements lacking in specificity, assertions of solutions based on experience or analogy without proper testing (Maybe outside of your [[Circle of competence]]), failure to break down the problem into component parts ([[Techniques for uncovering first principles]]), neglecting team structure and norms, not having a complete analytical tool set, and failing to link conclusions to a course of action ([[The true value of comprehension emerges when it leads to meaningful changes in our actions and behavior]]). It is important to recognize and avoid these pitfalls for successful problem-solving.
 
-Related: [[Wisdom is prevention and avoiding problems is better than being forced to solve them]], [[Using flawed models leads to suboptimal decisions and repeated mistakes]]
+Related:
+- [[Problem solving is a vital skill in the 21st century]]
+- [[Wisdom is prevention and avoiding problems is better than being forced to solve them]]
+- [[Using flawed models leads to suboptimal decisions and repeated mistakes]]
 
 ---
 ### References

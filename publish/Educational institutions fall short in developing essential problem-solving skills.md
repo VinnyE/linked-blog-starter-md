@@ -1,6 +1,6 @@
 ---
 title: "Educational institutions fall short in developing essential problem-solving skills"
-created: May 24, 2023
+created: 2023-05-24
 ---
 
 Despite the clear need for advanced problem-solving abilities ([[Problem solving is a vital skill in the 21st century]]), current methods of teaching in schools and universities are not adequately developing these skills. The nature of problem-solving goes beyond just applying the knowledge of reading, mathematics, and science. It requires the ability to deal with complexity and uncertainty (one more reason to start [[Embracing Munger's multidisciplinary latticework of mental models]] and [[Reveal reality through the lens of mental models]]), often when obvious solutions are not available. Critical thinking skills such as creativity, logic, and reasoning are fundamental to problem-solving and must be emphasized in education.

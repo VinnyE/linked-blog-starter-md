@@ -1,6 +1,6 @@
 ---
 title: "Conditional probability"
-created: May 10, 2023
+created: 2023-05-10
 ---
 
 Conditional probability is a concept within [[Probabalistic thinking]] that focuses on the conditions surrounding historical events when making predictions. It differentiates between independent and dependent events, where the outcomes of dependent events are conditional on preceding events. Understanding conditional probability helps [[Enhance decision-making by overcoming obstacles to learning from reality]] by considering the context of past events and adjusting predictions based on those conditions.

@@ -1,6 +1,6 @@
 ---
 title: "Dissecting a problem and utilizing logic trees streamlines problem-solving"
-created: May 25, 2023
+created: 2023-05-25
 ---
 
 Effective problem-solving requires a meticulous approach that breaks down the problem into manageable, logical components. This approach helps to identify the root causes (see: [[First principles thinking and its evolving nature]]) of the problem and potential pathways to the solution. By dissecting the problem in this manner, we can also discern the aspects that may be too challenging to alter or do not contribute significantly to the problem, and hence, could be set aside. 

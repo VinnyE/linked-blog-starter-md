@@ -1,6 +1,6 @@
 ---
 title: "Problem solving is a vital skill in the 21st century"
-created: May 24, 2023
+created: 2023-05-24
 ---
 
 According to the authors of [[Bulletproof Problem Solving]], problem solving is decision making when there is complexity and uncertainty that rules out obvious answers ([[Enhance decision-making by overcoming obstacles to learning from reality]]), and where there are are consequences that make the work to get good answers worth it. 
@@ -9,11 +9,14 @@ In a rapidly changing world, with accelerating advancements in technology and sh
 
 Problem-solving is not confined to a specific job role or industry; organizations across all sectors are realizing its importance. Whether you work in the corporate world or on the inspection line of a plant, the ability to see and organize responses to problems has become a core requisite. The world today doesn't merely reward knowledge—it rewards the ability to apply knowledge in resolving complex issues. [[The true value of comprehension emerges when it leads to meaningful changes in our actions and behavior]]
 
-Also note: Problem solving is an iterative process, not a linear one. The cycle can be completed over any timeframe with the current information. Once you reach an initial endpoint, yo ucan repeat the process for more insights or to gain a deeper understanding. 
+Also note: Problem solving is an iterative process, not a linear one. The cycle can be completed over any timeframe with the current information. Once you reach an initial endpoint, you can repeat the process for more insights or to gain a deeper understanding. 
 
 A counter to this: [[Wisdom is prevention and avoiding problems is better than being forced to solve them]]
 
-Related: [[What are mental models]]
+Related:
+- [[What are mental models]]
+- [[The bulletproof problem solving framework]]
+- [[Navigating wild problems shapes personal identity and growth]]
 
 ---
 ### References

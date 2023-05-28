@@ -1,6 +1,6 @@
 ---
 title: "Applications and benefits of thought experiments"
-created: May 8, 2023
+created: 2023-05-08
 ---
 
 By transcending physical limitations, [[Thought experiments]] help us examine scenarios from multiple perspectives, enhancing our understanding of various subjects. They enable us to re-imagine history through historical counter-factual and semi-factual scenarios, pondering alternate outcomes had certain events happened differently. The technique has been employed by renowned thinkers, such as Albert Einstein, who used it to examine problems that were difficult or impossible to solve physically. In our everyday lives, we use thought experiments when we ponder hypothetical scenarios, such as what we would do if money or time were not constraints. These mental exercises help us gain insights into our values and priorities.

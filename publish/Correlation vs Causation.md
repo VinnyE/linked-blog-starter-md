@@ -1,6 +1,6 @@
 ---
 title: "Correlation vs Causation"
-created: May 12, 2023
+created: 2023-05-12
 ---
 
 Correlation vs Causation is another sort of mental model we can use (see: [[What are mental models]]). It is closely related to [[Probabalistic thinking]].

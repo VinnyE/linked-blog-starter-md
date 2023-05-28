@@ -1,6 +1,6 @@
 ---
 title: "Force field analysis"
-created: May 12, 2023
+created: 2023-05-12
 ---
 
 Force field analysis is a decision-making technique developed by Kurt Lewin, a social psychologist, in the 1940s. This technique is used to evaluate the forces that are driving and resisting a proposed change.

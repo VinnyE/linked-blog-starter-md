@@ -1,6 +1,6 @@
 ---
 title: "Learning how to fail properly"
-created: May 11, 2023
+created: 2023-05-11
 ---
 
 Learning how to fail properly is a key concept (along with [[Upside optionality]]) to absorb if we want to learn how to arm ourselves with [[The Antifragile Mindset]]. 

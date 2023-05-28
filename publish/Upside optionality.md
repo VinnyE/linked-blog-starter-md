@@ -1,6 +1,6 @@
 ---
 title: "Upside optionality"
-created: May 11, 2023
+created: 2023-05-11
 ---
 
 Upside optionality is a concept that refers to the potential for positive outcomes or gains in a given situation, often with minimal or limited downside risk. It is the idea of seeking out and engaging in opportunities that have a higher probability of resulting in a favorable outcome, while the downside or negative consequences are either limited or manageable.

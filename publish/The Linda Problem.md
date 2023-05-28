@@ -1,6 +1,6 @@
 ---
 title: "The Linda Problem"
-created: May 12, 2023
+created: 2023-05-12
 ---
 
 The Linda Problem is a well-known illustration of a cognitive bias called [[The Fallacy of Conjunction]], which was demonstrated by psychologists Amos Tversky and Daniel Kahneman. The problem is presented as follows:

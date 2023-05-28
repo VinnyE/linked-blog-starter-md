@@ -1,6 +1,6 @@
 ---
 title: "The true value of comprehension emerges when it leads to meaningful changes in our actions and behavior"
-created: May 1, 2023
+created: 2023-05-01
 ---
 
 It's not what you know that's important, it's what you do with what you know. We can consume a limitless amount of content via books, articles, and videos. But knowledge only becomes useful when our actions and behaviors change as a result. 

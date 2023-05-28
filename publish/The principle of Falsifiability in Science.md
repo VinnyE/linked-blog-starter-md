@@ -1,6 +1,6 @@
 ---
 title: "The principle of falsifiability in science"
-created: May 5, 2023
+created: 2023-05-05
 ---
 
 [[Karl Popper]] emphasized the importance of falsifiability in determining the validity of a scientific theory. According to Popper, a theory can only be considered a part of empirical science if it can be proven wrong under specific conditions. This concept of falsifiability not only adds an element of risk to a theory, but also ensures its testability. If a predicted effect fails to materialize, then the theory can be refuted, strengthening the scientific method. 

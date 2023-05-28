@@ -1,6 +1,6 @@
 ---
 title: "The Fallacy of Conjunction"
-created: May 12, 2023
+created: 2023-05-12
 ---
 
 The "Fallacy of Conjunction," as demonstrated by Kahneman and Tversky, is an example of how our perceptions can be skewed by vivid, readily available information. The researchers showed that people often make judgments that defy logic, influenced by the compelling nature of the details presented to them. In essence, our brain sometimes fails to rationally process information, especially when it's presented in a particular light or aligned with our pre-existing beliefs. This mental bias leads us to overreach in our conclusions, often tying in unrelated factors merely because they coincide with what we already presume to be true (See: [[Correlation vs Causation]]).

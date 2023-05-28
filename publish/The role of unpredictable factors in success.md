@@ -1,6 +1,6 @@
 ---
 title: "The role of unpredictable factors in success"
-created: May 9, 2023
+created: 2023-05-09
 ---
 
 Becoming a published author requires strong writing skills (see: [[Strengthen your circle of competence with key practices]]), but that alone is not enough to guarantee one will attain the level of success enjoyed by J.K. Rowling. Factors like luck, chance, and other elements beyond our control often play a significant role in determining the level of success we achieve. By acknowledging this distinction, we can avoid being misled by stories that might oversimplify the path to success. Ultimately, while certain necessary conditions are crucial for achieving our goals, it is essential to recognize that these alone may not be sufficient, and factors like luck and chance can significantly impact our journey (see: [[The difference between necessary and sufficient conditions for success]].)

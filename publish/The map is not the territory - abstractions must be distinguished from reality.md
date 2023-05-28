@@ -1,6 +1,6 @@
 ---
 title: "The map is not the territory - abstractions must be distinguished from reality"
-created: May 2, 2023
+created: 2023-05-02
 ---
 
 Our understanding of the world is inherently limited by the abstractions we use to navigate it. The concept of "the map is not the territory," introduced by mathematician Alfred Korzybski, emphasizes that the description or model of a thing is not the thing itself. It is a sort of mental model (see: [[What are mental models]]) that emphasizes that the map is an abstraction and not the actual territory. 

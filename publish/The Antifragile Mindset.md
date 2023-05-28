@@ -1,6 +1,6 @@
 ---
 title: "The Antifragile Mindset"
-created: May 11, 2023
+created: 2023-05-11
 ---
 
 In an inherently unpredictable and volatile world (especially now with AI), the best way to thrive is to develop an antifragile mindset. This involves embracing and benefiting from volatility and unpredictability, rather than attempting to predict or control them. The key to success in such an environment is to prepare for the unexpected rather than futilely attempting to predict it. 

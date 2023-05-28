@@ -1,6 +1,6 @@
 ---
 title: "Avoiding paralysis and slippery slope effect in second-order thinking"
-created: May 9, 2023
+created: 2023-05-09
 ---
 
 [[Second-order thinking]] must be balanced to avoid the slippery slope effect, wherein we become paralyzed by the fear of potential consequences. We've been seeing some of this at play recently with AI doomers who are afraid that we wont be able to align AGI and they'll end up wiping out humanity. 

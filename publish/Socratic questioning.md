@@ -1,6 +1,6 @@
 ---
 title:  "Socratic questioning"
-created: May 5, 2023
+created: 2023-05-05
 ---
 
 Socratic questioning is a disciplined and systematic approach to uncovering [[First principles thinking and its evolving nature]], separating reliable knowledge from ignorance, and identifying underlying assumptions. Unlike ordinary discussions, Socratic questioning aims to extract foundational concepts through a rigorous process. 

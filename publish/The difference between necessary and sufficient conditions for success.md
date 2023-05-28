@@ -1,6 +1,6 @@
 ---
 title: "The difference between necessary and sufficient conditions for success"
-created: May 9, 2023
+created: 2023-05-09
 ---
 
 Often, we tend to assume that fulfilling the necessary conditions for a particular goal or outcome means we have satisfied all the sufficient conditions needed for its achievement. However, this is not always the case. The distinction between the two is crucial to understanding the unpredictable nature of success (see: [[The role of unpredictable factors in success]]). The set of necessary conditions to achieve success is only a subset of the larger set of sufficient conditions required for the same. The sufficient set is much larger and more complex than the necessary set, containing variables that are often beyond our control or prediction. The more we can [[Reveal reality through the lens of mental models]], the better we can picture the variables involved in the sufficient set. 

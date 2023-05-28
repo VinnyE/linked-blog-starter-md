@@ -1,6 +1,6 @@
 ---
 title: "Occam's Razor"
-created: May 12, 2023
+created: 2023-05-12
 ---
 
 The principle of Occam's Razor advocates for simplicity as a guiding factor in understanding and explaining phenomena. This mental model (see: [[What are mental models]]) posits that the simplest explanation — that is, the one with the fewest assumptions or "moving parts" — is often the most accurate. By applying Occam's Razor, we can sift through numerous complex scenarios and identify the most likely truth with greater confidence and efficiency.

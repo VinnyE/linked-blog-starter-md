@@ -1,6 +1,6 @@
 ---
 title: "First principles thinking and its evolving nature"
-created: May 5, 2023
+created: 2023-05-05
 ---
 
 First principles are foundational concepts that guide our understanding and decision-making in various situations. However, they do not represent an unchanging set of truths. As our knowledge evolves, so do our first principles (see: [[Continuously update maps and models for accuracy]]). They serve as the boundaries within which we operate, and by breaking down complex ideas into their core principles (see: [[Simple ideas are valuable because they can help us prevent complex problems]]), we can challenge traditional assumptions and generate novel solutions.

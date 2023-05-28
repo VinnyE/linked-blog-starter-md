@@ -1,6 +1,6 @@
 ---
 title: "Recognize the interconnectedness of the self and the world around us to open a pathway to empathy and understanding"
-created: April 30, 2023
+created: 2023-04-30
 ---
   
 The interconnectedness between ourselves, others, and the world around us shapes our understanding of love, learning, and creative expression. When we realize how connected we are, we feel thankful for what others have done and want to share our own unique talents with the world. In doing so, we cultivate empathy, compassion, and understanding, enriching our own lives and the lives of those around us, while fostering a cycle of growth and learning that benefits all.

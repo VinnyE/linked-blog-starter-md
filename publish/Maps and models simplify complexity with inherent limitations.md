@@ -1,6 +1,6 @@
 ---
 title: "Maps and models simplify complexity with inherent limitations"
-created: May 2, 2023
+created: 2023-05-02
 ---
 
 In our daily lives, we rely on a variety of maps, models, and abstractions to simplify complex concepts and navigate reality (see: [[The map is not the territory - abstractions must be distinguished from reality]]). From financial statements to policy documents, these tools serve as valuable guides that help us simplify intricate information and make decisions more efficiently. However, it is crucial to remember that these representations are not perfect reflections of reality; they are reductions and subject to the biases and limitations of their creators. The best maps are still imperfect and may represent a snapshot of a point in time, which might not accurately reflect the current situation. This is why we need to [[Continuously update maps and models for accuracy]].

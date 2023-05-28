@@ -1,6 +1,6 @@
 ---
 title: "Hanlon's Razor"
-created: May 12, 2023
+created: 2023-05-12
 ---
 
 Hanlon's Razor is a mental model (see: [[What are mental models]]) that guides us to attribute the cause of an incident to incompetence or misunderstanding rather than malicious intent. This principle encourages us to evaluate situations more objectively, avoiding the trap of paranoia and ideologically driven assumptions. In a complex world, it's crucial to consider the possibility of errors or misunderstandings rather than immediately jumping to the conclusion of malevolence. This perspective allows us to explore other plausible explanations and, in doing so, opens the door to solutions and opportunities we might otherwise overlook.

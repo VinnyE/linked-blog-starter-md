@@ -1,6 +1,6 @@
 ---
 title: "Building trust and enhancing persuasion with second-order thinking"
-created: May 9, 2023
+created: 2023-05-09
 ---
 
 Applying [[Second-order thinking]] to our relationships can foster trust and cooperation, as [focusing on win-win interactions generates long-term benefits](https://twitter.com/dickiebush/status/1655226056394039301). This approach also helps us avoid short-term gains that may cause problems down the line, thereby saving time and effort in the future. After all, [[Wisdom is prevention and avoiding problems is better than being forced to solve them]]. 

@@ -1,6 +1,6 @@
 ---
 title: "Thought experiments"
-created: May 8, 2023
+created: 2023-05-08
 ---
 
 Thought experiments are another mental model (see: [[What are mental models]]) we can rely on to [[Enhance decision-making by overcoming obstacles to learning from reality]]. They serve as powerful tools for exploring diverse aspects of the world (see: [[Thought experiments in ethics, morality, and society]]) and human nature by engaging our imagination and intuition. These imaginative exercises allow us to investigate the nature of things, learn from past mistakes, evaluate potential consequences, and make better decisions without incurring physical costs (see: [[Applications and benefits of thought experiments]]). 

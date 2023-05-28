@@ -1,6 +1,6 @@
 ---
 title: "Arm yourself with specific knowledge to achieve greater success, impact, and fulfillment"
-created: May 1, 2023
+created: 2023-05-01
 ---
 
 Specific knowledge is a unique set of skills and understanding that is difficult to teach and often comes from a person's innate talents, genuine curiosity, and passion. It involves having a deep understanding of a particular domain and being able to make critical judgments and decisions within that field. This type of knowledge is often found at the edge of existing knowledge, making it valuable and sought after. 

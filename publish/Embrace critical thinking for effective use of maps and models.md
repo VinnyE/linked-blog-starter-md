@@ -1,6 +1,6 @@
 ---
 title: "Embrace critical thinking for effective use of maps and models"
-created: May 2, 2023
+created: 2023-05-02
 ---
 
 To use maps and models accurately, we should consider three key aspects: reality as the ultimate update (see: [[Continuously update maps and models for accuracy]]), the subjectivity of the cartographer, and the potential for maps to influence territories. By embracing critical thinking and recognizing the limitations of maps and models (see: [[Maps and models simplify complexity with inherent limitations]]), we can make better decisions and more effectively navigate the ever-changing landscape of reality. It's essential not to assume that maps or models provide an objective view but rather to consider them in the context they were created. We must be cautious about attempting to force reality to conform to a model, as this can result in unintended consequences. [[Using flawed models leads to suboptimal decisions and repeated mistakes]].

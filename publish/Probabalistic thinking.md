@@ -1,6 +1,6 @@
 ---
 title: "Probabalistic thinking"
-created: May 10, 2023
+created: 2023-05-10
 ---
 
 Probabilistic thinking is a powerful mental model (see: [[What are mental models]]) that employs mathematical and logical principles to estimate the likelihood of specific outcomes. It enables more precise and effective decisions in a complex world and forms the foundation for understanding key concepts such as [[Bayesian thinking]] and [[Conditional probability]]. 

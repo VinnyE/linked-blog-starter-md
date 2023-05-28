@@ -1,6 +1,6 @@
 ---
 title: "Strengthen your circle of competence with key practices"
-created: May 3, 2023
+created: 2023-05-03
 ---
 
 The circle of competence (see: [[remote-blog/publish/Circle of competence]]) can be developed and maintained through years of experience, learning from mistakes, and actively seeking better methods of practice and thought. We must [[Continuously update maps and models for accuracy]]. Curiosity, monitoring, and feedback are key practices that contribute to building and maintaining a circle of competence. By learning from the experiences of others, we can more effectively expand our knowledge and expertise. Honest self-reporting and keeping a record of our performance (ex: keeping a decision journal) is essential for self-improvement and overcoming ego/overconfidence.

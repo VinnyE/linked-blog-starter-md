@@ -1,6 +1,6 @@
 ---
 title: "Continuously update maps and models for accuracy"
-created: May 2, 2023
+created: 2023-05-02
 ---
 
 Mistaking the map for reality can lead to overconfidence and failure to adapt to a changing environment (see: [[Using flawed models leads to suboptimal decisions and repeated mistakes]]). As reality evolves, our understanding must also adapt to maintain accuracy. Good maps are built through feedback loops created by explorers who share their experiences and knowledge. Continuously updating maps and models allows us to adapt to a changing environment and make well-informed decisions (see: [[Reveal reality through the lens of mental models]]) while being aware that [[Maps and models simplify complexity with inherent limitations]]. 

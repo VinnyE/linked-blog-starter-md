@@ -1,6 +1,6 @@
 ---
 title: "Prioritization and theoretical constructs, aka cleaving frames, enhance efficiency in problem-solving"
-created: May 26, 2023
+created: 2023-05-27
 ---
 
 Prioritizing which parts of the problem to address first is critical, especially before substantial time and effort are invested in planning and analysis. A 2x2 matrix, considering the impact of your efforts and your ability to influence a problem lever or branch, can be an effective tool for this prioritization process.

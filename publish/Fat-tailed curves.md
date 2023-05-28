@@ -1,6 +1,6 @@
 ---
 title: "Fat-tailed curves"
-created: May 10, 2023
+created: 2023-05-10
 ---
 
 Fat-tailed curves is a concept within [[Probabalistic thinking]] that represent distributions with a higher probability of extreme events compared to bell curves, which have predictable extremities with limited deviation from the mean. 

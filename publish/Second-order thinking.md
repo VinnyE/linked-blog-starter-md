@@ -1,6 +1,6 @@
 ---
 title: "Second-order thinking for holistic decision making"
-created: May 9, 2023
+created: 2023-05-09
 ---
 
 First-order thinking involves anticipating the immediate results of our actions, which is relatively simple and safe but often yields similar outcomes to those of others. In contrast, second-order thinking, another sort of mental models (see: [[What are mental models]]), involves considering both the immediate consequences of our actions and their subsequent effects. Doing so allows us to think more holistically and plan further ahead (see: [[Enhance decision-making by overcoming obstacles to learning from reality]]). 

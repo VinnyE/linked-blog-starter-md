@@ -1,6 +1,6 @@
 ---
 title: "Asymmetries"
-created: May 10, 2023
+created: 2023-05-11
 ---
 
 Asymmetries is a concept within [[Probabalistic thinking]] that refers to an imbalance or unequal distribution of outcomes, which can be important when dealing with complex or unpredictable systems. Recognizing and accounting for asymmetries in decision-making processes can lead to a better understanding of potential outcomes of a situation. Yet another way we can [[Enhance decision-making by overcoming obstacles to learning from reality]]

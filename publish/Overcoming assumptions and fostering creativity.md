@@ -1,6 +1,6 @@
 ---
 title: "Overcoming assumptions and fostering creativity"
-created: May 8, 2023
+created: 2023-05-08
 ---
 
 To be truly creative, we need to challenge conventional wisdom and break down concepts into their fundamental principles. Relying on others' ideas and methods without understanding the rationale behind them can limit innovation and lead to costly mistakes. One way we can do this is by relying on [[First principles thinking and its evolving nature]]. 

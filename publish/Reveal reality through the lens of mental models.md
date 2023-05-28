@@ -1,6 +1,6 @@
 ---
 title:  "Reveal reality through the lens of mental models"
-created: April 27, 2023
+created: 2023-04-27
 ---
 
 The first step in understanding a problem is accurately describing the full scope of the situation. To truly grasp a problem, we need to break it down into its fundamental components. By comprehending the basic elements, we can unveil the interconnections and causal relationships (see: [[First principles thinking and its evolving nature]] and [[The bulletproof problem solving framework]]). Applying various mental models (see: [[What are mental models]]) helps highlight these connections and allows us to perceive more of reality. That's why [[Embracing Munger's multidisciplinary latticework of mental models]] is beneficial.

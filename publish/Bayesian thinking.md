@@ -1,6 +1,6 @@
 ---
 title: "Bayesian thinking"
-created: May 10, 2023
+created: 2023-05-10
 ---
 
 Bayesian thinking is a key concept in [[Probabalistic thinking]] that involves updating our beliefs based on new information while considering prior beliefs. This approach enables the usage of all relevant prior information when making decisions, leading to more accurate predictions and decisions. 

@@ -1,6 +1,6 @@
 ---
 title:  "What are mental models?"
-created: April 27, 2023
+created: 2023-04-27
 ---
 
 Mental models are representations of how something works. They're important because: 

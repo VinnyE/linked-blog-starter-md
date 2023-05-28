@@ -1,6 +1,6 @@
 ---
 title: "Torches of Freedom"
-created: May 12, 2023
+created: 2023-05-12
 ---
 
 Torches of Freedom is a master class by [[Edward Bernays]] in applying the principle of [[Inversion]] to great success. 

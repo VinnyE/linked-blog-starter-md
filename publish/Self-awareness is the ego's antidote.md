@@ -1,6 +1,6 @@
 ---
 title: "Self-awareness is the ego's antidote"
-created: April 28, 2023
+created: 2023-04-28
 ---
 
 While the ego can sometimes be an obstacle (see: [[Enhance decision-making by overcoming obstacles to learning from reality]]), it also drives us to achieve great things. Being self-aware helps us determine when the ego is helpful and when it holds us back. By focusing on outcomes rather than our own self-image, we can maintain a healthy balance between ego and self-awareness.

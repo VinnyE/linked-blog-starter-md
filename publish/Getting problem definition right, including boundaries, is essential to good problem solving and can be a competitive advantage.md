@@ -1,6 +1,6 @@
 ---
 title: "Getting problem definition right, including boundaries, is essential to good problem solving and can be a competitive advantage"
-created: May 25, 2023
+created: 2023-05-25
 ---
 
 In order to get a good definition of a problem, you need a solid problem statement. What are you trying to solve?

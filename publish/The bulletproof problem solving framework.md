@@ -1,6 +1,6 @@
 ---
 title: "The bulletproof problem solving framework"
-created: May 24, 2023
+created: 2023-05-24
 ---
 
 [[Problem solving is a vital skill in the 21st century]]. The Bulletproof Problem Solving approach is a systematic seven-step framework designed to facilitate effective problem-solving. It was first developed at McKinsey & Co. It is both consistent and complementary with design thinking, especially in cases where an understanding of the user experience is essential.

@@ -1,6 +1,6 @@
 ---
 title: "Meta-probability"
-created: May 11, 2023
+created: 2023-05-11
 ---
 
 Meta-probability has to do with [[Asymmetries]] and [[Probabalistic thinking]]. Simply it means the probability that your probabilities are any good. It is probability about a probability. For example, when forecasting the likelihood of an event occurring, you might estimate a 70% chance of it happening. The meta-probability would be your confidence in the accuracy of that 70% estimate.
