@@ -11,4 +11,5 @@ excerpt: "Home page"
 
 ## Book summaries
 - [[(SUMMARY) The Great Mental Models]]
-- [[(SUMMARY) Bulletproof Problem Solving]] *IN PROGRESS*
+- [[(SUMMARY) Bulletproof Problem Solving]]
+- [[(SUMMARY) Wild Problems]] *IN PROGRESS*
