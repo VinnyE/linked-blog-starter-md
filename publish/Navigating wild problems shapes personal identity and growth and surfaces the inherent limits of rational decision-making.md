@@ -5,11 +5,11 @@ created: 2023-05-28
 
 Making significant life choices, such as the decision to have a child or perhaps settle down and get married with our partner, often presents us with what can be termed as 'wild problems.' **Wild problems are critical junctures in our lives that possess the power to shape our identities, yet they are cloaked in ambiguity.** The impact of choosing one path over the other is shrouded, neither completely visible nor readily quantifiable. What may prove to be a fulfilling choice for one person may not bear the same fruit for another, and what seemed right at one moment may seem questionable at another. This lack of clarity and consistency makes these wild problems inherently resistant to measurement and uniquely challenging.
 
+*(side note: Also apparently, wildly entertaining. The ultimatum on Netflix is basically a show built entirely on the wild problem of "should I get married to this person?".  A lot of reality shows are actually entertaining because of the wild problems they present.)*
+
 Unlike ordinary problems that can be solved systematically through logical reasoning (see: [[Problem solving is a vital skill in the 21st century]] & frameworks like [[The bulletproof problem solving framework]]), wild problems are essentially uncharted territories. They are spontaneous, complex, organic, and display a rich tapestry of characteristics that defy conventional methods of problem-solving. For example, see [[The Vampire Problem]].
 
 Historically, these problems were often tamed by societal authorities or traditional structures, such as rulers, religion, culture, or familial beliefs. However, with the evolution of societies and shifting cultural norms, these traditional agents of control have become less influential. Consequently, these wild problems have remained undomesticated, contributing further to their complexity.
-
-*(side note: The ultimatum on Netflix is basically a show built entirely on the wild problem of "should I get married to this person?".  A lot of reality shows are actually entertaining because of the wild problems they present.)*
 
 A common pitfall in dealing with such wild problems is the tendency to focus narrowly on familiar possibilities, ignoring the full spectrum of available choices (see: [[Avoiding common pitfalls is key to effective problem solving]]). This results in a limited perception of the issue at hand, which can lead to inadequate decision-making. (Related: [[Using flawed models leads to suboptimal decisions and repeated mistakes]])
 
