@@ -16,7 +16,7 @@ A counter to this: [[Wisdom is prevention and avoiding problems is better than b
 Related:
 - [[What are mental models]]
 - [[The bulletproof problem solving framework]]
-- [[Navigating wild problems shapes personal identity and growth]]
+- [[Navigating wild problems shapes personal identity and growth and surfaces the inherent limits of rational decision-making]]
 
 ---
 ### References

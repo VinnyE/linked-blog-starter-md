@@ -6,7 +6,7 @@ created: 2023-05-27
 A wicked problem is a social or cultural problem that's difficult/impossible to solve because of its complexity and interconnected nature. Examples include: Obesity, poverty, terrorism, environmental degradation, etc. 
 
 Related: 
-- [[Navigating wild problems shapes personal identity and growth]]
+- [[Navigating wild problems shapes personal identity and growth and surfaces the inherent limits of rational decision-making]]
 - [[Problem solving is a vital skill in the 21st century]]
 
 ---

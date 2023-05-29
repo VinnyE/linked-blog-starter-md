@@ -11,9 +11,23 @@ The mathematical term 'scalar' is used to represent numerical values that descri
 
 However, this method of condensing a complex set of information into a single number, or a scalar, comes with inherent limitations. Although scalars offer clean, precise values, they often oversimplify the intricacies of reality. The conversion process to a scalar might involve overlooking certain nuances or 'cutting corners', thereby compromising the accuracy of the scalar as a representation of a complex issue.
 
-In our quest for certainty and simplicity, we tend to lean towards formulas or calculations that can seemingly strip away ambiguity. While the simplicity of formulas is appealing, it's also problematic because life, with all its intricacies and unpredictability, is anything but simple.
+In our quest for certainty and simplicity, we tend to lean towards formulas or calculations that can seemingly strip away ambiguity. While the simplicity of formulas is appealing, it's also problematic because life, with all its intricacies and unpredictability, is anything but simple. [[The map is not the territory - abstractions must be distinguished from reality]].
 
-When it comes to decision-making, the use of scalars creates an illusion that we can make reliable comparisons and optimal choices based on these numerical representations. However, this perceived rationality of employing a cost-benefit analysis for making decisions in the face of complex, 'wild' problems, can often be misleading. It suggests a level of certainty and control that may not exist, overlooking the multifaceted nature of real-world problems and the inherent unpredictability of future outcomes.
+When it comes to decision-making, the use of scalars creates an illusion that we can make reliable comparisons and optimal choices based on these numerical representations (Something I think the authors of [[Bulletproof Problem Solving]] demonstrated in their book with the example of the choice of where to move). However, this perceived rationality of employing a cost-benefit analysis for making decisions in the face of complex, 'wild' problems, can often be misleading (see: [[Using flawed models leads to suboptimal decisions and repeated mistakes]]). It suggests a level of certainty and control that may not exist, overlooking the multifaceted nature of real-world problems and the inherent unpredictability of future outcomes (see: [[Enhance decision-making by overcoming obstacles to learning from reality]] &  [[Reveal reality through the lens of mental models]]).
+
+Effective decision making often requires more than just a scalar representation of the problem. We need a diverse set of tools and approaches which is why [[Embracing Munger's multidisciplinary latticework of mental models]] is helpful:
+
+![[(SUMMARY) Bulletproof Problem Solving#^b22a99]]
+
+Counter-intuitive: Uncertainty can also be a good thing for strategic problem solvers, as we're reminded in [[Bulletproof Problem Solving]]:
+
+![[(SUMMARY) Bulletproof Problem Solving#^9405ee]]
+
+By developing [[The Antifragile Mindset]], we can actually benefit from unpredictability.
+
+Related:
+- [[The bulletproof problem solving framework]]
+- [[Dissecting a problem and utilizing logic trees streamlines problem-solving]]
 
 --- 
 ### References

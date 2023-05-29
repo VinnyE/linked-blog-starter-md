@@ -10,7 +10,6 @@ Factors that hinder our ability to learn from reality include:
 - **Ego-induced denial**: Ego can hinder our openness to criticism, limiting growth and learning. When criticized, ego can make us defensive, shutting us off from new ideas. [[Self-awareness is the ego's antidote]]
 - **Distance from the consequences of our decisions**: [[People with skin in the game are more likely to make better decisions because they directly face the consequences of their actions]].
 
-
 Failing to overcome these obstacles can lead to [[Using flawed models leads to suboptimal decisions and repeated mistakes]]. To avoid this, we should leverage mental models ([[What are mental models]]) to reveal reality and make better decisions. 
 
 --- 

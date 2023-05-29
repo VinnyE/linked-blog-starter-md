@@ -1,3 +1,9 @@
+---
+title: "(SUMMARY) Bulletproof Problem Solving"
+created: 2023-05-22
+---
+
+
 ### Introduction: Problem Solving for the Challenges of the Twenty-First Century
 
 - [[Problem solving is a vital skill in the 21st century]]
@@ -43,7 +49,7 @@
 *Chapter also talks about team brainstorming practices, how to reduce bias, etc. But overall not my favorite chapter, not very actionable for me. Started to lose interest at this point.* 
 
 ### Chapter Five Conduct Analyses
-- Good problem solvers have a toolkit at their disposal that helps them work efficiently, starting with heuristics and rules of thumb to understand the direction and magnitudes of relationships that allows them to focus attention on the most important issues. They don't jump right into building giant models until they have a clear understanding of whether and where complex tools are required.
+- Good problem solvers have a toolkit at their disposal that helps them work efficiently, starting with heuristics and rules of thumb to understand the direction and magnitudes of relationships that allows them to focus attention on the most important issues. They don't jump right into building giant models until they have a clear understanding of whether and where complex tools are required. ^b22a99
 - Heuristics are powerful tools that act as shortcuts in analysis. They help you size the different elements of the problem to determine the efficient path in further analysis.
 - They can be dangerous when incorrectly applied, of course. Author Nicholas Taleb describes how simple rules based on past success can lead you astray in settings where low probability events can produce outsized errors. (see: [[Using flawed models leads to suboptimal decisions and repeated mistakes]] and [[Understanding trends and laws in human history]])
 - The Sherlock Holmes approach of painting a picture of the problem by asking who, what, where, when, how, and why is a powerful root-cause tool to quickly focus problem-solving. Ask “Why? five times. (see: [[The five whys]])
@@ -59,7 +65,7 @@
 - Sometimes it is best to carefully lead the audience from situation to observation to resolution, which are your recommended actions. But our bias in most circumstances is to lead by answering the question “What Should I Do?” and then summarize the situation and key observations that support action.
 
 ### Chapter 8 Problem Solving with Long Time Frames and High Uncertainty
-- Uncertainty can be a good thing for strategic problem solvers! Hedge fund and other clever investors hope for uncertain and volatile markets—provided they have an analytic edge. If your problem solving is right you can earn good returns and guard your downside while others are floundering. 
+- Uncertainty can be a good thing for strategic problem solvers! Hedge fund and other clever investors hope for uncertain and volatile markets—provided they have an analytic edge. If your problem solving is right you can earn good returns and guard your downside while others are floundering.  ^9405ee
 - 5 Levels of uncertainty (Reasonably predictable futures, alternative futures, a range of futures, true ambiguity- impossible to predict, unexpected or unforeseen conditions)
 - Where uncertainty sits at level 2 or greater, most decision makers will seek to defer irreversible commitments. That can work in the absence of competition but becomes a more difficult equation where there is the possibility of preemption. Big bets are open only to a few, as Hugh Courtney pointed out—those with business models that generate a lot of cash and have low debt
 - What can you do to address uncertainty?
