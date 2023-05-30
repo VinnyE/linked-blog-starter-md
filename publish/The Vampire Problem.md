@@ -17,9 +17,12 @@ As noted in the first chapter of [[Wild Problems]]:
 
 (note to self: great metaphor for availability bias)
 
-To fully comprehend these transformative experiences, one needs to peer into the inner worlds of those who have undergone the change. However, accessing these intimate narratives can be challenging. People often hesitate to share their personal experiences due to their private nature. Furthermore, many may lack self-awareness about how the experience has changed them. Others might be uncomfortable acknowledging the complexities and challenges inherent in these transformations. Lastly, even if one is willing and able to express their experiences, the intricacy of human emotions often defies simple articulation.
+To fully comprehend these transformative experiences, one needs to peer into the inner worlds of those who have undergone the change (see: [[Navigate unfamiliar domains effectively by leveraging expertise and mental models]]). However, accessing these intimate narratives can be challenging. People often hesitate to share their personal experiences due to their private nature. Furthermore, many may lack self-awareness about how the experience has changed them. Others might be uncomfortable acknowledging the complexities and challenges inherent in these transformations. Lastly, even if one is willing and able to express their experiences, the intricacy of human emotions often defies simple articulation.
 
 This draws attention to the inherent limits of rational decision-making when it comes to life-altering choices. Not only is it impossible to fully comprehend the benefits and costs until experienced, but it also raises the question of whose preferences should be prioritized: those of the individual before the transformation, or those of the transformed individual? Even if others seem content with their choices, there is no guarantee that we would experience the same level of satisfaction or fulfillment. Thus, these decisions often involve a leap of faith, trusting in the potential for growth and transformation inherent in life's unpredictable journey.
+
+Related:
+- [[When faced with a decision, we should consider not just the immediate utility of our choices, but also how we may flourish]]
 
 --- 
 ### References

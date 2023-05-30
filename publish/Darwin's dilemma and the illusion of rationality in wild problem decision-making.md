@@ -25,7 +25,14 @@ Counter-intuitive: Uncertainty can also be a good thing for strategic problem so
 
 By developing [[The Antifragile Mindset]], we can actually benefit from unpredictability.
 
+> Let’s summarize why a decision like Darwin’s in the face of a wild problem is so difficult: 
+> - He can’t imagine his daily life as a husband and father, particularly the upside. So he can’t assess whether the expected costs outweigh the expected benefits. 
+> - Even if he could imagine his daily life, he faces the vampire problem—how he experiences the costs and benefits once he’s married with children will change. 
+> - And finally, there are aspects of being a husband and father that loom larger than just the everyday experiences of life, what I am calling flourishing. How should he take flourishing into account? 
+
 Related:
+- [[The Vampire Problem]]
+- [[When faced with a decision, we should consider not just the immediate utility of our choices, but also how we may flourish]]
 - [[The bulletproof problem solving framework]]
 - [[Dissecting a problem and utilizing logic trees streamlines problem-solving]]
 

@@ -13,6 +13,7 @@ created: 2023-05-28
 - [[The Vampire Problem]]
 
 ### This Is Serious
+- [[When faced with a decision, we should consider not just the immediate utility of our choices, but also how we may flourish]]
 
 ### The Pig and the Philosopher
 
