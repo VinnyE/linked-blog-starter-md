@@ -3,7 +3,6 @@ title: "Build a virtuous identity by privileging your principles"
 created: 2023-06-02
 ---
 
-
 Ethical dilemmas often present us with a conflict between immediate gratification and long-term consequences. These situations challenge us to balance our immediate desires with our principles related to personal growth and flourishing. A classic example is finding a lost wallet filled with cash and deciding whether to keep it or return it. This decision-making process often involves weighing what is desirable against what is feasible.
 
 Rational decision-making, as defined by economist Ariel Rubinstein, involves choosing the most desirable option from among feasible alternatives. However, this model of behavior can be flawed if we focus solely on immediate gratification and neglect the broader concept of flourishing. This narrow form of utilitarianism can lead us to confuse our immediate self-interest with what we ought to do.
@@ -20,7 +19,7 @@ Adopting a rule-based approach to decision-making can simplify the process and p
 
 The story of George Hell, who transforms himself into George Heaven by wearing a mask of virtue, illustrates this concept. By pretending to be good and acting accordingly, Hell eventually becomes the person he aspires to be. This transformation is achieved through practice and persistence.
 
-In conclusion, our desires and preferences are not fixed. They can change over time through practice and habit formation. By feeding the "good dog" within us, we can cultivate virtues and make them a part of our identity. This process involves making conscious choices that align with our principles, even when they conflict with our immediate desires. In doing so, we can become better versions of ourselves.
+Our desires and preferences are not fixed. They can change over time through practice and habit formation. By feeding the "good dog" within us, we can cultivate virtues and make them a part of our identity. This process involves making conscious choices that align with our principles, even when they conflict with our immediate desires. In doing so, we can become better versions of ourselves.
 
 Related:
 - [[Adam Smith's perspective on flourishing and contentment]]
