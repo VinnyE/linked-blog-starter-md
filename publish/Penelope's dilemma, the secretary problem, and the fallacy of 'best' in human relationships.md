@@ -1,5 +1,5 @@
 ---
-title: "The fallacy of 'best' in human relationships"
+title: "Penelope's dilemma, the secretary problem, and the fallacy of 'best' in human relationships"
 created: 2023-06-01
 ---
 
@@ -12,6 +12,14 @@ However, the formulaic approach presents several issues, particularly when appli
 Moreover, the quest for the "best" often comes with a fear of "settling" for less than the ideal. Yet, what some interpret as "settling" might be better understood as making a decision based on available, albeit imperfect, options. This is akin to the idea of "satisficing" proposed by social scientist Herbert Simon, which suggests that with our limited knowledge and the inherent complexity of life's decisions, we should aim to find a satisfactory rather than an optimal solution.
 
 Consequently, in life's journey, perhaps the real goal isn't to find the "best" but rather to find someone or something that provides contentment, meaning, and a sense of shared values. The key to making decisions might not lie in an algorithm but in recognizing the inherent complexities and uncertainties of life and seeking out companionship, understanding, and growth. Instead of seeking the best, perhaps we should aim for a life well lived, with someone who respects our imperfections and inspires us to become better versions of ourselves.
+
+Related:
+- [[Darwin's dilemma and the illusion of rationality in wild problem decision-making]]
+- [[When faced with a decision, we should consider not just the immediate utility of our choices, but also how we may flourish]]
+- [[Adam Smith's perspective on flourishing and contentment]]
+- [[The Vampire Problem]]
+- [[Navigating wild problems shapes personal identity and growth and surfaces the inherent limits of rational decision-making]]
+- [[The journey to flourishing is paved with Type 2 experiences]]
 
 --- 
 ### References

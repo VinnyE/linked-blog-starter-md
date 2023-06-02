@@ -22,10 +22,12 @@ created: 2023-05-28
 - [[Adam Smith's perspective on flourishing and contentment]]
 
 ### Penelope’s Problem
-- [[The fallacy of 'best' in human relationships]]
+- [[Penelope's dilemma, the secretary problem, and the fallacy of 'best' in human relationships]]
 
 ### How to Get Over Yourself
+- [[Remember to celebrate the ensemble cast of our lives]]
 
 ### Privilege Your Principles
+- [[Build a virtuous identity by privileging your principles]]
 
 ### Be Like Bill

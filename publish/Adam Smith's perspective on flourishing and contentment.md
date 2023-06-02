@@ -21,6 +21,13 @@ Friendship, too, is not merely a transactional relationship that yields returns 
 
 Voting is another example where identity plays a crucial role. People vote not just to influence the outcome, but because it aligns with their identity as responsible citizens. This sense of duty and responsibility transcends narrow utilitarian considerations.
 
+Related:
+- [[Navigating wild problems shapes personal identity and growth and surfaces the inherent limits of rational decision-making]]
+- [[Darwin's dilemma and the illusion of rationality in wild problem decision-making]]
+- [[Adam Smith's perspective on flourishing and contentment]]
+- [[Penelope's dilemma, the secretary problem, and the fallacy of 'best' in human relationships]]
+- [[The Vampire Problem]]
+- [[The journey to flourishing is paved with Type 2 experiences]]
 --- 
 ### References
 
