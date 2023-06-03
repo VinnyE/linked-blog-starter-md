@@ -16,11 +16,13 @@ In essence, embracing uncertainty involves focusing less on making the 'perfect'
 Related:
 - [[The Antifragile Mindset]]
 - [[Upside optionality]]
+- [[Learning how to fail properly]]
 - [[Unlocking the Power of Optionality]]
 - [[Navigating wild problems shapes personal identity and growth and surfaces the inherent limits of rational decision-making]]
 - [[The Vampire Problem]]
 - [[When faced with a decision, we should consider not just the immediate utility of our choices, but also how we may flourish]]
 - [[Darwin's dilemma and the illusion of rationality in wild problem decision-making]]
+- [[To live like an artist release control and embrace discovery]]
 
 --- 
 ### References
