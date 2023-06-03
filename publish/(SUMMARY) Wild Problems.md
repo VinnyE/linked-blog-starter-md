@@ -30,4 +30,10 @@ created: 2023-05-28
 ### Privilege Your Principles
 - [[Build a virtuous identity by privileging your principles]]
 
+Two meta-strategies for dealing with uncertainty:
+
 ### Be Like Bill
+- [[Bill Bellichick's Philosophy - trading perfection for optionality]]
+
+### Live Like an Artist
+- [[To live like an artist release control and embrace discovery]]
