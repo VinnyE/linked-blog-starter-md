@@ -2,9 +2,9 @@
 title: "(SUMMARY) Wild Problems"
 created: 2023-05-28
 ---
-**Author**: Russ Roberts
-**Rating**: 5/5
-**Amazon link**: https://www.amazon.com/Wild-Problems-Guide-Decisions-Define/dp/0593418255
+- **Author**: Russ Roberts
+- **Rating**: 5/5
+- **Amazon link**: https://www.amazon.com/Wild-Problems-Guide-Decisions-Define/dp/0593418255
 
 ### Summary
 Life, according to the author, isn't a tame problem that can be solved with clear-cut strategies or plans. It cannot be compared to Waze, which offers the best path based on data, or a Rubik's Cube, which requires a particular sequence of moves for a solution. Instead, life resembles a journey that unfolds in unexpected ways, presenting "wild problems" that demand a different kind of navigation. We aren't simply looking for the quickest route from point A to point B; we're exploring, without full certainty, where to go and why.
