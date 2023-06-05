@@ -5,7 +5,7 @@ created: 2023-05-11
 
 Learning how to fail properly is a key concept (along with [[Upside optionality]]) to absorb if we want to learn how to arm ourselves with [[The Antifragile Mindset]]. 
 
-This involves two key components: never taking risks that could lead to complete ruin and developing personal resilience to bounce back from setbacks. By adhering to these principles, failures become temporary rather than permanent obstacles, ultimately strengthening one's ability to adapt and grow in the face of adversity.
+This involves two key components: never taking risks that could lead to complete ruin and developing personal resilience to bounce back from setbacks. By adhering to these principles, and actively making an [[Investment in loss]], failures become temporary rather than permanent obstacles, ultimately strengthening one's ability to adapt and grow in the face of adversity.
 
 Embracing failure as a learning opportunity is a hallmark of [[The Antifragile Mindset]]. Those who are unafraid to fail and willing to learn from their experiences are better equipped to navigate the unpredictable nature of the world. In this way, failure becomes a gift, making individuals less vulnerable to the volatility they will inevitably face.
 
