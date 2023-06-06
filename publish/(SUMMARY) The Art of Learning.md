@@ -10,8 +10,14 @@ created: 2023-06-05
 ### Resilience
 - [[Value process before results - Entity theorists vs Incremental theorists]]
 - [[Investment in loss]]
+- [[Beginner's mind]]
+- [[Using adversity]]
+- [[The internal solution]]
 
 ### Peak Performance
+- [[The power of presence]]
+
+
 
 ### Introspection
 

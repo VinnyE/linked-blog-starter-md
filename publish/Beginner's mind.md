@@ -1,0 +1,27 @@
+---
+title: "Beginner's mind"
+created: 2023-06-06
+---
+  
+The journey of learning and personal growth can be likened to the exploratory spirit of a child. There is an unyielding curiosity, an eagerness that translates into an adventure of discovery. This voracious exploration is free of preconceptions or fear of judgments, characterized by an openness to the unfamiliar, the mundane, and an insistence on investigating the smallest details. The best form of learning and progress stems from such an open-minded approach, that remains responsive and adaptive to new insights. This willingness to engage in a non-resistant, beginner's approach to experiences often materializes as advancement, and eventually as refined expertise.
+
+As we grow and strive for success, our existence can sometimes feel like balancing on a beam. This beam, during childhood, feels broad and stable, where we can experiment with daring flips and jumps, unfettered by the fear of falling or injuries. But as we age, our perception of this beam narrows, and the risks associated with falling become palpable. The playful experimentation of childhood is replaced by the high-pressure performance of adulthood. What was once a playground now feels like a perilous tightrope, any slip leading to a crisis. High-level learning then becomes about retaining the child-like resilience and the oblivious joy of exploration while performing under pressures of the adult world. This cycle, from a carefree child to a pressured adult and back to a childlike state, forms the crux of true success.
+
+In any discipline there are periods of intense action and periods of vulnerability, when one is in a state of growth or transition. During these vulnerable phases, it's crucial to understand the cyclical nature of learning and allow oneself protected periods for nurturing and cultivation. This perspective, combined with the flexibility and open-mindedness of a child's approach to learning, can lead to meaningful growth and success.
+
+---
+### References
+
+*Waitzkin, J. (2007). The Art of Learning: An Inner Journey to Optimal Performance. Free Press.*
+
+> I think a life of ambition is like existing on a balance beam. As a child, there is no fear, no sense for the danger of falling. The beam feels wide and stable, and natural playfulness allows for creative leaps and fast learning. You can run around doing somersaults and flips, always testing yourself with a love for discovery and new challenges. If you happen to fall off—no problem, you just get back on. But then, as you get older, you become more aware of the risk of injury. You might crack your head or twist your knee. The beam is narrow and you have to stay up there. Plunging off would be humiliating. While a child can make the beam a playground, high-stress performers often transform the beam into a tightrope. Any slip becomes a crisis. Suddenly you have everything to lose, the rope is swaying above a crater of fire, increasingly dramatic acrobatics are expected of you but the air feels thick with projectiles aimed to dislodge your balance. What was once light and inspiring can easily mutate into a nightmare. A key component of high-level learning is cultivating a resilient awareness that is the older, conscious embodiment of a child’s playful obliviousness. My chess career ended with me teetering on a string above leaping flames, and in time, through a different medium, I rediscovered a relationship to ambition and art that has allowed me the freedom to create like a child under world championship pressure. This journey, from child back to child again, is at the very core of my understanding of success.
+
+> When I watched my first Tai Chi class…the goal was not winning, but, simply, being…. Over the next few months, I learned the sixty basic movements of the meditative form. I was a beginner, a child learning to crawl, and the world began to lift off my shoulders…. A huge element of Tai Chi is releasing obstructions so the body and mind can flow smoothly together. If there is tension in one place, the mind stops there, and the fluidity is broken.
+
+> Periodically, I have had to take apart my game and go through a rough patch. In all disciplines, there are times when a performer is ready for action, and times when he or she is soft, in flux, broken-down or in a period of growth. Learners in this phase are inevitably vulnerable. It is important to have perspective on this and allow yourself protected periods for cultivation.
+
+> Children learning to crawl approach their surroundings with unstoppable curiosity and an eager, joyful sense of adventure. They have no concern for how they look nor the judgments of others. What propels them forward is a general delight in all that is unfamiliar; an ability to be intrigued by the mundane; and a desire to probe the most minute details along their path, over and over again. The best learning results from this kind of openness—from being fully awake to the experience at hand, receptive to gaining even tiny insights from it and to refining one’s method in response. An inner willingness to adopt the nonresistant approach of a beginner and gradually perfect one’s knowledge manifests outwardly as forward movement and, over time, as graceful expertise. – https://theartoflearningproject.org/resources/resilience/using-adversity/
+
+### Related Notes
+**Source**: [[The Art of Learning]]
+**Tags**: #EvergreenNote
