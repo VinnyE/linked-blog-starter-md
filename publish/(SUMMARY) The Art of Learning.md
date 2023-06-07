@@ -16,8 +16,9 @@ created: 2023-06-05
 
 ### Peak Performance
 - [[The power of presence]]
-
-
+- [[The soft zone]]
+- [[The downward spiral]]
+- [[Stress and recovery]]
 
 ### Introspection
 
