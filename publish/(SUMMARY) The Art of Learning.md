@@ -19,8 +19,14 @@ created: 2023-06-05
 - [[The soft zone]]
 - [[The downward spiral]]
 - [[Stress and recovery]]
+- [[Building your trigger]]
 
 ### Introspection
+- [[Listening first]]
+- [[Loving the game]]
+- [[Breaking down walls]]
+- [[Developing the internal compass]]
+
 
 ### General learning
 
