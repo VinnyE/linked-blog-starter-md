@@ -3,17 +3,30 @@ title: "To live like an artist release control and embrace discovery"
 created: 2023-06-03
 ---
 
-Life can be seen as an ongoing, dynamic process, akin to the way an artist crafts their work. It's a journey characterized by fluidity and adaptability rather than a rigid, pre-planned trajectory. The unexpected turns, the opportunities, the discoveries, and the insights that emerge from daily experiences shape our identity, purpose, and aspirations much like an artist allows their creation to unfold and evolve.
+Just like the unpredictability of an artist's creation, life doesn't come with a preset path or a foolproof plan. Living like an artist implies embracing uncertainty, learning from experiences, adjusting along the way, and valuing the process over the predetermined outcome. We can't predict the twists and turns, but we can adapt and create meaning from them. We also learn to balance optionality - saying both yes to new, uncertain opportunities and no to avoid being overwhelmed. Not always being in control doesn't mean there is no control; it simply indicates our openness to readjust our journey based on newfound information. Conversations become exploratory instead of transactional, life decisions a careful craft, and the act of living an artistic exercise in continuous revision and self-reflection. Like writing and revising a book, the story of life unfolds as we go along. Thus, being aimless occasionally aids in discovering where to aim, and sometimes, just being attentive in the present is the most active form of engagement with life.
 
-This perspective of life as an ongoing artwork requires a balance between control and surrender, a willingness to shift plans in response to new experiences and information, just as an artist would adjust their vision in response to how their artwork is developing. At times, it might feel as though we're on a chaotic amusement park ride, but instead of clinging tightly to a preconceived notion of control, this perspective encourages trust in the process, appreciating the opportunity to learn and adjust in response to unexpected turns.
+## Concept Breakdown
 
-Embracing this perspective demands a deep level of self-discovery and acceptance. Artists often create without a fixed endpoint, and they learn about their work in the process of creating it. Similarly, we discover our preferences, aspirations, and our sense of meaning not through introspective isolation, but through engaging with the world, exploring different opportunities and experiences.
+### Embracing Uncertainty
+Uncertainty is a part of life, as is the case in the creative process of an artist. Rather than fearing unpredictability, we can embrace it, allowing the characters of our life's story to take shape and dictate the narrative. This does not mean complete passivity; instead, it's an active engagement with the organic nature of life, open to constant discovery about the world and ourselves.
 
-A key aspect of living life as an artist is cultivating meaningful connections and conversations, steering clear of transactional approaches and allowing genuine, unanticipated insights to surface. This approach also acknowledges the importance of decision-making, striking a balance between commitment and adaptability. It’s about understanding when to say yes and when to say no, understanding the art of balancing the perseverance to pursue a path and the wisdom to know when to change course.
+### Navigating Optionality
+While it's essential to protect ourselves from being overwhelmed by too many commitments, saying no to every uncertain opportunity could lead to missing out on experiences that might broaden our horizons. The balance between yes and no, commitment and openness, is an integral part of life's navigation. It's about taking advantage of optionality, opening up to possibilities that, while not obviously beneficial, may provide valuable lessons and enriching experiences.
 
-Living life as an artist, in essence, means seeing oneself and one's life as an ongoing masterpiece. It involves embracing an iterative approach to life, akin to the relentless revisions of a writer perfecting their manuscript. It encourages us to view our life as a work in progress, with the acceptance that our aspirations and goals will evolve and mature over time.
+### Redefining Control and Planning
+Control in life isn't about predefining every step, but more about the ability to adapt to new information and experiences. This approach does not discard planning but instead redefines it as a flexible roadmap that can be adjusted according to the twists and turns of our journey. It's about being ready to adjust our course based on the new landscapes we encounter.
 
-This perspective of life emphasizes attentiveness, readiness, and patience. It acknowledges that sometimes, the most powerful actions are those of waiting and observing. It promotes slowing down to fully appreciate life's unfolding narrative, to be prepared for the unexpected and to fully engage with the transformative power of our experiences. In essence, the perspective portrayed here encourages us to shape and be shaped by our lives, much like an artist and their work, in a continuous, enriching cycle of creation and discovery.
+### The Art of Conversation
+Conversations, like works of art, should not be led by transactional goals or predefined outcomes. Instead, they should be allowed to take their own course, opening up to unexpected directions and revelations. It's only after we let go of control and and start to listen attentively that we can discover deeper levels of understanding, intimacy, and learning.
+
+### The Craft of Decision Making
+There is no rule book for life decisions. Understanding when to persevere and when to quit is a craft to be cultivated over time. It requires a deep understanding of our strengths, limitations, and circumstances. Like an artist fine-tuning their masterpiece, decision-making in life is about using our experience and judgment to make the best choices.
+
+### Living as Continuous Revision
+Just as great writers understand that writing is revising, life is about continuous reflection, learning, and growth. It's about having the courage to alter our course based on the lessons we learn along the way. We become the editors of our own lives, refining our narratives as we go along.
+
+### The Art of Waiting
+Sometimes, the most meaningful action is to wait attentively, to slow down and observe. Just as an artist patiently waits for inspiration, we too can practice attentive waiting in our lives. It is about being prepared and open for what comes next, recognizing opportunities when they arrive. ^1896bc
 
 Related:
 - [[Bill Bellichick's Philosophy - trading perfection for optionality]]
@@ -34,7 +47,6 @@ Related:
 > William Faulkner once described writing a book as getting "the character in your mind. Once he is in your mind, and he is right, and he's true, then he does the work himself. All you need to do then is to trot along behind him and put down what he does and what he says." Unlike some novelists, Faulkner was claiming he didn't know how his book was going to turn out when he started. The characters he created and the situations he put them in took on a life of their own. There was an organic aspect to the process that defied the usual way we think of a genius at work, executing a brilliant plan to realize the vision. The vision emerges alongside the work. It isn't prefabricated.
 
 > Most of us don't have a prefab career or life. We don't know what we want. We find ourselves in Rome, with little or no idea of what exactly is best for us to do. What we want, what we enjoy, what gives our lives meaning, emerges from the choices we make, and that emergence takes place alongside the choices and what we learn from living with those choices, adjusting what we do accordingly. We figure out what we want not from studying it from our armchair or by looking it up in a book or consulting experts but from actual day-to-day experience. And until we have that day-to-day experience, and until we feel what it’s like to put on a particular identity, we don’t have a goal in the usual sense of that word. 
-
 
 > Living like an artist is not a bad way to think about how to face a wild problem. 
 

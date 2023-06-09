@@ -7,7 +7,7 @@ created: 2023-05-28
 - **Amazon link**: https://www.amazon.com/Wild-Problems-Guide-Decisions-Define/dp/0593418255
 
 ### Summary
-Life, according to the author, isn't a tame problem that can be solved with clear-cut strategies or plans. It cannot be compared to Waze, which offers the best path based on data, or a Rubik's Cube, which requires a particular sequence of moves for a solution. Instead, life resembles a journey that unfolds in unexpected ways, presenting "wild problems" that demand a different kind of navigation. We aren't simply looking for the quickest route from point A to point B; we're exploring, without full certainty, where to go and why.
+Life, according to the Russ Roberts, isn't a tame problem that can be solved with clear-cut strategies or plans. It cannot be compared to Waze, which offers the best path based on data, or a Rubik's Cube, which requires a particular sequence of moves for a solution. Instead, life resembles a journey that unfolds in unexpected ways, presenting "wild problems" that demand a different kind of navigation. We aren't simply looking for the quickest route from point A to point B; we're exploring, without full certainty, where to go and why.
 
 This journey-like nature of life necessitates ongoing self-development. We must constantly work on ourselves as evolving 'artifacts', crafting our characters, honing our skills, and refining our values. Unlike an artifact, however, the end product is not fixed or predetermined. Instead, it emerges and evolves throughout the journey, shaped by our experiences, choices, and responses.
 

@@ -3,11 +3,21 @@ title: "Using adversity"
 created: 2023-06-06
 ---
 
-Handling life's adversities without sacrificing one's calmness, enthusiasm, and joy is essential for learning and personal achievement. Emotional turbulence can disrupt the application of one's knowledge, so instead of suppressing these emotions, it is vital to understand, accept, and harness them to enhance performance. By maintaining composure during difficult situations, we are better equipped to reach accurate conclusions and make positive, effective decisions, particularly in the face of complex and critical circumstances.
+World-class performers share a key trait: they're able to face challenges head-on, not run from them. They learn to flow with whatever life throws at them, using it to their advantage. Over time, they even create their own exciting challenges or "earthquakes," fuelling their mental processes without needing an external push. Pain or discomfort aren't obstacles but opportunities for these achievers to grow stronger and more resilient. Instead of suppressing emotions, they learn to understand them, make peace with them, and eventually channel them to boost their performance. Keeping cool under pressure, they're always ready to apply their knowledge effectively, make precise decisions, and take positive action, even in the most complicated situations.
 
-Performance training involves a progression of steps. Initially, one learns to adapt and flow with whatever life presents. The next step is to leverage these circumstances to one's benefit. Finally, the ultimate goal is to achieve a level of self-sufficiency where one can instigate their own metaphorical earthquakes, cultivating a mental process that generates inspiration without external stimuli.
+## Concept Breakdown
 
-Mental resilience is a crucial characteristic of top performers, requiring continuous cultivation. The objective should always be to build psychological fortitude. When discomfort arises, the instinct should not be to evade it, but to find peace within it. For example, in a physically demanding discipline like martial arts, injuries are common. Instead of resorting to painkillers, one can learn to interpret the sensation of pain differently, turning it into a feeling that isn't necessarily negative. The drive should always be to seek challenges rather than shying away from them. This approach fosters strength, resilience, and an unyielding pursuit of personal growth and achievement.
+### The Three-Step Process of Performance Training
+Performance training involves a three-phase process. First, learners must develop the ability to flow with unexpected circumstances. Second, they need to transform these circumstances into advantageous situations. The final phase is achieving self-sufficiency by creating their own challenges or "earthquakes" for stimulation, removing reliance on external factors.
+
+### The Power of Mental Resilience
+Mental resilience, a vital trait for high performers, goes beyond simply withstanding hardships. It involves a positive engagement with discomfort and pain, seeking ways to adapt and grow from these experiences. This trait can be continuously nurtured, strengthening the mind to become more impervious to disturbances.
+
+### Emotional Mastery for Enhanced Performance
+The emotional landscape need not be a disruptive force. By developing an understanding of emotions, making peace with them, and eventually harnessing them, performers can channel their emotional energy into improving their performance levels.
+
+### Maintaining Equanimity Under Pressure
+Maintaining composure under stress is essential to optimal performance. A calm and collected state allows performers to apply their knowledge fully, arrive at precise decisions, and take effective actions, especially in complex and critical situations.
 
 Related: 
 - https://twitter.com/emollick/status/1665689954809180160

@@ -3,18 +3,26 @@ title: "Darwin's dilemma and the illusion of rationality in wild problem decisio
 created: 2023-05-28
 ---
 
-In 1838, Charles Darwin found himself grappling with a significant life decision – whether to marry and potentially have children. To address this dilemma, he employed a seemingly rational approach of listing the potential benefits and drawbacks associated with each choice. Darwin tried to envisage the everyday joys and challenges of married life, and how those would feel to him in the future.
+Charles Darwin, facing the life-altering decision of whether to marry and have children, weighed the pros and cons of his options. On the surface, it seemed like a logical approach, converting complex emotions and potential futures into digestible numbers, like stepping stones on a scale or a ladder. However, trying to simplify life's complexities into a neat formula can often mislead us. In our search for certainty, we may be lured by the simplicity of numbers or 'scalars' that promise a clear path. But these measurements, as appealing as they are, can often be a mirage in the face of life's wild problems, where the best choice isn't always clear or quantifiable.
 
-This approach epitomizes the conventional definition of rationality, where one attempts to forecast the expected well-being resulting from each potential decision, and then opts for the choice promising the highest projected well-being.
+## Concept Breakdown
 
-The mathematical term 'scalar' is used to represent numerical values that describe physical concepts, like area. Its etymology traces back to the Latin word 'scala', which means ladder or scale, hinting at something that aids in climbing or rising. Similarly, Benjamin Franklin's advice to Joseph Priestley - to compare and balance the pros and cons - suggests the use of a 'scale' to measure and evaluate options against each other.
+### The Wild Problem Decision Making
+Even Charles Darwin, renowned for his rational thinking, struggled with life's wild problems. His dilemma of whether to marry and possibly have children demonstrates that even our most personal and profound decisions can be difficult to navigate, with no straightforward 'right' answer.
 
-However, this method of condensing a complex set of information into a single number, or a scalar, comes with inherent limitations. Although scalars offer clean, precise values, they often oversimplify the intricacies of reality. The conversion process to a scalar might involve overlooking certain nuances or 'cutting corners', thereby compromising the accuracy of the scalar as a representation of a complex issue.
+### Scalar Thinking and its Origin
+The concept of scalar thinking arises from the Latin term "scala", meaning a ladder or scale. It provides a single, straightforward value to represent complex information, creating an illusion of simplicity and control in decision making. It's akin to a ladder we climb towards making a decision, one rung at a time.
 
-In our quest for certainty and simplicity, we tend to lean towards formulas or calculations that can seemingly strip away ambiguity. While the simplicity of formulas is appealing, it's also problematic because life, with all its intricacies and unpredictability, is anything but simple. [[The map is not the territory - abstractions must be distinguished from reality]].
+### The Illusion of Rationality
+In our attempt to bring order to chaos, we often resort to strategies like cost-benefit analysis, imagining that the highest sum of pros over cons represents the best decision. This perception of rationality, however, is often an illusion, especially when dealing with complex, unpredictable problems.
 
-When it comes to decision-making, the use of scalars creates an illusion that we can make reliable comparisons and optimal choices based on these numerical representations (Something I think the authors of [[Bulletproof Problem Solving]] demonstrated in their book with the example of the choice of where to move). However, this perceived rationality of employing a cost-benefit analysis for making decisions in the face of complex, 'wild' problems, can often be misleading (see: [[Using flawed models leads to suboptimal decisions and repeated mistakes]]). It suggests a level of certainty and control that may not exist, overlooking the multifaceted nature of real-world problems and the inherent unpredictability of future outcomes (see: [[Enhance decision-making by overcoming obstacles to learning from reality]] &  [[Reveal reality through the lens of mental models]]).
+### The Seduction and Misleading Nature of Scalars
+In decision-making, we are often drawn to the simplicity of numbers, or 'scalars', which promise easy comparisons and clear future projections. However, these simplified measurements can often lead us astray, causing us to overlook the true complexity and unpredictability inherent in life's wild problems.
 
+### The Limitation of Formulas in Life
+We're always on the lookout for a formula to reduce uncertainty. Formulas, in their simplicity, are both a blessing and a curse. Life's intricacies often defy such straightforward solutions, highlighting the limitation of relying on simple calculations to navigate life's complexities.
+
+### Other thoughts
 Effective decision making often requires more than just a scalar representation of the problem. We need a diverse set of tools and approaches which is why [[Embracing Munger's multidisciplinary latticework of mental models]] is helpful:
 
 ![[(SUMMARY) Bulletproof Problem Solving#^b22a99]]

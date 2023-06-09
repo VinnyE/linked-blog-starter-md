@@ -3,23 +3,18 @@ title: "When faced with a decision, we should consider not just the immediate ut
 created: 2023-05-30
 ---
 
-The process of decision-making, often seen as a rational calculation of expected utility, is a complex interplay of rational thought and emotional insight. Listing costs and benefits serves not just to weigh them rationally, but to uncover what one truly desires, with our emotional reactions to potential outcomes revealing our true preferences.
+In decision-making, while logical analysis of costs and benefits is necessary, it's not always the deciding factor. Sometimes, emotional reactions or personal preferences guide us more truthfully to what we desire. The conventional economist's view of life is akin to a day at an amusement park, deciding on experiences based on their expected pleasure. However, humans seek more than transient pleasures and avoidance of pain. We seek purpose, meaning, and a sense of belonging. The Greeks referred to this as eudaemonia, the state of flourishing in life. Flourishing encapsulates not just transient joys but also intangible elements such as virtue, purpose, and autonomy.
 
-The act of flipping a coin when faced with a dilemma is not a method of decision-making, but a tool to uncover our true desires. The anticipation we feel as the coin is in the air can reveal our hopes for the outcome, suggesting that our impulsive reactions, driven by our heart or gut, can be more revealing than our rational mind.
+## Concept Breakdown
 
-However, this perspective challenges the notion that our decisions are always rational and that our justifications are anything more than narratives we construct after the fact. It suggests that our decisions are driven by more than our anticipated experiences or feelings, and that there are other factors at stake when we face complex problems.
+### Decision-Making: Logic vs Emotion
+Decision-making is traditionally perceived as a rational process where you weigh the costs and benefits of your choices. But, surprisingly, emotions and personal preferences can sometimes guide us more accurately to what we truly desire. In other words, the decision-making process should account for both our rational evaluations and our emotional inclinations. This dual-faceted approach allows us to better discern our preferences, especially when logical analysis alone fails to provide a clear answer.
 
-The utilitarian approach, as proposed by Jeremy Bentham, suggests that our decisions are based on the pursuit of pleasure and avoidance of pain. This approach, which forms the basis of the concept of rational choice in economics, suggests that we make decisions based on how they will make us feel, both physically and emotionally.
+### Utilitarianism: Pleasure vs Pain
+The utilitarian approach, put forward by Jeremy Bentham and widely used by economists, suggests humans are motivated by maximizing pleasure and minimizing pain. This perspective sees life as a sort of amusement park, where we make choices to accumulate the greatest satisfaction given our constraints. However, this view often overlooks that humans are complex creatures who seek more than just transient pleasures and pain avoidance.
 
-Yet, this view of life as a series of choices aimed at maximizing pleasure and minimizing pain may not fully capture the complexity of human experience. We seek purpose, meaning, and a sense of belonging to something larger than ourselves. We aspire to matter and these overarching desires define who we are and how we see ourselves.
-
-The concept of a life well lived, or eudaemonia as the Greeks called it, goes beyond mere happiness or contentment. It is more accurately translated as "flourishing", a state of being that is not just about accumulating pleasures and avoiding pain, but about living and acting with integrity, virtue, purpose, meaning, dignity, and autonomy.
-
-> There are two everyday senses of the word “flourish.” One is to be successful, usually in a material, financial sense. The second, the one I am using here, describes something organic and alive. Something flourishes by becoming something beautiful and worthy of admiration. **We human beings flourish by taking our circumstances and making the most of them in fulfilling our human potential.**
-
-(note to self: Related to The Hero's Journey)
-
-Moreover, the choices we make in the face of complex, or "wild", problems do more than just produce a stream of costs and benefits. They define who we are and give our lives meaning, particularly when they work out well. Even when they don't, the challenge of facing these problems is an integral part of the human experience. In such situations, the question of flourishing becomes particularly significant. Thus, in decision-making, we should consider not just the immediate utility of our choices (what Russ Roberts calls "Narrow Utilitarianism"), but also their alignment with our deeper aspirations and values, and their potential to contribute to our sense of a life well lived.
+### Eudaemonia: Beyond Happiness
+Humans care about more than transient joy or avoidance of pain. We desire purpose, meaning, and a sense of belonging. The ancient Greeks referred to this state as 'eudaemonia,' often inadequately translated as happiness or contentment. A better understanding is 'flourishing' - the experience of fully living life, embracing not just physical comforts, but also intangible elements like integrity, purpose, and autonomy. In this context, to flourish means to make the most of our circumstances and fulfill our human potential, thus leading a life that is more than just pleasant, but truly well-lived.
 
 Related:
 - [[Force field analysis]]

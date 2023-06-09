@@ -3,23 +3,36 @@ title: "Navigating wild problems shapes personal identity and growth and surface
 created: 2023-05-28
 ---
 
-Making significant life choices, such as the decision to have a child or perhaps settle down and get married with our partner, often presents us with what can be termed as 'wild problems.' **Wild problems are critical junctures in our lives that possess the power to shape our identities, yet they are cloaked in ambiguity.** The impact of choosing one path over the other is shrouded, neither completely visible nor readily quantifiable. What may prove to be a fulfilling choice for one person may not bear the same fruit for another, and what seemed right at one moment may seem questionable at another. This lack of clarity and consistency makes these wild problems inherently resistant to measurement and uniquely challenging.
+Life presents us with wild problems, pivotal decisions shrouded in uncertainty, each choice shaping our identity and future. Unlike tame problems, wild ones are complex and unpredictable, making it difficult to use standard reasoning. Historically, authority and tradition guided us through these decisions, but as their influence wanes, we're often left in the dark. A common approach is to quantify what's possible and reassure ourselves that we're moving towards an answer. However, this can be misleading, like using a streetlight to find keys lost in the dark - just because the light is better doesn't mean the keys are there. Instead of seeking the 'right' decision, we must embrace the inherent uncertainty and consider the full range of choices that life offers.
 
-*(side note: Also apparently, wildly entertaining. The ultimatum on Netflix is basically a show built entirely on the wild problem of "should I get married to this person?".  A lot of reality shows are actually entertaining because of the wild problems they present.)*
+## Concept Breakdown
 
-Unlike ordinary problems that can be solved systematically through logical reasoning (see: [[Problem solving is a vital skill in the 21st century]] & frameworks like [[The bulletproof problem solving framework]]), wild problems are essentially uncharted territories. They are spontaneous, complex, organic, and display a rich tapestry of characteristics that defy conventional methods of problem-solving. For example, see [[The Vampire Problem]].
+### Wild Problems
+Wild problems are the significant, life-altering decisions we encounter, where the outcomes are unclear, and each choice can significantly influence our identity and future. Unlike other, more manageable issues, these problems are complex, unpredictable, and defy standard approaches to problem-solving.
 
-Historically, these problems were often tamed by societal authorities or traditional structures, such as rulers, religion, culture, or familial beliefs. However, with the evolution of societies and shifting cultural norms, these traditional agents of control have become less influential. Consequently, these wild problems have remained undomesticated, contributing further to their complexity.
+### The Decline of Authority and Tradition
+For much of human history, authority and tradition helped guide us through wild problems. But as the influence of kings, religion, and established cultural norms diminishes, we often find ourselves navigating these challenges without their guidance.
 
-A common pitfall in dealing with such wild problems is the tendency to focus narrowly on familiar possibilities, ignoring the full spectrum of available choices (see: [[Avoiding common pitfalls is key to effective problem solving]]). This results in a limited perception of the issue at hand, which can lead to inadequate decision-making. (Related: [[Using flawed models leads to suboptimal decisions and repeated mistakes]])
+### The Misleading Comfort of Quantification
+In the face of wild problems, it's tempting to measure and quantify what we can in the hopes of making the best decision. This process can provide a comforting illusion of progress. However, focusing solely on what we can measure can often lead us astray.
 
-Furthermore, it's important to embrace the reality that with wild problems, there might not always be a 'right' decision in the conventional sense. The inherent uncertainty and subjectivity of these issues mean that the value of a decision may lie not just in its immediate outcome, but also in the insights, personal growth, and experiences it yields along the way. Therefore, striving for the right decision can sometimes be less productive than focusing on the journey that unfolds from each choice and the unique impact it has on shaping who we become. For more on this, see [[Darwin's dilemma and the illusion of rationality in wild problem decision-making]]. 
+### The Illusion of the Right Decision
+Many of us are conditioned to believe that there's always a 'right' decision waiting to be uncovered. But with wild problems, this is often not the case. These problems require us to embrace the inherent uncertainty and be open to the full range of possible choices.
+
+### The Streetlight Effect
+The Streetlight Effect illustrates the human tendency to search for answers where it's easiest, not necessarily where they are. In trying to solve wild problems, we might focus on the most illuminated, quantifiable aspects, ignoring the vast range of possibilities hidden in the shadows of the unknown.
+
 
 Related: 
+- [[Problem solving is a vital skill in the 21st century]]
+- [[The bulletproof problem solving framework]]
+- [[Avoiding common pitfalls is key to effective problem solving]]
+- [[Using flawed models leads to suboptimal decisions and repeated mistakes]]
+- [[The Vampire Problem]]
 - [[Wicked problems]]
 - [[Embracing Munger's multidisciplinary latticework of mental models]]
 - [[Enhance decision-making by overcoming obstacles to learning from reality]]
-- [[The bulletproof problem solving framework]]
+- [[Darwin's dilemma and the illusion of rationality in wild problem decision-making]]
 
 --- 
 ### References

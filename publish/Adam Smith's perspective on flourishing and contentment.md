@@ -3,23 +3,21 @@ title: "Adam Smith's perspective on flourishing and contentment"
 created: 2023-06-01
 ---
 
-Adam Smith, the economist and moral philosopher, suggested that flourishing and the contentment it brings is more complex than it appears. He proposed that humans naturally desire to be loved and to be lovely, meaning they seek to be appreciated, admired, and respected, and to be worthy of such admiration and respect. This aligns closely with the concept of flourishing.
+At the heart of human decisions, be they personal or communal, lies a deep yearning for meaningfulness and identity, transcending the simple boundaries of narrow utilitarianism. Accepting a job offer, having children, choosing a residence, voting in an election, or maintaining friendships are not just transactions aimed at maximizing gains; instead, they represent profound reflections of who we are, shaping our sense of self, and influencing how we experience life. We want to matter, to be loved, admired, and respected, in line with Adam Smith's theory of desiring to be both "loved" and "lovely." This pursuit, often cast in the shadows and requiring strenuous effort, illuminates the path to flourishing. It’s not about the easy road, brightly lit by obvious rewards, but rather about the more challenging journey towards wisdom and virtue that truly defines our identity and fosters genuine contentment.
 
-Smith identified two paths to earning respect and admiration: being rich, powerful, and famous, or being wise and virtuous. The former path is more visible and alluring, but the latter, though less illuminated, is more fulfilling. This suggests that the pursuit of wisdom and virtue, though less glamorous, can lead to a deeper sense of satisfaction and flourishing.
+## Concept Breakdown
 
-The pursuit of flourishing requires us to keep this concept at the forefront of our decision-making. It involves going beyond narrow utilitarian considerations and embracing the deeper aspects of identity, purpose, and meaning in our lives.
+### The Pursuit of Meaningfulness
+Human decisions are deeply rooted in the quest for meaningfulness. We often choose paths in life not solely based on narrow utilitarian benefits but based on what feels right, what aligns with our identity and sense of purpose. This drive often trumps the potentially negative implications of such decisions. Whether it's taking up a challenging job, having children, or deciding where to live, our choices often reflect a deep-seated desire to lead lives of meaning.
 
-*More context below:*
+### Identity and Choice
+Our identity plays a crucial role in our decision-making process, impacting how we engage with the world around us. From voting decisions to friendships, our actions are often driven by our perceived identity rather than simple cost-benefit analysis. We behave in ways that align with our self-image, even if the actions may not be immediately rewarding or beneficial. For instance, the act of voting is seen as an affirmation of one's identity as a responsible citizen, irrespective of the immediate outcomes.
 
-[[When faced with a decision, we should consider not just the immediate utility of our choices, but also how we may flourish]]. For instance, choosing to accept a job offer might not make sense from a purely utilitarian perspective, but it might align perfectly with one's sense of self and purpose, making it the right choice. This highlights the importance of flourishing, a state of thriving that goes beyond transient pleasures and discomforts, in guiding our decisions.
+### Adam Smith's Theory of Being Loved and Lovely
+Adam Smith, the economist and moral philosopher, postulated that humans naturally desire to be "loved" and "lovely." The term "loved" encompasses more than just emotional affection; it signifies being valued, appreciated, admired, and respected. "Lovely," on the other hand, signifies being worthy of such appreciation and respect. This inherent desire to be loved and lovely resonates closely with the concept of flourishing and represents our drive to matter in the world.
 
-Life-altering decisions such as the ones portrayed in [[Darwin's dilemma and the illusion of rationality in wild problem decision-making]], or choosing where to live, are not merely about the immediate benefits or drawbacks. They fundamentally alter our identities and the way we experience life ([[Navigating wild problems shapes personal identity and growth and surfaces the inherent limits of rational decision-making]]). For instance, becoming a spouse or a parent transcends and elevates daily experiences, bringing a deeper sense of meaning and purpose. Something we're not often able to understand the full scope of ahead of time due to [[The Vampire Problem]].
-
-Similarly, the Brexit vote in the United Kingdom was not just about the financial implications. For many voters, the decision was deeply tied to their identities, whether they saw themselves primarily as British or European. This underscores the importance of identity and the sense of belonging in shaping our choices and actions.
-
-Friendship, too, is not merely a transactional relationship that yields returns for time invested. It is an integral part of our being, shaping our identities and enriching our lives. We devote time to our friends not just for the immediate pleasure it brings, but because it is a reflection of who we are.
-
-Voting is another example where identity plays a crucial role. People vote not just to influence the outcome, but because it aligns with their identity as responsible citizens. This sense of duty and responsibility transcends narrow utilitarian considerations.
+### The Path to Flourishing
+Pursuing wisdom and virtue is akin to walking a path less traveled. It is not as obvious or brightly lit as paths promising immediate rewards. However, it is this challenging path, often ignored, that leads to true flourishing. It is in striving to keep these values front and center, to be both loved and lovely, that we achieve a sense of contentment and a fulfilling life.
 
 Related:
 - [[Navigating wild problems shapes personal identity and growth and surfaces the inherent limits of rational decision-making]]

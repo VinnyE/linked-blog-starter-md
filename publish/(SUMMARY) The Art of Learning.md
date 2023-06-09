@@ -26,12 +26,11 @@ created: 2023-06-05
 - [[Loving the game]]
 - [[Breaking down walls]]
 - [[Developing the internal compass]]
-
+- [[Navigating greyness with the middle way]]
 
 ### General learning
-
-
-TODO: 
-The aim is to minimize repetition as much as possible, by having an eye for consistent psychological and technical themes of error.
-
-Pyramid of knowledge
+- [[Master the fundamentals]]
+- [[Learning the macro from the micro]]
+- [[Making smaller circles]]
+- [[Numbers to leave numbers]]
+- [[Bringing it all together]]

@@ -3,23 +3,24 @@ title: "Build a virtuous identity by privileging your principles"
 created: 2023-06-02
 ---
 
-Ethical dilemmas often present us with a conflict between immediate gratification and long-term consequences. These situations challenge us to balance our immediate desires with our principles related to personal growth and flourishing. A classic example is finding a lost wallet filled with cash and deciding whether to keep it or return it. This decision-making process often involves weighing what is desirable against what is feasible.
+Ethical dilemmas are an ongoing tension between our immediate desires and our higher principles. When making choices, we must avoid narrowly defining 'rationality' as choosing the most personally advantageous option. Instead, we should uphold our principles, even when doing so comes at a cost. This act of putting our principles first shapes who we are and who we aspire to become. Not everything should be a trade-off—especially not our sense of self. Over time, consistent practice and adherence to our principles can help us transform, shifting our desires towards the virtues we aspire to embody. Moreover, the principle of 'feeding the good dog' suggests that we can shape our character by regularly choosing actions that align with our principles. It's about recognizing and embracing the dynamic nature of our desires, and using this to cultivate virtuous habits and behaviors.
 
-Rational decision-making, as defined by economist Ariel Rubinstein, involves choosing the most desirable option from among feasible alternatives. However, this model of behavior can be flawed if we focus solely on immediate gratification and neglect the broader concept of flourishing. This narrow form of utilitarianism can lead us to confuse our immediate self-interest with what we ought to do.
+## Concept Breakdown
 
-In such situations, it's important to remember that pleasure can also be derived from doing the right thing. For instance, the satisfaction of returning the lost wallet can outweigh the immediate pleasure of spending the found money. This approach requires us to aspire to be a certain kind of person, one who values honesty and integrity, even when it involves making sacrifices.
+### Ethical Tensions and Rational Decisions
+Ethical dilemmas often reveal a tension between our immediate desires and higher principles. Typically, we might define a rational decision as one where we choose the most desirable and feasible option. However, this perspective may lead us to favor immediate gains over long-term flourishing, thereby risking a compromise of our principles.
 
-However, it's also true that we often struggle to uphold our principles when it's costly to do so. This struggle is reflected in the saying "where you stand depends on where you sit," which suggests that our perspectives are influenced by our circumstances. Being self-aware means recognizing that both monetary and non-monetary rewards and punishments can influence our behavior.
+### Principles Over Narrow Self-Interest
+Our decisions should not be guided solely by narrow self-interest or immediate gains. When faced with ethical dilemmas, it is critical to uphold our principles, even if this comes at a cost. The idea that our principles and core values are not for sale is fundamental to preserving our integrity and sense of self.
 
-People often react negatively to the suggestion that they respond to incentives, as it implies that their principles can be bought or sold. While it's true that we sometimes compromise our principles when the price is right, this is generally seen as a flaw rather than a virtue. Our principles and core values should not be for sale.
+### Identity Formation Through Decision-Making
+The choices we make do more than just determining the immediate outcomes of our actions; they also shape who we are and who we aspire to become. Our decisions can influence our identity and character, especially when these decisions involve upholding our principles over prioritizing immediate gains.
 
-When faced with decisions that challenge our essence, it's important to prioritize our principles over cost considerations. Doing the right thing and respecting oneself should always be the starting point. This approach applies not only to ethical dilemmas but also to everyday decisions, such as visiting a sick friend or voting in an election.
+### Transformation Through Practice and Adherence to Principles
+Habitual practice of upholding our principles can gradually transform our desires and character. By pretending to be good and consistently behaving accordingly, we can progressively actualize our ideal self. This transformation process does not necessarily mean being perfect, but continuously striving for improvement.
 
-Adopting a rule-based approach to decision-making can simplify the process and prevent us from fooling ourselves. By always putting our principles first, we can avoid the temptation to compromise our values for short-term gains. This approach requires practice and commitment, but it can lead to personal growth and transformation.
-
-The story of George Hell, who transforms himself into George Heaven by wearing a mask of virtue, illustrates this concept. By pretending to be good and acting accordingly, Hell eventually becomes the person he aspires to be. This transformation is achieved through practice and persistence.
-
-Our desires and preferences are not fixed. They can change over time through practice and habit formation. By feeding the "good dog" within us, we can cultivate virtues and make them a part of our identity. This process involves making conscious choices that align with our principles, even when they conflict with our immediate desires. In doing so, we can become better versions of ourselves.
+### The Dynamic Nature of Desires and the 'Feeding the Good Dog' Principle
+Our desires and inclinations are not fixed but rather dynamic and susceptible to change. The 'feeding the good dog' principle illustrates this concept—by continually choosing actions that align with our principles, we can nourish our virtuous character traits. Regularly feeding the good dog—our virtuous self—can lead to the cultivation of self-enforcing virtuous habits and behaviors.
 
 Related:
 - [[Adam Smith's perspective on flourishing and contentment]]

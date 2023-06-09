@@ -3,19 +3,30 @@ title: "Investment in loss"
 created: 2023-06-05
 ---
 
-In the pursuit of excellence, we should continuously seek challenges that push our abilities to the limit. Engaging in competition with those slightly superior in skill leads to growth and resilience, and instills a balanced perspective on success and failure. The path to mastery, such as in a complex game like chess, entails substantial mental, physical, and emotional commitment. Losses may be excruciating, but they are essential components of the journey. By [[Learning how to fail properly]], losses serve as powerful teachers that catalyze personal and professional growth.
+The pursuit of excellence is a journey marked with continual challenges and losses that are as vital as victories. It's crucial to embrace these experiences with a mindset geared toward learning and growth, rather than fixating solely on results. In every endeavor, we need to step out of our comfort zones, face the fear of failure, and give it our all. Embracing vulnerability and loss, like a hermit crab seeking a new shell, promotes growth and development. Such dedication, akin to the fierce tenacity of players like Michael Jordan, helps us achieve our maximum potential and allows us to learn valuable lessons from our experiences, regardless of their immediate outcomes
 
-The relationship between process and outcome is delicate. Emphasizing learning over results is healthy, but it should not be a cover for avoidance of failure or fear of judgment (see: [[Value process before results - Entity theorists vs Incremental theorists]]). Fixation on results is counterproductive, but short-term goals, embedded in a nurturing long-term philosophy, can foster development and motivation. Complete sheltering from failure can impede growth and reduce one's resilience in handling future challenges.
+## Concept Breakdown
 
-People should be encouraged, especially from an early age, to invest their whole selves in their endeavors and learn from every outcome, whether it's a success or a failure. This is crucial in the development of a healthy mindset and the ability to push one's boundaries. The pursuit of excellence requires consistent effort, willingness to resist complacency, and a readiness to confront the discomfort that comes with stretching one's abilities.
+### The Embrace of Challenge
+Pursuing excellence is an ongoing process where one is consistently faced with more potent challenges. Like in chess, it's about seeking opponents who can stretch our abilities. With each struggle, we grow stronger, and it's within this continuous progression that excellence is pursued.
 
-Various stages of learning require an understanding of one's vulnerability. There are times of strength and readiness, and there are periods of softness and growth. In these periods of learning and adaptation, one may not be at their peak performance, and that's acceptable. It's crucial to grant ourselves the time to cultivate new skills and internalize them without the pressure of immediate brilliant performance.
+### The Acceptance of Loss
+Loss is an integral part of the journey toward excellence. Although it can be brutal and painful, losing offers valuable opportunities for growth. Every defeat is a chance to learn, refine strategies, and cultivate resilience.
 
-Furthermore, it's important to have a growth mindset that embraces failure as a stepping stone towards improvement. Even in high-stakes environments where performance is consistently scrutinized, this mindset is invaluable. It allows us to continue learning and adapting without getting entrapped in the fear of public failure.
+### Process vs. Goal Dilemma
+While it's essential to focus on learning and growth, it's equally crucial to confront the results of our actions. A healthy balance between the process and the goal facilitates personal development, preparing us mentally and emotionally for the unavoidable obstacles along the path.
 
-Great achievers are distinguished not by their infallibility, but by their resilience and their willingness to continually put themselves on the line, regardless of outcome. For instance, the basketball legend Michael Jordan is renowned not only for his match-winning shots but also his numerous game-losing ones. His journey to greatness was marked by his courage to take risks and learn from the associated failures.
+### Necessity of Vulnerability
+Growth often requires us to step out of our comfort zones and expose ourselves to the possibility of failure. Just like a hermit crab must abandon its shell to grow, we too must embrace vulnerability and risk to reach our full potential.
 
-The pursuit of excellence is a long-term, organic learning process. It often requires stepping out of our comfort zones and facing the risk of failure. Like a hermit crab that abandons its shell in search of a larger one, we too must sometimes expose ourselves to vulnerabilities and uncertainties to facilitate our growth. Those who embrace this process are better equipped to navigate life's challenges and are more content on their journey. The ability to maintain this perspective amidst difficulties forms the heart of the art of learning.
+### The Power of Dedication
+Achieving greatness necessitates a relentless commitment to improvement. This means being willing to repeatedly confront failure and learn from it, just like basketball icon Michael Jordan. Dedication and tenacity, paired with an openness to learning, can lead to extraordinary achievements.
+
+### The Long-term Learning Process
+Success is often a product of a long-term, incremental approach to learning that values both the journey and the outcome. Emphasizing the importance of lessons learned from both victories and defeats, this process involves a continuous cycle of effort, learning, and adaptation.
+
+### The Importance of Mindset
+A mindset that views intelligence and abilities as malleable and capable of growth (incremental theory) is pivotal in the pursuit of excellence. Those who can derive wisdom from every experience, irrespective of the immediate outcome, tend to be more successful and content in the long run.
 
 ---
 ### References

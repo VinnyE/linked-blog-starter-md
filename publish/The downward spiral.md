@@ -3,15 +3,26 @@ title: "The downward spiral"
 created: 2023-06-07
 ---
 
-Life often presents us with obstacles and losses that can induce negative emotions. When we linger on these emotions, we divert our focus from the present to the past. This shift not only exhausts our resources but also amplifies the initial setback, creating a ripple effect of subsequent issues that veer us off our growth path. To navigate successfully through life, it is crucial to stay composed under pressure and remain rooted in the present, extracting maximum lessons from every experience.
+In the arena of competition and performance, success and failure are frequently separated by a thread-thin margin, often dependent on one's ability to stay focused, present, and cool-headed. When we experience setbacks, dwelling on them can pull us away from the present, amplifying our initial errors and initiating a devastating chain reaction of mistakes. This detachment from the present moment clouds our decision-making process, leading to even more errors. Top performers can reorient themselves rapidly after a mistake, maintaining presence and clarity of mind, effectively avoiding this downward spiral. They acknowledge the importance of accepting the reality of their situation, even when it involves a shift from advantage to disadvantage. Avoidance of reality, a form of cognitive bias, stunts our progress, detaching us from the dynamic flow of the situation, and leading us into a self-defeating cycle of overreach and rejection. High-performing individuals, however, seamlessly integrate the awareness of these cognitive biases into their intuitive processes, helping them navigate complex situations more effectively.
 
-The thin line between victory and defeat in any competitive arena is well-understood by performers across disciplines. They recognize that minor mistakes can sometimes lead to brilliant creations, with the caveat being an unhealthy obsession with perfection or exact replication. Such obsession can trigger fear and confusion, muddling decision-making. Therefore, it's essential to regain presence of mind and clarity swiftly after committing a serious error. The initial mistake is seldom disastrous; however, a succession of errors can spiral into a catastrophic chain reaction.
+## Concept Breakdown
 
-Visualizing two parallel lines - one representing time and the other our perception of the moment - can be illuminating. Being present aligns us with the expansion of time, while dwelling on past mistakes creates a layer of detachment as time progresses and we stagnate.
+### The Fine Margin Between Success and Failure
+In high-stakes situations, whether they're sporting events, intellectual contests, or performance arts, the difference between winning and losing can often come down to the smallest details. This can be a fleeting moment of insight, a minute error, or a swift recovery from a mistake. What separates winners from losers is not just skill, but a combination of presence, clarity, and the ability to stay calm under pressure.
 
-The capacity to be clear-headed, present, and composed under pressure distinguishes the best from the mediocre in all fields. The dynamics of this difference become glaringly evident in competitive situations. A player who maintains serenity and focus, as opposed to one torn apart by internal strife, has an apparent advantage, as the latter tends to make cumulative errors leading to their downfall.
+### The Dangers of Dwelling on Past Mistakes
+When we experience a setback or make an error, it can be tempting to dwell on the mistake. However, this fixation on the past can distract us from the present, leading us to make further errors and creating a chain reaction of mistakes. This can then drag us even further away from our goals.
 
-In a complex process such as decision-making, cognitive biases and intuitive processes don't function in isolation. Expert thinkers integrate awareness of cognitive biases into their intuition. This fusion enhances technical understanding and enables intuitive leaps in knowledge. However, instead of intuiting the cognitive bias, we intuit the associated feelings when the bias is present. Hence, in competitive situations like a chess game, emotional attachment to past advantage following a slight mistake could lead to cognitive bias. This bias can cause the player to reject acceptable positions and overstretch for unattainable ones, triggering a downward spiral. It's crucial to stay present (see: [[The power of presence]]) to avoid emotional attachment to past evaluations and subsequent cognitive bias.
+### The Importance of Mental Presence and Clarity
+Top performers understand the importance of mental clarity and staying present in the moment. After making a mistake, they are able to quickly reorient themselves and regain their focus. This ability to stay present and avoid the trap of dwelling on past mistakes is a key factor in avoiding a downward spiral of compounding errors.
+    
+### The Reality of Shifts in Advantage
+Competitive situations often involve shifting dynamics, where one can quickly move from a position of advantage to one of disadvantage. Accepting this shift in reality is crucial to maintaining clear judgment and decision-making. Failure to accept this shift can lead to cognitive biases that cloud our judgment and trigger a self-defeating cycle.
+
+### Cognitive Biases and Their Impact on Performance
+Our cognitive biases can lead us to reject situations we should accept, and overreach for outcomes that are beyond our grasp. This can trigger a downward spiral, causing us to make further mistakes. High performers, however, have the ability to recognize these biases and integrate this awareness into their intuitive decision-making processes. This allows them to navigate complex situations more effectively and maintain a high level of performance even under pressure.
+
+(see: [[The power of presence]]) 
 
 ---
 ### References

@@ -3,23 +3,24 @@ title: "The Vampire Problem"
 created: 2023-05-29
 ---
 
-The process of decision-making, particularly for life-altering choices , is akin to navigating uncharted territory with no map, where the future is obscured and the repercussions are beyond comprehension (see: [[Navigating wild problems shapes personal identity and growth and surfaces the inherent limits of rational decision-making]]). This complexity is epitomized by L. A. Paul's "Vampire Problem", a metaphor suggesting that life-changing decisions, much like deciding to become a vampire, can't truly be understood until experienced firsthand. We might be able to listen to others who have undergone similar transformations or changes, and while their experiences can provide valuable insight, they cannot guarantee how we, as individuals, will react or adapt.
+When Darwin was torn between marriage and bachelorhood, he was essentially peering into alternative universes, trying to estimate his future well-being. This mirrors our own experiences with significant decisions—like turning into a vampire in a thought experiment—where we simply lack the data to accurately predict our changed selves post-decision. We find ourselves on the edge of a cliff, poised to plunge into an altered reality that may shift our preferences and even our identity. Darwin's musings on marriage are indicative of his limited outsider perspective, highlighting our struggle to grasp the profound inner transformations induced by major life decisions. Hence, while conversing with those who've walked the path can offer some insights, ultimately, these life-altering decisions remain deeply personal, convoluted, and elusive to articulate.
 
-Our identity and preferences evolve as we change, creating a conundrum: should our decisions be based on who we are now, or on the person we may become as a result of the decision? This poses a challenge when contemplating significant life decisions, such as marriage, parenthood, or changing religious affiliation. The crux of the problem lies in the fact that these decisions alter our existence in ways that are impossible to predict, influencing our attitudes, values, and sources of happiness or sorrow.
+## Concept Breakdown
 
-Take [[Darwin's dilemma and the illusion of rationality in wild problem decision-making]], for instance. His pros and cons list could only represent a limited perspective, informed by his unmarried state and observations of married life from an external viewpoint. This approach barely scratches the surface of the inner life of a married person, which is laden with deeply personal and transformative experiences. Darwin's list, thus, reflected more about him as an individual than the universal reality of marriage. 
+### The Inadequacy of Expected Utility
+The decision-making process often involves trying to maximize expected utility, essentially imagining alternative futures and assessing our potential well-being. However, this approach, although seemingly rational, often falls short when dealing with significant life choices, as they often lead to 'wild problems' with unpredictable outcomes.
 
-As noted in the first chapter of [[Wild Problems]]:
+### The Unknown Leap into Vampire World
+Choosing to undergo a transformative experience—likened to becoming a vampire in this context—encapsulates the idea of 'wild problems.' These decisions often require leaping into the unknown, where your preferences and your identity might fundamentally change, and the data about how you will feel about the new reality is simply nonexistent until you experience it.
 
-> One answer to the challenge of wild problems is to try to measure what you can, and do your best to quantify what you can’t. That seems better than nothing, and the very process of gathering more information settles your nerves. You’re making progress toward the right answer, you tell yourself. You’re taking a step in the right direction. 
-> 
-> But it can be a step in the wrong direction. If you’re not careful, you’re like the person under the streetlight searching for lost keys. Did you lose them here? asks a passerby who volunteers to help. No, says the seeker, but the light’s better here. Using a flashlight to make the area under the streetlight even brighter might seem like a rational response, but if the keys are far from the light and deep in the shadows, you’re only fooling yourself into thinking you’re getting closer to finding them. 
+### The Problem of Future Self
+Who should you consider when making decisions that will significantly alter your life—the present you or the future you? This dilemma exposes the complex nature of our identity in the face of significant changes, complicating the decision-making process further.
 
-(note to self: great metaphor for availability bias)
+### The Outsider Perspective in Decision Making
+When contemplating significant life decisions, such as marriage or parenthood, our insights often stem from an outsider's perspective, as seen in [[Darwin's dilemma and the illusion of rationality in wild problem decision-making]]. However, this view can offer only a limited understanding of the profound inner changes these experiences can bring about.
 
-To fully comprehend these transformative experiences, one needs to peer into the inner worlds of those who have undergone the change (see: [[Navigate unfamiliar domains effectively by leveraging expertise and mental models]]). However, accessing these intimate narratives can be challenging. People often hesitate to share their personal experiences due to their private nature. Furthermore, many may lack self-awareness about how the experience has changed them. Others might be uncomfortable acknowledging the complexities and challenges inherent in these transformations. Lastly, even if one is willing and able to express their experiences, the intricacy of human emotions often defies simple articulation.
-
-This draws attention to the inherent limits of rational decision-making when it comes to life-altering choices. Not only is it impossible to fully comprehend the benefits and costs until experienced, but it also raises the question of whose preferences should be prioritized: those of the individual before the transformation, or those of the transformed individual? Even if others seem content with their choices, there is no guarantee that we would experience the same level of satisfaction or fulfillment. Thus, these decisions often involve a leap of faith, trusting in the potential for growth and transformation inherent in life's unpredictable journey.
+### The Complex Nature of Articulating Personal Experiences
+People who have undergone transformative experiences may struggle to express their feelings and insights accurately due to the deeply personal, intimate, and complex nature of these emotions. This limits the reliability of second-hand experiences in informing our decisions, as they can only offer a faint sketch of the real experience, which is uniquely individual and intricate.
 
 Related:
 - [[When faced with a decision, we should consider not just the immediate utility of our choices, but also how we may flourish]]
