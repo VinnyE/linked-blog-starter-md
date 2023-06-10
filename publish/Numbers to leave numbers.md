@@ -22,6 +22,10 @@ In the learning process, technical details and principles initially dominate our
 ### The Role of the Unconscious Mind
 As we repeatedly digest and practice small chunks of knowledge, they move from the conscious mind to the unconscious mind. In the unconscious realm, these pieces of knowledge interconnect and can manifest as sudden bursts of intuitive insight. This high level of knowledge integration signifies a deep understanding of the discipline and paves the way for creative innovation.
 
+Related:
+- [[Techniques for uncovering first principles]]
+- 
+
 ---
 ### References
 

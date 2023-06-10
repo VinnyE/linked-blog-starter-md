@@ -22,6 +22,10 @@ True learning that leads to accomplishment involves embracing the joy and beauty
 ### The Micro-Macro Connection
 Studying the minute, "micro" aspects of a subject can lead to a profound understanding of its "macro" components. The deep exploration of small, specific pieces of information allows us to understand the core principles of our subject, leading to nuanced insights and a comprehensive picture.
 
+Related:
+- [[First principles thinking and its evolving nature]]
+- [[Techniques for uncovering first principles]]
+
 ---
 ### References
 

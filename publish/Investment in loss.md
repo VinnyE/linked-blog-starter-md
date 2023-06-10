@@ -28,6 +28,13 @@ Success is often a product of a long-term, incremental approach to learning that
 ### The Importance of Mindset
 A mindset that views intelligence and abilities as malleable and capable of growth (incremental theory) is pivotal in the pursuit of excellence. Those who can derive wisdom from every experience, irrespective of the immediate outcome, tend to be more successful and content in the long run.
 
+Related:
+- [[Value process before results - Entity theorists vs Incremental theorists]]
+- [[Learning how to fail properly]]
+- [[Bill Bellichick's Philosophy - trading perfection for optionality]]
+- [[To live like an artist release control and embrace discovery]]
+- [[The Antifragile Mindset]]
+ 
 ---
 ### References
 

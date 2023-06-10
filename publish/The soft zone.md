@@ -22,6 +22,18 @@ Mental resilience is a defining trait of world-class performers. It involves cul
 ### Creating Your Own Earthquakes
 Once you've mastered the ability to stay focused amidst disruptions and turn them into opportunities for growth, you reach a stage where you can create your own "earthquakes." This refers to the ability to drive your own growth and inspiration, without the need for external stimuli or challenges.
 
+Related:
+- [[To live like an artist release control and embrace discovery]]
+- [[The Antifragile Mindset]]
+- [[The internal solution]]
+- [[Using adversity]]
+- [[Value process before results - Entity theorists vs Incremental theorists]]
+- [[Learning how to fail properly]]
+- [[Upside optionality]]
+- [[The journey to flourishing is paved with Type 2 experiences]]
+- [[Organizations are shifting to problem-solving orientations, with AI playing a crucial role]]
+- 
+
 ---
 ### References
 

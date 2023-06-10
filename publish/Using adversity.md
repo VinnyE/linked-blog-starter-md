@@ -21,6 +21,9 @@ Maintaining composure under stress is essential to optimal performance. A calm a
 
 Related: 
 - https://twitter.com/emollick/status/1665689954809180160
+- [[The journey to flourishing is paved with Type 2 experiences]]
+- [[The Antifragile Mindset]]
+- [[Learning how to fail properly]]
 
 ---
 ### References

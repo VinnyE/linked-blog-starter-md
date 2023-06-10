@@ -9,6 +9,12 @@ _Note to self_: Josh Waitzkin and [[The Art of Learning]] probably a good resour
 
 #toProcess
 
+Related:
+- [[Master the fundamentals]]
+- [[Learning the macro from the micro]]
+- [[Making smaller circles]]
+- [[Numbers to leave numbers]]
+
 ---
 ### References
 

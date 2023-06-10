@@ -15,14 +15,19 @@ When we experience a setback or make an error, it can be tempting to dwell on th
 
 ### The Importance of Mental Presence and Clarity
 Top performers understand the importance of mental clarity and staying present in the moment. After making a mistake, they are able to quickly reorient themselves and regain their focus. This ability to stay present and avoid the trap of dwelling on past mistakes is a key factor in avoiding a downward spiral of compounding errors.
-    
+
 ### The Reality of Shifts in Advantage
 Competitive situations often involve shifting dynamics, where one can quickly move from a position of advantage to one of disadvantage. Accepting this shift in reality is crucial to maintaining clear judgment and decision-making. Failure to accept this shift can lead to cognitive biases that cloud our judgment and trigger a self-defeating cycle.
 
 ### Cognitive Biases and Their Impact on Performance
 Our cognitive biases can lead us to reject situations we should accept, and overreach for outcomes that are beyond our grasp. This can trigger a downward spiral, causing us to make further mistakes. High performers, however, have the ability to recognize these biases and integrate this awareness into their intuitive decision-making processes. This allows them to navigate complex situations more effectively and maintain a high level of performance even under pressure.
 
-(see: [[The power of presence]]) 
+Related:
+- [[Using flawed models leads to suboptimal decisions and repeated mistakes]]
+- [[Self-awareness is the ego's antidote]]
+- [[Reveal reality through the lens of mental models]]
+- [[The power of presence]]
+- [[Using flawed models leads to suboptimal decisions and repeated mistakes]]
 
 ---
 ### References

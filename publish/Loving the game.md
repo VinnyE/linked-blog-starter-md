@@ -22,6 +22,10 @@ In the context of chess, maintaining a healthy perspective on the game means con
 ### The Role of a Supportive Mentor in Nurturing a Healthy Mindset
 A supportive and empathetically present adult—be it a parent, coach, or mentor—can help foster a liberated mindset in an ambitious child. As we grow older, it becomes our responsibility to nurture this mindset, allowing us to approach our ambitions with a balanced and playful spirit.
 
+Related:
+- [[Self-awareness is the ego's antidote]]
+- [[Learning how to fail properly]]
+
 ---
 ### References
 

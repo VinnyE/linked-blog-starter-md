@@ -19,6 +19,9 @@ Effective learning requires both openness to new ideas and preservation of your 
 ### The Dance of Idealism and Practicality
 Creative idealism needs to dance with practical, technical awareness for optimal learning and performance. Dreaming big can open doors to innovation and progress, but a grounded understanding of reality ensures that these dreams are achievable. This concept underscores the importance of both envisioning possibilities and realistically working towards them.
 
+Related:
+- [[To live like an artist release control and embrace discovery]]
+
 ---
 ### References
 

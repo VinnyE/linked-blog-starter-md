@@ -22,6 +22,11 @@ Once we understand our emotions and how to channel them, we can generate our own
 ### Emotion as a Tool for Overcoming Obstacles
 Emotions, rather than distracting us, can be harnessed to help us overcome obstacles. By understanding our inner turmoil, and learning to flow with heightened emotions, we can turn them into creative inspiration for successful action.
 
+Related:
+- [[The Antifragile Mindset]]
+- [[Learning how to fail properly]]
+- 
+
 ---
 ### References
 

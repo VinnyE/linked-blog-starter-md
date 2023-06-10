@@ -22,6 +22,11 @@ To truly progress, we must be willing to confront our mistakes and weaknesses ra
 ### Linking All Aspects of Life
 Our lives are interconnected webs. Our mindset in one aspect can ripple into others. Hence, addressing the psychological patterns and emotional responses that hinder our success is crucial. By recognizing these threads that connect mind and action, we can remove mental barriers, leading to more harmonious and successful interactions in all parts of our lives.
 
+Related:
+- [[Embracing Munger's multidisciplinary latticework of mental models]]
+- [[Self-awareness is the ego's antidote]]
+- 
+
 ---
 ### References
 

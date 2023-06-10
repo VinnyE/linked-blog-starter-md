@@ -13,4 +13,4 @@ excerpt: "Home page"
 - [[(SUMMARY) The Great Mental Models]]
 - [[(SUMMARY) Bulletproof Problem Solving]]
 - [[(SUMMARY) Wild Problems]]
-- [[(SUMMARY) The Art of Learning]] *IN PROGRESS*
+- [[(SUMMARY) The Art of Learning]]

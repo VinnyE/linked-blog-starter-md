@@ -3,7 +3,7 @@ title: "Overcoming assumptions and fostering creativity"
 created: 2023-05-08
 ---
 
-To be truly creative, we need to challenge conventional wisdom and break down concepts into their fundamental principles. Relying on others' ideas and methods without understanding the rationale behind them can limit innovation and lead to costly mistakes. One way we can do this is by relying on [[First principles thinking and its evolving nature]]. 
+To be truly creative, we need to challenge conventional wisdom and break down concepts into their fundamental principles. Relying on others ideas and methods without understanding the rationale behind them can limit innovation and lead to costly mistakes. One way we can do this is by relying on [[First principles thinking and its evolving nature]]. 
 
 First principles thinking enables us to analyze situations independently, identify underlying principles, and determine if existing methods are effective. Contrary to popular belief, creativity is not an innate trait exclusive to certain individuals; rather, it can be nurtured and developed. By adopting first principles thinking and looking beyond societal conventions, we give ourselves a better chance of realizing our creative potential and broaden our perspectives, making previously unimaginable solutions possible.
 

@@ -7,6 +7,11 @@ First principles are foundational concepts that guide our understanding and deci
 
 First principles thinking is another sort of mental model (see: [[What are mental models]]) we can leverage to [[Enhance decision-making by overcoming obstacles to learning from reality]] . How can we leverage first principles? We can use [[Techniques for uncovering first principles]].
 
+Related:
+- [[Numbers to leave numbers]]
+- [[Learning the macro from the micro]]
+- [[Making smaller circles]]
+
 ---
 ### References
 
