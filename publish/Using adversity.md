@@ -11,7 +11,7 @@ World-class performers share a key trait: they're able to face challenges head-o
 
 [[Mental resilience goes beyond simply withstanding hardships. It involves a positive engagement with discomfort and pain]]
 
-[[Emotional Mastery for Enhanced Performance]]
+[[By developing an understanding of emotions, making peace with them, and eventually harnessing them, performers can channel their emotional energy into improving their performance levels]]
 
 [[Maintaining composure under stress is essential to optimal performance]]
 
@@ -35,4 +35,4 @@ Related:
 
 ### Related Notes
 **Source**: [[The Art of Learning]]
-**Tags**: #EvergreenNote
+**Tags**: #LiteratureNote 

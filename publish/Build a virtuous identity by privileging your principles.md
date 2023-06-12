@@ -7,11 +7,11 @@ Ethical dilemmas are an ongoing tension between our immediate desires and our hi
 
 ## Concept Breakdown
 
-[[Principles Over Narrow Self-Interest]]
+[[When faced with ethical dilemmas, it is critical to uphold our principles, even if this comes at a cost]]
 
 [[We can learn to gradually transform our character and desires by habitually practicing and upholding our principles]]
 
-[[The Dynamic Nature of Desires and the 'Feeding the Good Dog' Principle]]
+[[Our desires and inclinations are not fixed but rather dynamic and susceptible to change]]
 
 Related:
 - [[Adam Smith's perspective on flourishing and contentment]]
@@ -59,5 +59,5 @@ Related:
 > In most areas of life, especially the important ones, our desires aren’t fixed in the way economists usually think of them. Many of our desires are in conflict. We all have urges that we long to indulge and sometimes these urges sit uneasily with us. Sometimes we long to limit our urges, whether food, sex, money, or the app on your phone that you spend time with compulsively. We have a good dog and a bad one fighting each other all the time. Feed the good dog. Feed it often enough and it starts to win the fights with the bad dog.
 
 ### Related Notes
-**Source**: [[remote-blog/publish/Wild Problems]]
-**Tags**: #EvergreenNote
+**Source**: [[Readwise/Books/Wild Problems|Wild Problems]]
+**Tags**: #LiteratureNote 

@@ -1,5 +1,5 @@
 ---
-title: Scalar Thinking and its Origin
+title: "Scalar Thinking and its Origin"
 created: 2023-06-11
 ---
 
@@ -7,4 +7,4 @@ The concept of scalar thinking arises from the Latin term "scala", meaning a lad
 
 ### Related Notes
 **Source**: [[Darwin's dilemma and the illusion of rationality in wild problem decision-making]]
-**Tags**: #EvergreenNote
+**Tags**: #EvergreenNote #WildProblems #WaitingRoom 

@@ -7,4 +7,5 @@ There is no rule book for life decisions. Understanding when to persevere and wh
 
 ### Related Notes
 **Source**: [[To live like an artist release control and embrace discovery]]
-**Tags**: #EvergreenNote
+**Tags**: #EvergreenNote #WildProblems #WaitingRoom 
+

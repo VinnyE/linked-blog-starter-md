@@ -7,24 +7,16 @@ Creativity is the spark that leaps from the solid foundation of deeply internali
 
 ## Concept Breakdown
 
-### The Foundation of Creativity
-Creativity is not a standalone phenomenon but a function of deeply internalized knowledge. It's a leap that utilizes what we already know and pushes it a step or two further, resulting in novel discoveries.
+[[Creativity is a function of the previous work we put in]]
 
-### Building the Pyramid of Knowledge
-The acquisition and internalization of knowledge can be likened to building a pyramid. Each level represents a set of technical information and principles, which, once mastered, leads us to the next level. When a creative burst occurs, it represents a new insight or discovery that is just beyond the current top of our pyramid of knowledge.
+[[The acquisition and internalization of knowledge can be likened to building a pyramid, where each level represents a set of technical information and principles, which once mastered, leads to the next level]]
 
-### Connecting Creativity to Knowledge
-A critical aspect of the creative process involves tracing back a creative discovery to its roots in the existing knowledge. This involves breaking down the discovery into its technical components and understanding what makes it work—essentially figuring out the "magic" behind the insight.
+[[We can better connect creativity to knowledge by tracing back a creative discovery to its roots]]
 
-### Transition from Numbers to Intuition
-In the learning process, technical details and principles initially dominate our understanding. With time and practice, these details transition from being explicit numerical values to intuitive concepts. This shift allows for a more fluid understanding and application of the knowledge, enhancing our ability to make insightful leaps in the discipline.
-
-### The Role of the Unconscious Mind
-As we repeatedly digest and practice small chunks of knowledge, they move from the conscious mind to the unconscious mind. In the unconscious realm, these pieces of knowledge interconnect and can manifest as sudden bursts of intuitive insight. This high level of knowledge integration signifies a deep understanding of the discipline and paves the way for creative innovation.
+[[We are able to quickly and instinctively draw upon skills at will after they have been practiced repeatedly, ingraining them into our subconscious]]
 
 Related:
 - [[Techniques for uncovering first principles]]
-- 
 
 ---
 ### References
@@ -41,4 +33,4 @@ Related:
 
 ### Related Notes
 **Source**: [[The Art of Learning]]
-**Tags**: #EvergreenNote
+**Tags**: #LiteratureNote 

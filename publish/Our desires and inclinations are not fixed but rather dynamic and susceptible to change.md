@@ -1,7 +1,9 @@
 ---
-title: "The Dynamic Nature of Desires and the 'Feeding the Good Dog' Principle"
+title: "Our desires and inclinations are not fixed but rather dynamic and susceptible to change"
 created: 2023-06-11
 ---
+
+### The Dynamic Nature of Desires and the 'Feeding the Good Dog' Principle
 
 > A Native American Elder once described his own inner struggles in this manner: “Inside of me there are two dogs. One of the dogs is mean and evil. The other dog is good. The mean dog fights the good dog all the time.” When asked which dog wins, he reflected for a moment and replied, “The one I feed the most.”
 
@@ -11,5 +13,5 @@ See also [[We can learn to gradually transform our character and desires by habi
 
 ### Related Notes
 **Source**: [[Build a virtuous identity by privileging your principles]]
-**Tags**: #EvergreenNote
+**Tags**: #EvergreenNote #WildProblems #WaitingRoom 
 

@@ -7,5 +7,5 @@ Once we understand our emotions and how to channel them, we can generate our own
 
 ### Related Notes
 **Source**: [[The internal solution]]
-**Tags**: #EvergreenNote
+**Tags**: #EvergreenNote #TheArtOfLearning #WaitingRoom 
 

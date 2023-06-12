@@ -7,5 +7,5 @@ Retaining the curiosity, joy, and open-mindedness of a child propels us forward 
 
 ### Related Notes
 **Source**: [[Beginner's mind]]
-**Tags**: #EvergreenNote
+**Tags**: #EvergreenNote #TheArtOfLearning #WaitingRoom 
 

@@ -1,5 +1,5 @@
 ---
-title: The Limitation of Formulas in Life
+title: "We're always on the lookout for a formula to reduce uncertainty, but life's intricacies often defy such straightforward solutions"
 created: 2023-06-11
 ---
 
@@ -7,4 +7,4 @@ We're always on the lookout for a formula to reduce uncertainty. Formulas, in th
 
 ### Related Notes
 **Source**: [[Darwin's dilemma and the illusion of rationality in wild problem decision-making]]
-**Tags**: #EvergreenNote
+**Tags**: #EvergreenNote #WildProblems #WaitingRoom 

@@ -1,5 +1,5 @@
 ---
-title: The Path to Flourishing
+title: "The path to flourishing is not as obvious or brightly lit as paths promising immediate rewards"
 created: 2023-06-11
 ---
 
@@ -7,5 +7,5 @@ Pursuing wisdom and virtue is akin to walking a path less traveled. It is not as
 
 ### Related Notes
 **Source**: [[Adam Smith's perspective on flourishing and contentment]]
-**Tags**: #EvergreenNote
+**Tags**: #EvergreenNote #WildProblems #WaitingRoom 
 

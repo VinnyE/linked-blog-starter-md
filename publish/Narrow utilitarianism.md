@@ -8,6 +8,6 @@ created: 2023-06-02
 However, when this concept is applied narrowly, it can lead to decisions that prioritize short-term benefits or pleasures without considering long-term consequences, ethical implications, or impacts on others. This narrow focus can sometimes lead to actions that are self-serving and may not align with one's broader values or principles related to personal growth and flourishing.
 
 ### Related Notes
-**Source**: [[remote-blog/publish/Wild Problems]]
+**Source**: [[Wild problems are the significant, life-altering decisions we encounter, where the outcomes are unclear, and each choice can significantly influence our identity and future]]
 **Tags**: #EvergreenNote
 

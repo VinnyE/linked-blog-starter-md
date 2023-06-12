@@ -7,5 +7,6 @@ Grit and persistence, while often valued, may be overrated. Russ Roberts suggest
 
 ### Related Notes
 **Source**: [[Bill Bellichick's Philosophy - trading perfection for optionality]]
-**Tags**: #EvergreenNote
+**Tags**: #EvergreenNote #WildProblems #WaitingRoom 
+
 

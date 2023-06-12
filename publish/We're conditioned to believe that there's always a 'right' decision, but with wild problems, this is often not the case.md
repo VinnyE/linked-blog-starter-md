@@ -1,5 +1,5 @@
 ---
-title:  The Illusion of the Right Decision
+title: "We're conditioned to believe that there's always a 'right' decision, but with wild problems, this is often not the case"
 created: 2023-06-11
 ---
 
@@ -7,4 +7,4 @@ Many of us are conditioned to believe that there's always a 'right' decision wai
 
 ### Related Notes
 **Source**: [[Penelope's dilemma, the secretary problem, and the fallacy of 'best' in human relationships]]
-**Tags**: #EvergreenNote
+**Tags**: #EvergreenNote #WildProblems #WaitingRoom 

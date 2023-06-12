@@ -48,4 +48,4 @@ Related:
 
 ### Related Notes
 **Source**: [[The Art of Learning]]
-**Tags**: #EvergreenNote
+**Tags**: #LiteratureNote 

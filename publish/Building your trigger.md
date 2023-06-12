@@ -13,7 +13,7 @@ Life isn't a movie; it's a mix of both climactic and ordinary moments, and we mu
 
 [[Use serenity triggers to snap into a serene state]]
 
-[[Serenity triggers can provide the necessary calm and alertness for excelling in high-pressure moments]]
+[[Serenity triggers can provide the necessary calm and alertness for excelling in unfamiliar situations and high-pressure moments]]
 
 ---
 ### References

@@ -7,7 +7,7 @@ A mindset that views intelligence and abilities as malleable and capable of grow
 
 ### Related Notes
 **Source**: [[Investment in loss]]
-**Tags**: #EvergreenNote
+**Tags**: #EvergreenNote #TheArtOfLearning #WaitingRoom 
 
 
 

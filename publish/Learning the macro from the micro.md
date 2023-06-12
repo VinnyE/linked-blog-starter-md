@@ -32,8 +32,6 @@ Related:
 
 > We cannot hope to grasp the inherent joy and beauty of learning nor lead a life of serious accomplishment if we only skim the surfaces of subjects and acquaint ourselves with thin layers of knowledge. In order to excel, our approach to learning must emphasize depth over breadth. We have to resist the attraction to superficial stimulation that our media-driven society cultivates. The alternative is to dive deeply into small pools of information in order to explore and experience the operating principles of whatever we are learning. Once we grasp the essence of our subject through focused study of core principles, we can build on nuanced insights and, eventually, see a much bigger picture. The essence of this approach is to study the micro in order to learn what makes the macro tick. – https://theartoflearningproject.org/resources/advanced-learning/learning-the-macro-from-the-micro/
 
-
-
 ### Related Notes
 **Source**: [[The Art of Learning]]
 **Tags**: #LiteratureNote 

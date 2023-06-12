@@ -7,4 +7,4 @@ Success is often a product of a long-term, incremental approach to learning that
 
 ### Related Notes
 **Source**: [[Investment in loss]]
-**Tags**: #EvergreenNote
+**Tags**: #EvergreenNote #TheArtOfLearning #WaitingRoom 

@@ -1,5 +1,5 @@
 ---
-title: The Importance of Timing and Order of Experiences
+title: "Experiences are about more than just their nature. The order in which experiences occurred also matters"
 created: 2023-06-11
 ---
 
@@ -7,4 +7,5 @@ Experiences aren't just about their nature (pleasurable or painful), but also th
 
 ### Related Notes
 **Source**: [[The journey to flourishing is paved with Type 2 experiences]]
-**Tags**: #EvergreenNote
+**Tags**: #EvergreenNote #WildProblems #WaitingRoom 
+

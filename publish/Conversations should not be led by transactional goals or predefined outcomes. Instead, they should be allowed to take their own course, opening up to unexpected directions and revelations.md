@@ -7,4 +7,5 @@ Conversations, like works of art, should not be led by transactional goals or pr
 
 ### Related Notes
 **Source**: [[To live like an artist release control and embrace discovery]]
-**Tags**: #EvergreenNote
+**Tags**: #EvergreenNote #WildProblems #WaitingRoom 
+

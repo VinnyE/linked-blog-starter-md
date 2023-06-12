@@ -7,5 +7,5 @@ Success and failure in different fields can be heavily influenced by an individu
 
 ### Related Notes
 **Source**: [[Value process before results - Entity theorists vs Incremental theorists]]
-**Tags**: #EvergreenNote
+**Tags**: #EvergreenNote #TheArtOfLearning #WaitingRoom 
 

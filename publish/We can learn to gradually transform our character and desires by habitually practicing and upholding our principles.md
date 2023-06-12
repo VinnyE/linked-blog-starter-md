@@ -7,8 +7,9 @@ The choices we make do more than just determining the immediate outcomes of our 
 
 This is the lesson from the short story [The Happy Hypocrite](https://en.wikipedia.org/wiki/The_Happy_Hypocrite) by Max Beerbohm. 
 
-For another take on this, see [[The Dynamic Nature of Desires and the 'Feeding the Good Dog' Principle]]
+For another take on this, see [[Our desires and inclinations are not fixed but rather dynamic and susceptible to change]]
 
 ### Related Notes
 **Source**: [[Build a virtuous identity by privileging your principles]]
-**Tags**: #EvergreenNote
+**Tags**: #EvergreenNote #WildProblems #WaitingRoom 
+

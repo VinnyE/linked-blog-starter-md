@@ -7,13 +7,13 @@ Life presents us with wild problems, pivotal decisions shrouded in uncertainty, 
 
 ## Concept Breakdown
 
-[[remote-blog/publish/Wild Problems]]
+[[Wild problems are the significant, life-altering decisions we encounter, where the outcomes are unclear, and each choice can significantly influence our identity and future]]
 
 [[The decline of authority and tradition has led to more uncertainty in navigating wild problems]]
 
-[[The Misleading Comfort of Quantification]]
+[[In the face of wild problems, focusing solely on what we can measure can often lead us astray]]
 
-[[The Illusion of the Right Decision]]
+[[We're conditioned to believe that there's always a 'right' decision, but with wild problems, this is often not the case]]
 
 [[The Streetlight Effect]]
 
@@ -49,6 +49,6 @@ Related:
 > But it can be a step in the wrong direction. If you’re not careful, you’re like the person under the streetlight searching for lost keys. Did you lose them here? asks a passerby who volunteers to help. No, says the seeker, but the light’s better here. Using a flashlight to make the area under the streetlight even brighter might seem like a rational response, but if the keys are far from the light and deep in the shadows, you’re only fooling yourself into thinking you’re getting closer to finding them. By focusing on what you know about and can imagine, you’re ignoring the full range of choices open to you. 
 
 ### Related Notes
-**Source**: [[remote-blog/publish/Wild Problems]]
-**Tags**: #EvergreenNote
+**Source**: [[Wild problems are the significant, life-altering decisions we encounter, where the outcomes are unclear, and each choice can significantly influence our identity and future]]
+**Tags**: #LiteratureNote 
 

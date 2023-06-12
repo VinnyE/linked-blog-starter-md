@@ -7,5 +7,5 @@ The process of channeling our gut reactions into intensity is a natural human ab
 
 ### Related Notes
 **Source**: [[The internal solution]]
-**Tags**: #EvergreenNote
+**Tags**: #EvergreenNote #TheArtOfLearning #WaitingRoom 
 

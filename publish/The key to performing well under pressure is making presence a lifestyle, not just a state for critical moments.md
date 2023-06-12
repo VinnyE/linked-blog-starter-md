@@ -7,4 +7,4 @@ The key to performing well under pressure is making presence a lifestyle, not ju
 
 ### Related Notes
 **Source**: [[The power of presence]]
-**Tags**: #EvergreenNote
+**Tags**: #EvergreenNote #TheArtOfLearning #WaitingRoom 

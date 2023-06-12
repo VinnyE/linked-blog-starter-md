@@ -9,5 +9,5 @@ Sometimes, the most meaningful action is to wait attentively, to slow down and o
 
 ### Related Notes
 **Source**: [[To live like an artist release control and embrace discovery]]
-**Tags**: #EvergreenNote
+**Tags**: #EvergreenNote #WildProblems #WaitingRoom 
 

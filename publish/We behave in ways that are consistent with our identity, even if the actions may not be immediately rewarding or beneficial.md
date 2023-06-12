@@ -7,4 +7,4 @@ Our identity plays a crucial role in our decision-making process, impacting how 
 
 ### Related Notes
 **Source**: [[Adam Smith's perspective on flourishing and contentment]]
-**Tags**: #EvergreenNote
+**Tags**: #EvergreenNote #WildProblems #WaitingRoom 

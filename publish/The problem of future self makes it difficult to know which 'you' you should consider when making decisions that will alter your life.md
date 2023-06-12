@@ -1,5 +1,5 @@
 ---
-title:  "The Problem of Future Self"
+title: "The problem of future self makes it difficult to know which 'you' you should consider when making decisions that will alter your life"
 created: 2023-06-11
 ---
 
@@ -7,4 +7,5 @@ Who should you consider when making decisions that will significantly alter your
 
 ### Related Notes
 **Source**: [[The Vampire Problem]]
-**Tags**: #EvergreenNote
+**Tags**: #EvergreenNote #WildProblems #WaitingRoom 
+

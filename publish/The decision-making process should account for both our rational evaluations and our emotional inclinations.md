@@ -9,6 +9,6 @@ When it comes to evaluating life's course, it's more effective to consider separ
 
 ### Related Notes
 **Source**: [[When faced with a decision, we should consider not just the immediate utility of our choices, but also how we may flourish]]
-**Tags**: #EvergreenNote
+**Tags**: #EvergreenNote #WildProblems #WaitingRoom 
 
 

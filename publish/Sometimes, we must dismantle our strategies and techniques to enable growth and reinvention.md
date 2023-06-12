@@ -8,4 +8,4 @@ Sometimes, we must dismantle our strategies and techniques to enable growth and 
 
 ### Related Notes
 **Source**: [[Beginner's mind]]
-**Tags**: #EvergreenNote
+**Tags**: #EvergreenNote #TheArtOfLearning #WaitingRoom 

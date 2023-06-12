@@ -1,5 +1,5 @@
 ---
-title: Developing a heightened state of awareness can make common experiences feel extraordinary, letting us draw insights from unexpected sources and making each moment rich and unique
+title: "Developing a heightened state of awareness can make common experiences feel extraordinary, letting us draw insights from unexpected sources and making each moment rich and unique"
 created: 2023-06-11
 ---
 

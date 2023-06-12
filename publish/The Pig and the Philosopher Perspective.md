@@ -1,5 +1,5 @@
 ---
-title: "The Pig and the Philosopher Perspective"
+title: "The pig and the philosopher perspective"
 created: 2023-06-11
 ---
 
@@ -7,4 +7,5 @@ This perspective contrasts the immediate, hedonistic satisfaction of a "pig," un
 
 ### Related Notes
 **Source**: [[The journey to flourishing is paved with Type 2 experiences]]
-**Tags**: #EvergreenNote
+**Tags**: #EvergreenNote #WildProblems #WaitingRoom 
+

@@ -9,13 +9,13 @@ Life isn't merely a series of fleeting pleasures and pains—it encompasses a de
 
 [[Flourishing]]
 
-[[The Pig and the Philosopher Perspective]]
+[[The pig and the philosopher perspective]]
 
-[[The Importance of Timing and Order of Experiences]]
+[[Experiences are about more than just their nature. The order in which experiences occurred also matters]]
 
 [[Type 1 and Type 2 Experiences]]
 
-[[The Teacher's Parable The Value of Adversity]]
+[[The teacher's parable teaches us that adversity can lead to growth and ascent]]
 
 [[The decision-making process should account for both our rational evaluations and our emotional inclinations]]
 
@@ -59,5 +59,5 @@ Related:
 > In a list of costs and benefits, rather than mixing flourishing alongside what I'm calling narrow utilitarianism, it's more effective to think of each separately and to consider their relative pull in how you want to live. 
 
 ### Related Notes
-**Source**: [[remote-blog/publish/Wild Problems]]
-**Tags**: #EvergreenNote
+**Source**: [[Readwise/Books/Wild Problems|Wild Problems]]
+**Tags**: #LiteratureNote 

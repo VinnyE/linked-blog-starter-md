@@ -7,4 +7,4 @@ This metaphor illustrates the power of mental clarity and focus. When one is ful
 
 ### Related Notes
 **Source**: [[The power of presence]]
-**Tags**: #EvergreenNote
+**Tags**: #EvergreenNote #TheArtOfLearning #WaitingRoom 

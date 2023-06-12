@@ -7,5 +7,5 @@ Maintaining composure under stress is essential to optimal performance. A calm a
 
 ### Related Notes
 **Source**: [[Using adversity]]
-**Tags**: #EvergreenNote
+**Tags**: #EvergreenNote #TheArtOfLearning #WaitingRoom 
 

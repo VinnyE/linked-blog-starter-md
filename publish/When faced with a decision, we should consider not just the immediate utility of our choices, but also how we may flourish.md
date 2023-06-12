@@ -9,9 +9,9 @@ In decision-making, while logical analysis of costs and benefits is necessary, i
 
 [[The decision-making process should account for both our rational evaluations and our emotional inclinations]]
 
-[[Utilitarianism Pleasure vs Pain]]
+[[The utilitarian approach suggests humans are motivated by maximizing pleasure and minimizing pain, but overlooks the complexity of humans]]
 
-[[Eudaemonia – Beyond Happiness]]
+[[Eudaemonia]]
 
 Related:
 - [[Force field analysis]]
@@ -46,6 +46,6 @@ Related:
 
 >A life well lived is something more than a pleasant life. The Greeks called the condition of a life well lived eudaemonia. That word is sometimes translated as happiness or contentment. Those words fall short of capturing eudaemonia. “Flourishing” is a better translation and the word I will use here. There are two everyday senses of the word “flourish.” One is to be successful, usually in a material, financial sense. The second, the one I am using here, describes something organic and alive. Something flourishes by becoming something beautiful and worthy of admiration. We human beings flourish by taking our circumstances and making the most of them in fulfilling our human potential. To flourish as a human being is to live life fully. That means more than simply accumulating pleasures and avoiding pain. Flourishing includes living and acting with integrity, virtue, purpose, meaning, dignity, and autonomy—aspects of life that are not just difficult to quantify but that you might put front and center, regardless of the cost.
 ### Related Notes
-**Source**: [[remote-blog/publish/Wild Problems]]
-**Tags**: #EvergreenNote
+**Source**: [[Readwise/Books/Wild Problems|Wild Problems]]
+**Tags**: #LiteratureNote 
 

@@ -7,4 +7,4 @@ Loss is an integral part of the journey toward excellence. Although it can be br
 
 ### Related Notes
 **Source**: [[Investment in loss]]
-**Tags**: #EvergreenNote
+**Tags**: #EvergreenNote #TheArtOfLearning #WaitingRoom 

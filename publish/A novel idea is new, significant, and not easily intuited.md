@@ -15,5 +15,5 @@ Novel ideas a form of non-obvious writing. You find them when you pursue your cu
 
 ### Related Notes
 **Source**: [[Julian Shapiro]]
-**Tags**: #EvergreenNote
+**Tags**: #EvergreenNote #WaitingRoom 
 

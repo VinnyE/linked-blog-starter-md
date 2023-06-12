@@ -9,4 +9,4 @@ Therefore, we should be careful with how we provide feedback to our children bec
 
 ### Related Notes
 **Source**: [[Value process before results - Entity theorists vs Incremental theorists]]
-**Tags**: #EvergreenNote
+**Tags**: #EvergreenNote #TheArtOfLearning #WaitingRoom 

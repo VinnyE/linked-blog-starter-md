@@ -7,10 +7,13 @@ Finding the ideal life partner is not about finding the 'best' but about underst
 
 ## Concept Breakdown:
 
-[[The Mathematics of Selection]]
-[[The Problem with 'Best']]
-[['Satisficing' and Acceptance of Imperfection]]
-[[The Ideal Companionship]]
+[[The mathematics of selection (aka The Secretary Problem)]]
+
+[[A potential spouse is not just one characteristic, but a matrix of virtues, vices, attributes, and traits that cannot be measured solely on a single scale]]
+
+[['Satisficing' means making the best possible choice with our limited knowledge and understanding, rather than seeking the perfect option]]
+
+[[True companionship doesn't lie in finding the 'best' partner but rather in finding someone you can grow with, respects your imperfections, and encourages your aspirations]]
 
 Related:
 - [[Darwin's dilemma and the illusion of rationality in wild problem decision-making]]
@@ -54,5 +57,5 @@ Related:
 > No guidebook, not even the best one, can tell you who to travel with. If you can, marry your best friend, someone you can talk to and someone you can stay quiet with. Someone who has a good heart and shares your view of what’s important—your values and principles. Find someone you respect and who respects you. Find someone who makes your heart sing—call it love or chemistry. That’s not just good enough. It’s fantastic. It’s not a quest for the best mate but the person you can explore life with at your side, the person to share the journey with. And maybe you can find a person who respects your imperfections and at the same time helps you to aspire to be someone better than you are now. 
 
 ### Related Notes
-**Source**: [[remote-blog/publish/Wild Problems]]
-**Tags**: #EvergreenNote
+**Source**: [[Readwise/Books/Wild Problems|Wild Problems]]
+**Tags**: #LiteratureNote 

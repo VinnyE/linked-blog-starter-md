@@ -7,4 +7,4 @@ Living a life of ambition is likened to performing on a balance beam. In our you
 
 ### Related Notes
 **Source**: [[Beginner's mind]]
-**Tags**: #EvergreenNote
+**Tags**: #EvergreenNote #TheArtOfLearning #WaitingRoom 

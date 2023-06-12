@@ -7,11 +7,11 @@ The elusive nature of 'wild problems' compels us to try to control the unknown, 
 
 ## Concept Breakdown
 
-[[The Paradox of Wild Problems]]
+[[Wild problems require an acceptance of ambiguity and the ability to thrive in uncertainty]]
 
-[[The Power of Optionality]]
+[[Optionality presents a powerful life strategy that allows freedom without obligation]]
 
-[[Sunk Costs and The Redefinition of Mistakes]]
+[[Sunk costs, like life choices that didn't turn out as hoped, should not be seen as mistakes but as experiences that have shaped our journey]]
 
 [[Grit and persistence, while often valued, may be overrated]]
 
@@ -59,5 +59,5 @@ Related:
 	 - One way to avoid letting life pass you by is to stop worrying about making a “mistake.” It’s not a mistake when you can’t do any better. So spend less time on figuring out the “right” decision and more time on thinking about how to widen your options and how to cope with disappointment if the decision turns out badly.
 
 ### Related Notes
-**Source**: [[remote-blog/publish/Wild Problems]]
-**Tags**: #EvergreenNote
+**Source**: [[Readwise/Books/Wild Problems|Wild Problems]]
+**Tags**: #LiteratureNote 

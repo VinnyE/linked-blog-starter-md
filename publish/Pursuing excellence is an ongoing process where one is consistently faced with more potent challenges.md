@@ -7,4 +7,4 @@ Pursuing excellence is an ongoing process where one is consistently faced with m
 
 ### Related Notes
 **Source**: [[Investment in loss]]
-**Tags**: #EvergreenNote
+**Tags**: #EvergreenNote #TheArtOfLearning #WaitingRoom 

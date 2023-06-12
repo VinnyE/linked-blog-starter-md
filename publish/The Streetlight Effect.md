@@ -7,4 +7,4 @@ The Streetlight Effect illustrates the human tendency to search for answers wher
 
 ### Related Notes
 **Source**: [[Penelope's dilemma, the secretary problem, and the fallacy of 'best' in human relationships]]
-**Tags**: #EvergreenNote
+**Tags**: #EvergreenNote #WildProblems #WaitingRoom 

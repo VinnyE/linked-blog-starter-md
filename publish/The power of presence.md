@@ -28,4 +28,4 @@ Excellence in any field isn't about merely showing up; it's about being fully pr
 
 ### Related Notes
 **Source**: [[The Art of Learning]]
-**Tags**: #EvergreenNote
+**Tags**: #LiteratureNote 

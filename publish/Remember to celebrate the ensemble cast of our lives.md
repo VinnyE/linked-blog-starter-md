@@ -55,5 +55,5 @@ Related:
 > In the choir of life, don’t be a diva. Lower your voice and revel in the harmony. On the dance floor of life, make room for the other dancers and let your partner shine. Try to be aware of your natural impulse to ask, what’s in it for me, and make room instead for what the people around you need for the journey we’re all in together.
 
 ### Related Notes
-**Source**: [[remote-blog/publish/Wild Problems]]
-**Tags**: #EvergreenNote
+**Source**: [[Readwise/Books/Wild Problems|Wild Problems]]
+**Tags**: #LiteratureNote 

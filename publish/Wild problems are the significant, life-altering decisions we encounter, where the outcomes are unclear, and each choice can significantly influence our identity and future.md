@@ -1,5 +1,5 @@
 ---
-title: "Wild Problems"
+title: "Wild problems are the significant, life-altering decisions we encounter, where the outcomes are unclear, and each choice can significantly influence our identity and future"
 created: 2023-06-11
 ---
 
@@ -7,4 +7,5 @@ Wild problems are the significant, life-altering decisions we encounter, where t
 
 ### Related Notes
 **Source**: [[Navigating wild problems shapes personal identity and growth and surfaces the inherent limits of rational decision-making]]
-**Tags**: #EvergreenNote
+**Tags**: #EvergreenNote #WildProblems #WaitingRoom 
+

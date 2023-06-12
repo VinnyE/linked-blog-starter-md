@@ -1,5 +1,5 @@
 ---
-title: Serenity triggers can provide the necessary calm and alertness for excelling in high-pressure moments
+title: Serenity triggers can provide the necessary calm and alertness for excelling in unfamiliar situations and high-pressure moments
 created: 2023-06-11
 ---
 

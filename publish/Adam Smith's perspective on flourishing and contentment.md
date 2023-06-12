@@ -7,13 +7,13 @@ At the heart of human decisions, be they personal or communal, lies a deep yearn
 
 ## Concept Breakdown
 
-[[The Pursuit of Meaningfulness]]
+[[Human decisions are deeply rooted in the quest for meaningfulness, often choosing paths in life based on what feels right and what aligns with our identity and sense of purpose]]
 
 [[We behave in ways that are consistent with our identity, even if the actions may not be immediately rewarding or beneficial]]
 
 [[Adam Smith's Theory of Being Loved and Lovely]]
 
-[[The Path to Flourishing]]
+[[The path to flourishing is not as obvious or brightly lit as paths promising immediate rewards]]
 
 Related:
 - [[Navigating wild problems shapes personal identity and growth and surfaces the inherent limits of rational decision-making]]
@@ -48,5 +48,5 @@ Related:
 > If you care about flourishing, you have to work hard to keep it front and center. 
 
 ### Related Notes
-**Source**: [[remote-blog/publish/Wild Problems]]
-**Tags**: #EvergreenNote
+**Source**: [[Readwise/Books/Wild Problems|Wild Problems]]
+**Tags**: #LiteratureNote 

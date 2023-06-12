@@ -7,4 +7,4 @@ Adam Smith, the economist and moral philosopher, postulated that humans naturall
 
 ### Related Notes
 **Source**: [[Adam Smith's perspective on flourishing and contentment]]
-**Tags**: #EvergreenNote
+**Tags**: #EvergreenNote #WildProblems #WaitingRoom 

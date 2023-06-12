@@ -7,9 +7,9 @@ Just like the unpredictability of an artist's creation, life doesn't come with a
 
 ## Concept Breakdown
 
-[[Embracing Uncertainty]]
+[[We can learn to embrace unpredictability, allowing the characters of our life's story to take shape and dictate the narrative]]
 
-[[Navigating Optionality]]
+[[The balance between yes and no, commitment and openness, is an integral part of life's navigation]]
 
 [[Control in life isn't about predefining every step, but more about the ability to adapt to new information and experiences]]
 
@@ -17,7 +17,7 @@ Just like the unpredictability of an artist's creation, life doesn't come with a
 
 [[There is no rule book for life decisions. Understanding when to persevere and when to quit is a craft to be cultivated over time]]
 
-[[Living as Continuous Revision]]
+[[Just as great writers understand that writing is revising, life is about continuous reflection, learning, and growth]]
 
 [[Sometimes, the most meaningful action is to wait attentively, to slow down and observe]]
 
@@ -74,5 +74,5 @@ Related:
 > Sometimes being aimless helps you discover where to aim. Sometimes it’s better to sit and wait and watch and see what happens. Sometimes doing your utmost means merely waiting. But it’s not waiting idly. It’s waiting attentively. It’s about paying attention. Sometimes doing your utmost means doing nothing but being ready for what comes next. Slowing down can help you see it, when it arrives. 
 
 ### Related Notes
-**Source**: [[remote-blog/publish/Wild Problems]]
-**Tags**: #EvergreenNote
+**Source**: [[Readwise/Books/Wild Problems|Wild Problems]]
+**Tags**: #LiteratureNote 

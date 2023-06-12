@@ -7,4 +7,4 @@ Achieving greatness necessitates a relentless commitment to improvement. This me
 
 ### Related Notes
 **Source**: [[Investment in loss]]
-**Tags**: #EvergreenNote
+**Tags**: #EvergreenNote #TheArtOfLearning #WaitingRoom 

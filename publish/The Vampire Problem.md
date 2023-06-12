@@ -7,15 +7,13 @@ When Darwin was torn between marriage and bachelorhood, he was essentially peeri
 
 ## Concept Breakdown
 
-[[The Inadequacy of Expected Utility]]
+[[Trying to maximize expected utility, a seemingly rational approach, falls short when dealing with wild problems]]
 
-[[The Unknown Leap into Vampire World]]
+[[The transformative experience of the vampire problem encapsulates the essence of a wild problem]]
 
-[[The Problem of Future Self]]
+[[The problem of future self makes it difficult to know which 'you' you should consider when making decisions that will alter your life]]
 
-[[The Outsider Perspective in Decision Making]]
-
-[[The Complex Nature of Articulating Personal Experiences]]
+[[The reliability of second-hand experiences from people who have undergone transformative experiences may be hindered by their ability to express their feelings and insights accurately due to the deeply complex and personal nature of these emotions]]
 
 Related:
 - [[When faced with a decision, we should consider not just the immediate utility of our choices, but also how we may flourish]]
@@ -44,5 +42,5 @@ Related:
 > And fourth, even if we’re aware, even if we’re willing to share, we would struggle to put those feelings into words. Not because the feelings aren’t real, or because married people become inarticulate once they tie the knot, but because the emotions surrounding human relationships are inevitably complex and nuanced.
 
 ### Related Notes
-**Source**: [[remote-blog/publish/Wild Problems]]
-**Tags**: #EvergreenNote
+**Source**: [[Readwise/Books/Wild Problems|Wild Problems]]
+**Tags**: #LiteratureNote 

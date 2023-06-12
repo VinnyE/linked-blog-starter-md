@@ -1,5 +1,5 @@
 ---
-title: Type 1 and Type 2 Experiences
+title: "Type 1 and Type 2 Experiences"
 created: 2023-06-11
 ---
 
@@ -7,5 +7,6 @@ A Type 1 experience is consistently pleasant, like a day at the beach. A Type 2 
 
 ### Related Notes
 **Source**: [[The journey to flourishing is paved with Type 2 experiences]]
-**Tags**: #EvergreenNote
+**Tags**: #EvergreenNote #WildProblems #WaitingRoom 
+
 

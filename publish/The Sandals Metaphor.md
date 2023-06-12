@@ -8,5 +8,5 @@ created: 2023-06-11
 This Indian parable represents the idea of inner solutions over external control. When faced with a world full of thorns (i.e., challenges or disruptions), it's more practical to make sandals (develop personal resilience and adaptability) than to try and pave the entire world (control or eliminate all challenges).
 
 ### Related Notes
-**Source**: [[The "Soft Zone" represents a state of deep yet adaptive focus]]
-**Tags**: #EvergreenNote
+**Source**: [[The soft zone]]
+**Tags**: #EvergreenNote #TheArtOfLearning #WaitingRoom 

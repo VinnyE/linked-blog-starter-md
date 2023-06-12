@@ -7,4 +7,4 @@ Performance training involves a three-phase process. First, learners must develo
 
 ### Related Notes
 **Source**: [[Using adversity]]
-**Tags**: #EvergreenNote
+**Tags**: #EvergreenNote #TheArtOfLearning #WaitingRoom 

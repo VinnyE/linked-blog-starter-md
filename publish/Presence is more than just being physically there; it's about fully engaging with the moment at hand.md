@@ -7,4 +7,4 @@ Presence is more than just being physically there; it's about fully engaging wit
 
 ### Related Notes
 **Source**: [[The power of presence]]
-**Tags**: #EvergreenNote
+**Tags**: #EvergreenNote #TheArtOfLearning #WaitingRoom 

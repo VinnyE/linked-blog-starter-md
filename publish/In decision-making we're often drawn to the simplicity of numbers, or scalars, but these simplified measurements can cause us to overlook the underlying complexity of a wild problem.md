@@ -1,5 +1,5 @@
 ---
-title: The Seduction and Misleading Nature of Scalars
+title: "In decision-making we're often drawn to the simplicity of numbers, or scalars, but these simplified measurements can cause us to overlook the underlying complexity of a wild problem"
 created: 2023-06-11
 ---
 
@@ -7,5 +7,5 @@ In decision-making, we are often drawn to the simplicity of numbers, or 'scalars
 
 ### Related Notes
 **Source**: [[Darwin's dilemma and the illusion of rationality in wild problem decision-making]]
-**Tags**: #EvergreenNote
+**Tags**: #EvergreenNote #WildProblems #WaitingRoom 
 

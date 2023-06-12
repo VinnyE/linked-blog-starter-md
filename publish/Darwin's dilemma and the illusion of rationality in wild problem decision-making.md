@@ -7,13 +7,13 @@ Charles Darwin, facing the life-altering decision of whether to marry and have c
 
 ## Concept Breakdown
 
-[[remote-blog/publish/Wild Problems]]
+[[Wild problems are the significant, life-altering decisions we encounter, where the outcomes are unclear, and each choice can significantly influence our identity and future]]
 
 [[Scalar Thinking and its Origin]]
 
-[[The Seduction and Misleading Nature of Scalars]]
+[[In decision-making we're often drawn to the simplicity of numbers, or scalars, but these simplified measurements can cause us to overlook the underlying complexity of a wild problem]]
 
-[[The Limitation of Formulas in Life]]
+[[We're always on the lookout for a formula to reduce uncertainty, but life's intricacies often defy such straightforward solutions]]
 
 ### Other thoughts
 Effective decision making often requires more than just a scalar representation of the problem. We need a diverse set of tools and approaches which is why [[Embracing Munger's multidisciplinary latticework of mental models]] is helpful:
@@ -61,6 +61,6 @@ Related:
 > But the rationality of a cost-benefit list of expected well-being from the decisions we make in the face of wild problems is actually an illusion.
 
 ### Related Notes
-**Source**: [[remote-blog/publish/Wild Problems]]
-**Tags**: #EvergreenNote
+**Source**: [[Wild Problems]]
+**Tags**: #LiteratureNote 
 

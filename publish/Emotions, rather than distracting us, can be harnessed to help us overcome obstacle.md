@@ -7,5 +7,5 @@ Emotions, rather than distracting us, can be harnessed to help us overcome obsta
 
 ### Related Notes
 **Source**: [[The internal solution]]
-**Tags**: #EvergreenNote
+**Tags**: #EvergreenNote #TheArtOfLearning #WaitingRoom 
 
