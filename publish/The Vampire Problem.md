@@ -13,7 +13,7 @@ When Darwin was torn between marriage and bachelorhood, he was essentially peeri
 
 [[The problem of future self makes it difficult to know which 'you' you should consider when making decisions that will alter your life]]
 
-[[The reliability of second-hand experiences from people who have undergone transformative experiences may be hindered by their ability to express their feelings and insights accurately due to the deeply complex and personal nature of these emotions]]
+[[The accuracy of second-hand transformative experiences can be limited by the complexity of conveying personal emotions]]
 
 Related:
 - [[When faced with a decision, we should consider not just the immediate utility of our choices, but also how we may flourish]]

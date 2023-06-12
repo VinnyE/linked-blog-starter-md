@@ -1,5 +1,5 @@
 ---
-title: "The reliability of second-hand experiences from people who have undergone transformative experiences may be hindered by their ability to express their feelings and insights accurately due to the deeply complex and personal nature of these emotions"
+title: "The accuracy of second-hand transformative experiences can be limited by the complexity of conveying personal emotions"
 created: 2023-06-11
 ---
 
