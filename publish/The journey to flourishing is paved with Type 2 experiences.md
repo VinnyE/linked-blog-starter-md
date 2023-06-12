@@ -7,26 +7,17 @@ Life isn't merely a series of fleeting pleasures and pains—it encompasses a de
 
 ## Concept Breakdown
 
-### The Definition of Flourishing
-Flourishing refers to an overarching essence of life, defined by purpose, meaning, and dignity. This essence is more significant than transient pleasures or pains and defines us beyond our day-to-day experiences.
+[[Flourishing]]
 
-### The Pig and the Philosopher Perspective
-This perspective contrasts the immediate, hedonistic satisfaction of a "pig," unconcerned with life's deeper meanings, with the introspective, possibly discontented but meaningful life of a "philosopher." Harvard psychologist Dan Gilbert suggests that each perspective should be given equal weight, determined by its duration. However, this view oversimplifies the complexity of human experience.
+[[The Pig and the Philosopher Perspective]]
 
-### The Role of Meaning and Ethical Conduct in Life
-Most individuals desire more than momentary pleasures—they seek lasting fulfillment from purpose and ethical conduct. These elements play a central role in personal identity and major life choices.
+[[The Importance of Timing and Order of Experiences]]
 
-### The Importance of Timing and Order of Experiences
-Experiences aren't just about their nature (pleasurable or painful), but also their timing. The order of these experiences, such as contentment following hardship, is more valuable than transient pleasure followed by regret. This approach opposes the simple calculation of benefits and costs.
+[[Type 1 and Type 2 Experiences]]
 
-### Type 1 and Type 2 Experiences
-A Type 1 experience is consistently pleasant, like a day at the beach. A Type 2 experience, in contrast, is challenging but ultimately more rewarding and transformative. This kind of experience often includes enduring hardship and overcoming obstacles, leading to personal growth and self-realization.
+[[The Teacher's Parable The Value of Adversity]]
 
-### The Teacher's Parable: The Value of Adversity
-The parable symbolizes that adversity, symbolized by a broken heart, can lead to growth and ascent. Endured pain, especially heartbreak, enhances our experiences, making them richer and fuller.
-
-### Considering Flourishing and Narrow Utilitarianism
-In evaluating life's course, it's more effective to consider separately the concept of flourishing and narrow utilitarianism (merely calculating costs and benefits). Both have their unique pull on how we want to live.
+[[The decision-making process should account for both our rational evaluations and our emotional inclinations]]
 
 Related:
 - [[Navigating wild problems shapes personal identity and growth and surfaces the inherent limits of rational decision-making]]
@@ -68,5 +59,5 @@ Related:
 > In a list of costs and benefits, rather than mixing flourishing alongside what I'm calling narrow utilitarianism, it's more effective to think of each separately and to consider their relative pull in how you want to live. 
 
 ### Related Notes
-**Source**: [[Wild Problems]]
+**Source**: [[remote-blog/publish/Wild Problems]]
 **Tags**: #EvergreenNote

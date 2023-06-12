@@ -7,17 +7,13 @@ The research of developmental psychologist Dr. Carol Dweck distinguishes between
 
 ## Concept Breakdown
 
-### Entity and Incremental Theories of Intelligence
-These are two distinct viewpoints on learning and intelligence proposed by developmental psychologist Dr. Carol Dweck. Entity theorists perceive their intelligence or skill levels to be inherent and unchangeable, attributing their success or failure to innate ability. Incremental theorists, or learning theorists, believe in the possibility of growth and improvement through hard work. They perceive mastering material as a gradual process, acknowledging the role of effort and determination in overcoming challenges.
+[[Entity and Incremental Theories of Intelligence]]
 
-### Influence of Feedback on Learning Theories
-Feedback from parents, teachers, and other influential figures plays a crucial role in shaping a child's theory of intelligence. Entity theorists are usually praised or criticized based on their inherent abilities, such as being "smart" or "good at math". On the contrary, learning theorists receive process-oriented feedback that focuses on their effort and hard work, fostering a growth mindset.
+[[Feedback from parents, teachers, and other influential figures plays a crucial role in shaping a child's theory of intelligence]]
 
-### The Pursuit of Excellence and the Hermit Crab Metaphor
-The theories of intelligence have a significant impact on how individuals approach excellence in their field. This is best illustrated through the metaphor of a hermit crab. Just like the crab must leave its shell and face vulnerability in order to find a larger, more fitting shell, individuals must embrace a long-term, organic learning process instead of sticking to static, safe mediocrity. The pursuit of excellence often involves overcoming discomfort, adapting to new situations, and learning from experiences.
+[[Just like the hermit crab must leave its shell and face vulnerability in order to find a larger, more fitting shell, individuals must embrace a long-term, organic learning process instead of sticking to static, safe mediocrity]]
 
-### The Role of Learning Theories in Success and Failure
-Success and failure in different fields can be heavily influenced by an individual's theory of intelligence. Entity theorists might crumble under the pressure of maintaining perfection, which could impede their performance under challenging situations. Conversely, learning theorists, who value the lessons learned from the pursuit of excellence and perceive failure as an opportunity to grow, are more resilient and adaptable, and thus, likely to be happier in their journey.
+[[Success and failure in different fields can be heavily influenced by an individual's theory of intelligence]]
 
 Note: While it's important to value process before results, we should not use this an excuse to avoid ever putting ourselves on the line for something and risk failure. We must still make an [[Investment in loss]].
 

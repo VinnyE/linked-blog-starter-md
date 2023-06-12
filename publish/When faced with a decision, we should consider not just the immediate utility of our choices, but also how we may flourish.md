@@ -7,14 +7,11 @@ In decision-making, while logical analysis of costs and benefits is necessary, i
 
 ## Concept Breakdown
 
-### Decision-Making: Logic vs Emotion
-Decision-making is traditionally perceived as a rational process where you weigh the costs and benefits of your choices. But, surprisingly, emotions and personal preferences can sometimes guide us more accurately to what we truly desire. In other words, the decision-making process should account for both our rational evaluations and our emotional inclinations. This dual-faceted approach allows us to better discern our preferences, especially when logical analysis alone fails to provide a clear answer.
+[[The decision-making process should account for both our rational evaluations and our emotional inclinations]]
 
-### Utilitarianism: Pleasure vs Pain
-The utilitarian approach, put forward by Jeremy Bentham and widely used by economists, suggests humans are motivated by maximizing pleasure and minimizing pain. This perspective sees life as a sort of amusement park, where we make choices to accumulate the greatest satisfaction given our constraints. However, this view often overlooks that humans are complex creatures who seek more than just transient pleasures and pain avoidance.
+[[Utilitarianism Pleasure vs Pain]]
 
-### Eudaemonia: Beyond Happiness
-Humans care about more than transient joy or avoidance of pain. We desire purpose, meaning, and a sense of belonging. The ancient Greeks referred to this state as 'eudaemonia,' often inadequately translated as happiness or contentment. A better understanding is 'flourishing' - the experience of fully living life, embracing not just physical comforts, but also intangible elements like integrity, purpose, and autonomy. In this context, to flourish means to make the most of our circumstances and fulfill our human potential, thus leading a life that is more than just pleasant, but truly well-lived.
+[[Eudaemonia – Beyond Happiness]]
 
 Related:
 - [[Force field analysis]]
@@ -49,6 +46,6 @@ Related:
 
 >A life well lived is something more than a pleasant life. The Greeks called the condition of a life well lived eudaemonia. That word is sometimes translated as happiness or contentment. Those words fall short of capturing eudaemonia. “Flourishing” is a better translation and the word I will use here. There are two everyday senses of the word “flourish.” One is to be successful, usually in a material, financial sense. The second, the one I am using here, describes something organic and alive. Something flourishes by becoming something beautiful and worthy of admiration. We human beings flourish by taking our circumstances and making the most of them in fulfilling our human potential. To flourish as a human being is to live life fully. That means more than simply accumulating pleasures and avoiding pain. Flourishing includes living and acting with integrity, virtue, purpose, meaning, dignity, and autonomy—aspects of life that are not just difficult to quantify but that you might put front and center, regardless of the cost.
 ### Related Notes
-**Source**: [[Wild Problems]]
+**Source**: [[remote-blog/publish/Wild Problems]]
 **Tags**: #EvergreenNote
 

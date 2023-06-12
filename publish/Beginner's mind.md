@@ -7,24 +7,16 @@ Navigating a life of ambition is like performing on a balance beam. As children,
 
 ## Concept Breakdown
 
-### Balance Beam Metaphor for Ambition
-Living a life of ambition is likened to performing on a balance beam. In our youth, we fearlessly explore and play, using the beam as a broad platform for discovery and fun. As we mature, the beam narrows into a tightrope, transforming the joyful experience into a stressful one due to the fear of falling and failing.
+[[Living a life of ambition is like performing on a balance beam]]
 
-### The Power of Playful Obliviousness
-A significant aspect of high-level learning involves tapping into the playful obliviousness of our childhood. This resilience and joy in exploration that children naturally exhibit is a powerful tool that, when cultivated, can help us navigate the high pressures of life without succumbing to overwhelming stress.
+[[Sometimes, we must dismantle our strategies and techniques to enable growth and reinvention]]
 
-### The Practice of Tai Chi as a Release
-Engaging in practices like Tai Chi can serve as an effective method for releasing mental and physical obstructions. These practices teach us to synchronize our body and mind, promoting a state of fluidity and relaxation that counteracts the rigidity often associated with high-stress environments.
-
-### The Importance of Regular Reinvention
-Sometimes, we must dismantle our strategies and techniques to enable growth and reinvention. This process can feel vulnerable, but it's essential for development and improvement. Recognizing these periods as opportunities for growth, rather than setbacks, is key to long-term success.
-
-### Embracing the Mindset of a Beginner
-Retaining the curiosity, joy, and open-mindedness of a child propels us forward in learning and achievement. A willingness to approach situations with the mindset of a beginner, eager to gain even small insights and refine techniques, can lead to graceful expertise over time.
+[[Retaining the curiosity, joy, and open-mindedness of a child propels us forward in learning and achievement]]
 
 Related:
 - [[Learning how to fail properly]]
-- [[]]
+- [[What are mental models]]
+
 
 ---
 ### References

@@ -7,20 +7,15 @@ When Darwin was torn between marriage and bachelorhood, he was essentially peeri
 
 ## Concept Breakdown
 
-### The Inadequacy of Expected Utility
-The decision-making process often involves trying to maximize expected utility, essentially imagining alternative futures and assessing our potential well-being. However, this approach, although seemingly rational, often falls short when dealing with significant life choices, as they often lead to 'wild problems' with unpredictable outcomes.
+[[The Inadequacy of Expected Utility]]
 
-### The Unknown Leap into Vampire World
-Choosing to undergo a transformative experience—likened to becoming a vampire in this context—encapsulates the idea of 'wild problems.' These decisions often require leaping into the unknown, where your preferences and your identity might fundamentally change, and the data about how you will feel about the new reality is simply nonexistent until you experience it.
+[[The Unknown Leap into Vampire World]]
 
-### The Problem of Future Self
-Who should you consider when making decisions that will significantly alter your life—the present you or the future you? This dilemma exposes the complex nature of our identity in the face of significant changes, complicating the decision-making process further.
+[[The Problem of Future Self]]
 
-### The Outsider Perspective in Decision Making
-When contemplating significant life decisions, such as marriage or parenthood, our insights often stem from an outsider's perspective, as seen in [[Darwin's dilemma and the illusion of rationality in wild problem decision-making]]. However, this view can offer only a limited understanding of the profound inner changes these experiences can bring about.
+[[The Outsider Perspective in Decision Making]]
 
-### The Complex Nature of Articulating Personal Experiences
-People who have undergone transformative experiences may struggle to express their feelings and insights accurately due to the deeply personal, intimate, and complex nature of these emotions. This limits the reliability of second-hand experiences in informing our decisions, as they can only offer a faint sketch of the real experience, which is uniquely individual and intricate.
+[[The Complex Nature of Articulating Personal Experiences]]
 
 Related:
 - [[When faced with a decision, we should consider not just the immediate utility of our choices, but also how we may flourish]]
@@ -49,5 +44,5 @@ Related:
 > And fourth, even if we’re aware, even if we’re willing to share, we would struggle to put those feelings into words. Not because the feelings aren’t real, or because married people become inarticulate once they tie the knot, but because the emotions surrounding human relationships are inevitably complex and nuanced.
 
 ### Related Notes
-**Source**: [[Wild Problems]]
+**Source**: [[remote-blog/publish/Wild Problems]]
 **Tags**: #EvergreenNote

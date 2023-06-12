@@ -7,26 +7,19 @@ Just like the unpredictability of an artist's creation, life doesn't come with a
 
 ## Concept Breakdown
 
-### Embracing Uncertainty
-Uncertainty is a part of life, as is the case in the creative process of an artist. Rather than fearing unpredictability, we can embrace it, allowing the characters of our life's story to take shape and dictate the narrative. This does not mean complete passivity; instead, it's an active engagement with the organic nature of life, open to constant discovery about the world and ourselves.
+[[Embracing Uncertainty]]
 
-### Navigating Optionality
-While it's essential to protect ourselves from being overwhelmed by too many commitments, saying no to every uncertain opportunity could lead to missing out on experiences that might broaden our horizons. The balance between yes and no, commitment and openness, is an integral part of life's navigation. It's about taking advantage of optionality, opening up to possibilities that, while not obviously beneficial, may provide valuable lessons and enriching experiences.
+[[Navigating Optionality]]
 
-### Redefining Control and Planning
-Control in life isn't about predefining every step, but more about the ability to adapt to new information and experiences. This approach does not discard planning but instead redefines it as a flexible roadmap that can be adjusted according to the twists and turns of our journey. It's about being ready to adjust our course based on the new landscapes we encounter.
+[[Control in life isn't about predefining every step, but more about the ability to adapt to new information and experiences]]
 
-### The Art of Conversation
-Conversations, like works of art, should not be led by transactional goals or predefined outcomes. Instead, they should be allowed to take their own course, opening up to unexpected directions and revelations. It's only after we let go of control and and start to listen attentively that we can discover deeper levels of understanding, intimacy, and learning.
+[[Conversations should not be led by transactional goals or predefined outcomes. Instead, they should be allowed to take their own course, opening up to unexpected directions and revelations]]
 
-### The Craft of Decision Making
-There is no rule book for life decisions. Understanding when to persevere and when to quit is a craft to be cultivated over time. It requires a deep understanding of our strengths, limitations, and circumstances. Like an artist fine-tuning their masterpiece, decision-making in life is about using our experience and judgment to make the best choices.
+[[There is no rule book for life decisions. Understanding when to persevere and when to quit is a craft to be cultivated over time]]
 
-### Living as Continuous Revision
-Just as great writers understand that writing is revising, life is about continuous reflection, learning, and growth. It's about having the courage to alter our course based on the lessons we learn along the way. We become the editors of our own lives, refining our narratives as we go along.
+[[Living as Continuous Revision]]
 
-### The Art of Waiting
-Sometimes, the most meaningful action is to wait attentively, to slow down and observe. Just as an artist patiently waits for inspiration, we too can practice attentive waiting in our lives. It is about being prepared and open for what comes next, recognizing opportunities when they arrive. ^1896bc
+[[Sometimes, the most meaningful action is to wait attentively, to slow down and observe]]
 
 Related:
 - [[Bill Bellichick's Philosophy - trading perfection for optionality]]
@@ -81,5 +74,5 @@ Related:
 > Sometimes being aimless helps you discover where to aim. Sometimes it’s better to sit and wait and watch and see what happens. Sometimes doing your utmost means merely waiting. But it’s not waiting idly. It’s waiting attentively. It’s about paying attention. Sometimes doing your utmost means doing nothing but being ready for what comes next. Slowing down can help you see it, when it arrives. 
 
 ### Related Notes
-**Source**: [[Wild Problems]]
+**Source**: [[remote-blog/publish/Wild Problems]]
 **Tags**: #EvergreenNote

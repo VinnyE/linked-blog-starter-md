@@ -7,17 +7,13 @@ World-class performers share a key trait: they're able to face challenges head-o
 
 ## Concept Breakdown
 
-### The Three-Step Process of Performance Training
-Performance training involves a three-phase process. First, learners must develop the ability to flow with unexpected circumstances. Second, they need to transform these circumstances into advantageous situations. The final phase is achieving self-sufficiency by creating their own challenges or "earthquakes" for stimulation, removing reliance on external factors.
+[[The Three-Step Process of Performance Training]]
 
-### The Power of Mental Resilience
-Mental resilience, a vital trait for high performers, goes beyond simply withstanding hardships. It involves a positive engagement with discomfort and pain, seeking ways to adapt and grow from these experiences. This trait can be continuously nurtured, strengthening the mind to become more impervious to disturbances.
+[[Mental resilience goes beyond simply withstanding hardships. It involves a positive engagement with discomfort and pain]]
 
-### Emotional Mastery for Enhanced Performance
-The emotional landscape need not be a disruptive force. By developing an understanding of emotions, making peace with them, and eventually harnessing them, performers can channel their emotional energy into improving their performance levels.
+[[Emotional Mastery for Enhanced Performance]]
 
-### Maintaining Equanimity Under Pressure
-Maintaining composure under stress is essential to optimal performance. A calm and collected state allows performers to apply their knowledge fully, arrive at precise decisions, and take effective actions, especially in complex and critical situations.
+[[Maintaining composure under stress is essential to optimal performance]]
 
 Related: 
 - https://twitter.com/emollick/status/1665689954809180160

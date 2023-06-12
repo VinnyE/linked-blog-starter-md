@@ -7,17 +7,13 @@ In the pursuit of mastering a technique, such as a straight punch, the journey b
 
 ## Concept Breakdown
 
-### The Path to Mastery
-Mastery of a skill, such as martial arts, begins with understanding and practicing the basic actions in a slow and deliberate manner. One must repeatedly engage in these foundational activities to fully comprehend the mechanics involved, eventually leading to a more nuanced understanding of the skill. This is similar to building a solid foundation before constructing the upper floors of a building.
+[[Mastery of a skill begins with understanding and practicing the basic foundational activities of that skill repeatedly]]
 
-### The Principle of "Making Smaller Circles"
-Over time, an artist's movements can begin to shrink in physical size, but increase in potency. This process of internalization, called 'Making Smaller Circles,' allows for the execution of the skill to become quicker and more efficient. Just as a musician knows how a note should feel rather than relying solely on auditory feedback, so too should we internalize the sensations associated with performing a skill correctly.
+[[Making smaller circles is the name for the process of internalization which allows for the execution of a skill to become quicker and more efficient]]
 
-### The Power of Subconscious Learning
-By continually practicing a skill, the action eventually becomes second nature, and the martial artist is able to execute the movement without conscious thought. This indicates that the skill has been ingrained deeply into their subconscious mind, allowing them to draw upon it instinctively and rapidly in real-world applications. This form of subconscious learning serves as a platform for more advanced learning and action.
+[[We are able to quickly and instinctively draw upon skills at will after they have been practiced repeatedly, ingraining them into our subconscious]]
 
-### The Illusion of Simplicity
-As the artist (say a martial artist) continues to refine their skill, the movements become almost invisible to the untrained eye. Despite appearing simple or effortless, these refined movements retain the same potency as their grander counterparts. This highlights how true mastery can often look deceptively simple, much like the knockout punches thrown by boxing legends like Mike Tyson or Muhammad Ali.
+[[True mastery often looks deceptively simple to the untrained eye]]
 
 Related:
 - [[First principles thinking and its evolving nature]]
@@ -44,4 +40,4 @@ Related:
 
 ### Related Notes
 **Source**: [[The Art of Learning]]
-**Tags**: #EvergreenNote
+**Tags**: #LiteratureNote 

@@ -7,17 +7,13 @@ The elusive nature of 'wild problems' compels us to try to control the unknown, 
 
 ## Concept Breakdown
 
-### The Paradox of Wild Problems
-'Wild problems' are complex issues with uncertain outcomes, often leading us to futile attempts to control or predict them. They require an acceptance of ambiguity and the ability to thrive in uncertainty. This idea is exemplified by the NFL team, the Patriots, who favor quantity over perceived quality in their draft strategy, underscoring that certainty is an illusion in the face of complexity.
+[[The Paradox of Wild Problems]]
 
-### The Power of Optionality
-Optionality presents a powerful life strategy that allows freedom without obligation. This concept, demonstrated by Zappos' shoe-buying experience, promotes exploring more experiences rather than trying to predict the perfect choice. It encourages taking chances, provided we have the freedom to opt out without significant cost. It's about embracing the unknown and letting life unfold organically, like venture capitalists who understand the reality of striking out more often than they hit a unicorn.
+[[The Power of Optionality]]
 
-### Sunk Costs and The Redefinition of Mistakes
-Sunk costs are expenses that have already been incurred and cannot be recovered. They should not dictate future actions or decisions. Similarly, life choices that didn't turn out as hoped should not be seen as mistakes but as experiences that have shaped our journey. As seen in Bill Belichick's strategy, if an 'adventure' doesn't cost much to end, it's worth exploring. We're encouraged to redefine our understanding of mistakes and sunk costs, enabling us to approach life with an adventurous spirit.
+[[Sunk Costs and The Redefinition of Mistakes]]
 
-### Questioning Grit and Embracing Change
-Grit and persistence, while often valued, may be overrated. The text suggests reevaluating whether to persist when faced with unpleasantries or difficulties. If a path chosen turns out to be unfulfilling, change should not be seen as a failure but as a proactive step towards better alignment with our evolving selves. This notion liberates us from the fear of regret and allows us to embrace change, enriching our life's journey.
+[[Grit and persistence, while often valued, may be overrated]]
 
 Related:
 - [[The Antifragile Mindset]]
@@ -63,5 +59,5 @@ Related:
 	 - One way to avoid letting life pass you by is to stop worrying about making a “mistake.” It’s not a mistake when you can’t do any better. So spend less time on figuring out the “right” decision and more time on thinking about how to widen your options and how to cope with disappointment if the decision turns out badly.
 
 ### Related Notes
-**Source**: [[Wild Problems]]
+**Source**: [[remote-blog/publish/Wild Problems]]
 **Tags**: #EvergreenNote

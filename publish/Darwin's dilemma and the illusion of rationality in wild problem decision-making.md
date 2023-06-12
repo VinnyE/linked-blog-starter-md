@@ -7,20 +7,13 @@ Charles Darwin, facing the life-altering decision of whether to marry and have c
 
 ## Concept Breakdown
 
-### The Wild Problem Decision Making
-Even Charles Darwin, renowned for his rational thinking, struggled with life's wild problems. His dilemma of whether to marry and possibly have children demonstrates that even our most personal and profound decisions can be difficult to navigate, with no straightforward 'right' answer.
+[[remote-blog/publish/Wild Problems]]
 
-### Scalar Thinking and its Origin
-The concept of scalar thinking arises from the Latin term "scala", meaning a ladder or scale. It provides a single, straightforward value to represent complex information, creating an illusion of simplicity and control in decision making. It's akin to a ladder we climb towards making a decision, one rung at a time.
+[[Scalar Thinking and its Origin]]
 
-### The Illusion of Rationality
-In our attempt to bring order to chaos, we often resort to strategies like cost-benefit analysis, imagining that the highest sum of pros over cons represents the best decision. This perception of rationality, however, is often an illusion, especially when dealing with complex, unpredictable problems.
+[[The Seduction and Misleading Nature of Scalars]]
 
-### The Seduction and Misleading Nature of Scalars
-In decision-making, we are often drawn to the simplicity of numbers, or 'scalars', which promise easy comparisons and clear future projections. However, these simplified measurements can often lead us astray, causing us to overlook the true complexity and unpredictability inherent in life's wild problems.
-
-### The Limitation of Formulas in Life
-We're always on the lookout for a formula to reduce uncertainty. Formulas, in their simplicity, are both a blessing and a curse. Life's intricacies often defy such straightforward solutions, highlighting the limitation of relying on simple calculations to navigate life's complexities.
+[[The Limitation of Formulas in Life]]
 
 ### Other thoughts
 Effective decision making often requires more than just a scalar representation of the problem. We need a diverse set of tools and approaches which is why [[Embracing Munger's multidisciplinary latticework of mental models]] is helpful:
@@ -68,6 +61,6 @@ Related:
 > But the rationality of a cost-benefit list of expected well-being from the decisions we make in the face of wild problems is actually an illusion.
 
 ### Related Notes
-**Source**: [[Wild Problems]]
+**Source**: [[remote-blog/publish/Wild Problems]]
 **Tags**: #EvergreenNote
 

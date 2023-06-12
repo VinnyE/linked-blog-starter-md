@@ -7,17 +7,13 @@ Our interactions with others form a complex dance of emotion and intent, often c
 
 ## Concept Breakdown
 
-### Concept of the 'Self' in Interactions
-We naturally see ourselves as the central characters in the narratives of our lives, assigning less significant roles to others. This inward focus, a function of our hardwired self-attention, can skew our interactions with others towards our own feelings and reactions. It's important to recognize this tendency and strive towards a more balanced perspective, one that considers the feelings and needs of others too.
+[[When we see ourselves as the central characters in the narratives of our lives, we assign less significant roles to others]]
 
-### Importance of the Pause
-Before we react to a situation or an interaction, inserting a pause can allow for reflection and thoughtfulness. This pause can remind us that our natural responses are often mediated by our personal fears, desires, and needs. It can help us to step out of our habitual scripts and consider more thoughtful and considerate responses.
+[[Before we react to a situation or an interaction, inserting a pause can allow for reflection and thoughtfulness]]
 
-### From Contract to Covenant
-Relationships can be seen as either contracts, where the focus lies on personal benefit and score-keeping, or covenants, promises of shared experiences and journeys. Covenant relationships do not revolve around the question of getting one's "fair share," but rather, they emphasize shared experiences and the enjoyment of the ride. This perspective reframes sacrifices as satisfying habits and fosters a sense of loyalty and commitment.
+[[Relationships can be seen as either contracts, where the focus lies on personal benefit and score-keeping, or covenants, promises of shared experiences and journeys]]
 
-### The Ensemble Perspective
-Shifting our perception from viewing ourselves as the main character in the narrative of our lives to one of many in an ensemble cast can transform our relationships. In this perspective, friends, family, and colleagues are seen as partners in our journey, not mere supporting characters. This shift allows us to appreciate the richness and diversity of our shared experiences and creates a more meaningful drama of life.
+[[The Ensemble Perspective]]
 
 Related:
 - [[Adam Smith's perspective on flourishing and contentment]]
@@ -59,5 +55,5 @@ Related:
 > In the choir of life, don’t be a diva. Lower your voice and revel in the harmony. On the dance floor of life, make room for the other dancers and let your partner shine. Try to be aware of your natural impulse to ask, what’s in it for me, and make room instead for what the people around you need for the journey we’re all in together.
 
 ### Related Notes
-**Source**: [[Wild Problems]]
+**Source**: [[remote-blog/publish/Wild Problems]]
 **Tags**: #EvergreenNote

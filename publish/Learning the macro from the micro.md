@@ -7,20 +7,15 @@ Learning should be like diving into a deep ocean, not skimming the surface of a 
 
 ## Concept Breakdown
 
-### Deep Dive Learning
-Learning is best approached as a deep dive into specific subjects rather than a broad, shallow skim across many. It emphasizes the importance of depth over breadth in the pursuit of knowledge. The more we delve into the intricate details of a subject, the more we understand its broader aspects.
+[[Learning is best approached as a deep dive into specific subjects rather than a broad, shallow skim across many]]
 
-### The Role of Focus
-A successful learning journey requires a high degree of focus. A student unable to write about her entire town, for example, becomes prolific when asked to focus on a single brick of a single building. This anecdote illuminates the power of focusing on the seemingly insignificant details in unleashing our creativity and understanding.
+[[A successful learning journey requires a high degree of focus in order to be able to perceive what's hidden in plain sight]]
 
-### The Pitfalls of a Distraction-Prone Society
-Our modern society is replete with distractions that could impede deep learning. The constant bombardment of information and entertainment stimuli tempts us to skim the surface of knowledge rather than delve deep. It's crucial to resist these distractions to pursue depth in learning.
+[[Resist society's distractions in order to pursue depth in learning]]
 
-### The Joy and Beauty of Learning
-True learning that leads to accomplishment involves embracing the joy and beauty that comes from immersing ourselves in a subject. This kind of immersion requires us to reject the superficial, thin layers of knowledge offered by quick-fix information and entertainment sources.
+[[True learning involves embracing the beauty that comes from completely immersing ourselves in a subject]]
 
-### The Micro-Macro Connection
-Studying the minute, "micro" aspects of a subject can lead to a profound understanding of its "macro" components. The deep exploration of small, specific pieces of information allows us to understand the core principles of our subject, leading to nuanced insights and a comprehensive picture.
+[[Studying the minute, micro aspects of a subject can lead to a better understanding of its macro components]]
 
 Related:
 - [[First principles thinking and its evolving nature]]
@@ -41,4 +36,4 @@ Related:
 
 ### Related Notes
 **Source**: [[The Art of Learning]]
-**Tags**: #EvergreenNote
+**Tags**: #LiteratureNote 

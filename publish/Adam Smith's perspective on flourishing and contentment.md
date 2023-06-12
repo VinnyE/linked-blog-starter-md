@@ -7,17 +7,13 @@ At the heart of human decisions, be they personal or communal, lies a deep yearn
 
 ## Concept Breakdown
 
-### The Pursuit of Meaningfulness
-Human decisions are deeply rooted in the quest for meaningfulness. We often choose paths in life not solely based on narrow utilitarian benefits but based on what feels right, what aligns with our identity and sense of purpose. This drive often trumps the potentially negative implications of such decisions. Whether it's taking up a challenging job, having children, or deciding where to live, our choices often reflect a deep-seated desire to lead lives of meaning.
+[[The Pursuit of Meaningfulness]]
 
-### Identity and Choice
-Our identity plays a crucial role in our decision-making process, impacting how we engage with the world around us. From voting decisions to friendships, our actions are often driven by our perceived identity rather than simple cost-benefit analysis. We behave in ways that align with our self-image, even if the actions may not be immediately rewarding or beneficial. For instance, the act of voting is seen as an affirmation of one's identity as a responsible citizen, irrespective of the immediate outcomes.
+[[We behave in ways that are consistent with our identity, even if the actions may not be immediately rewarding or beneficial]]
 
-### Adam Smith's Theory of Being Loved and Lovely
-Adam Smith, the economist and moral philosopher, postulated that humans naturally desire to be "loved" and "lovely." The term "loved" encompasses more than just emotional affection; it signifies being valued, appreciated, admired, and respected. "Lovely," on the other hand, signifies being worthy of such appreciation and respect. This inherent desire to be loved and lovely resonates closely with the concept of flourishing and represents our drive to matter in the world.
+[[Adam Smith's Theory of Being Loved and Lovely]]
 
-### The Path to Flourishing
-Pursuing wisdom and virtue is akin to walking a path less traveled. It is not as obvious or brightly lit as paths promising immediate rewards. However, it is this challenging path, often ignored, that leads to true flourishing. It is in striving to keep these values front and center, to be both loved and lovely, that we achieve a sense of contentment and a fulfilling life.
+[[The Path to Flourishing]]
 
 Related:
 - [[Navigating wild problems shapes personal identity and growth and surfaces the inherent limits of rational decision-making]]
@@ -52,5 +48,5 @@ Related:
 > If you care about flourishing, you have to work hard to keep it front and center. 
 
 ### Related Notes
-**Source**: [[Wild Problems]]
+**Source**: [[remote-blog/publish/Wild Problems]]
 **Tags**: #EvergreenNote

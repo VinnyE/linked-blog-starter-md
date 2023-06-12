@@ -7,20 +7,11 @@ Ethical dilemmas are an ongoing tension between our immediate desires and our hi
 
 ## Concept Breakdown
 
-### Ethical Tensions and Rational Decisions
-Ethical dilemmas often reveal a tension between our immediate desires and higher principles. Typically, we might define a rational decision as one where we choose the most desirable and feasible option. However, this perspective may lead us to favor immediate gains over long-term flourishing, thereby risking a compromise of our principles.
+[[Principles Over Narrow Self-Interest]]
 
-### Principles Over Narrow Self-Interest
-Our decisions should not be guided solely by narrow self-interest or immediate gains. When faced with ethical dilemmas, it is critical to uphold our principles, even if this comes at a cost. The idea that our principles and core values are not for sale is fundamental to preserving our integrity and sense of self.
+[[We can learn to gradually transform our character and desires by habitually practicing and upholding our principles]]
 
-### Identity Formation Through Decision-Making
-The choices we make do more than just determining the immediate outcomes of our actions; they also shape who we are and who we aspire to become. Our decisions can influence our identity and character, especially when these decisions involve upholding our principles over prioritizing immediate gains.
-
-### Transformation Through Practice and Adherence to Principles
-Habitual practice of upholding our principles can gradually transform our desires and character. By pretending to be good and consistently behaving accordingly, we can progressively actualize our ideal self. This transformation process does not necessarily mean being perfect, but continuously striving for improvement.
-
-### The Dynamic Nature of Desires and the 'Feeding the Good Dog' Principle
-Our desires and inclinations are not fixed but rather dynamic and susceptible to change. The 'feeding the good dog' principle illustrates this concept—by continually choosing actions that align with our principles, we can nourish our virtuous character traits. Regularly feeding the good dog—our virtuous self—can lead to the cultivation of self-enforcing virtuous habits and behaviors.
+[[The Dynamic Nature of Desires and the 'Feeding the Good Dog' Principle]]
 
 Related:
 - [[Adam Smith's perspective on flourishing and contentment]]
@@ -68,5 +59,5 @@ Related:
 > In most areas of life, especially the important ones, our desires aren’t fixed in the way economists usually think of them. Many of our desires are in conflict. We all have urges that we long to indulge and sometimes these urges sit uneasily with us. Sometimes we long to limit our urges, whether food, sex, money, or the app on your phone that you spend time with compulsively. We have a good dog and a bad one fighting each other all the time. Feed the good dog. Feed it often enough and it starts to win the fights with the bad dog.
 
 ### Related Notes
-**Source**: [[Wild Problems]]
+**Source**: [[remote-blog/publish/Wild Problems]]
 **Tags**: #EvergreenNote

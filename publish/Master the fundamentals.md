@@ -7,24 +7,19 @@ True mastery isn't about knowing the most techniques, but about delving deep int
 
 ## Concept Breakdown
 
-### The Power of Basic Skills
-The strength of any expertise lies not in the complexity of techniques one knows, but in the depth of understanding one has of basic skills. Whether it's understanding the movement of a pawn in chess or a simple hand movement in Tai Chi, mastery comes from delving into these basics and unveiling their hidden potentials.
+[[Depth of understanding over basic skills is more important than complexity of techniques for mastery]]
 
-### The Trap of Quick Wins
-The allure of quick wins, such as memorizing starting moves in chess, can be enticing, but it is a deceptive path to mastery. These "shortcuts" to success lack the depth of understanding that comes from deeply exploring the principles and can lead to a shallow understanding of the discipline.
+[[Quick wins can be enticing, but it is a deceptive path to mastery, lacking the depth of understanding that comes from deeply exploring principles]]
 
-### Transformation of Principles into Creative Fuel
-Through deeply understanding the basic principles, one can transform them into creative fuel. It's about being able to use these principles in creative and innovative ways, beyond their typical or expected applications. This transformative ability is a sign of true mastery and is fueled by the profound understanding of the basics.
+[[Once we deeply understand the basic principles of a discipline, we are free to use them in creative and innovative ways, a sign of achieving true mastery]]
 
-### Depth Over Breadth
-Having a broad range of knowledge may seem advantageous, but true mastery comes from the depth of understanding. This depth allows individuals to tap into the unconscious, creative components of their potential, which ultimately drives them to greater heights of achievement.
+[[True mastery comes from depth of understanding]]
 
-### The Interplay of Knowledge, Intuition, and Creativity
-Achievement is not a product of knowledge alone but is the result of the interplay between knowledge, intuition, and creativity. When we deeply internalize the core concepts of a discipline, we are better equipped to leverage our intuition and creativity to achieve a more profound understanding and higher levels of accomplishment.
+[[Achievement is the result of the interplay between knowledge, intuition, and creativity]]
 
 Related:
 - [[Techniques for uncovering first principles]]
-- 
+- [[First principles thinking and its evolving nature]]
 
 ---
 ### References
@@ -42,4 +37,4 @@ Related:
 
 ### Related Notes
 **Source**: [[The Art of Learning]]
-**Tags**: #EvergreenNote
+**Tags**: #LiteratureNote 

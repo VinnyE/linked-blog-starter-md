@@ -7,17 +7,10 @@ Finding the ideal life partner is not about finding the 'best' but about underst
 
 ## Concept Breakdown:
 
-### The Mathematics of Selection
-The story of Penelope, waiting for her husband Odysseus, while fending off 108 suitors, is analogous to the mathematical problem known as the secretary problem. This problem suggests a strategy of reviewing 37% of options (in Penelope's case, suitors) without committing, and then selecting the next one that surpasses the best from the initial set. However, real life, especially love and partnership, is more complex than mathematical formulas.
-
-### The Problem with 'Best'
-In the context of finding a life partner, the term 'best' poses significant issues. It implies a singular, unidimensional metric for comparison, which is incompatible with the complex and dynamic nature of human beings. A potential spouse is not just one characteristic, but a matrix of virtues, vices, attributes, and traits that cannot be measured solely on a single scale.
-
-### 'Satisficing' and Acceptance of Imperfection
-Herbert Simon's concept of 'satisficing' describes the process of making the best possible choice with our limited knowledge and understanding. Rather than seeking the non-existent 'perfect' option, we should focus on making a decision based on the best information available to us. The fear of 'settling' for an inferior option can stall our decision-making process, but it's crucial to understand that 'inferior' or 'superior' are often subjective labels we assign based on our perceptions.
-
-### The Ideal Companionship
-True companionship doesn't lie in finding the 'best' partner but rather in finding someone you can grow with throughout life. This person respects your imperfections and encourages your aspirations. The key to a fulfilling partnership may not lie in any predefined 'ideal' but in shared values, respect, and mutual growth.
+[[The Mathematics of Selection]]
+[[The Problem with 'Best']]
+[['Satisficing' and Acceptance of Imperfection]]
+[[The Ideal Companionship]]
 
 Related:
 - [[Darwin's dilemma and the illusion of rationality in wild problem decision-making]]
@@ -61,5 +54,5 @@ Related:
 > No guidebook, not even the best one, can tell you who to travel with. If you can, marry your best friend, someone you can talk to and someone you can stay quiet with. Someone who has a good heart and shares your view of what’s important—your values and principles. Find someone you respect and who respects you. Find someone who makes your heart sing—call it love or chemistry. That’s not just good enough. It’s fantastic. It’s not a quest for the best mate but the person you can explore life with at your side, the person to share the journey with. And maybe you can find a person who respects your imperfections and at the same time helps you to aspire to be someone better than you are now. 
 
 ### Related Notes
-**Source**: [[Wild Problems]]
+**Source**: [[remote-blog/publish/Wild Problems]]
 **Tags**: #EvergreenNote

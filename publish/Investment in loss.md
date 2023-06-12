@@ -7,26 +7,17 @@ The pursuit of excellence is a journey marked with continual challenges and loss
 
 ## Concept Breakdown
 
-### The Embrace of Challenge
-Pursuing excellence is an ongoing process where one is consistently faced with more potent challenges. Like in chess, it's about seeking opponents who can stretch our abilities. With each struggle, we grow stronger, and it's within this continuous progression that excellence is pursued.
+[[Pursuing excellence is an ongoing process where one is consistently faced with more potent challenges]]
 
-### The Acceptance of Loss
-Loss is an integral part of the journey toward excellence. Although it can be brutal and painful, losing offers valuable opportunities for growth. Every defeat is a chance to learn, refine strategies, and cultivate resilience.
+[[Loss is an integral part of the journey toward excellence]]
 
-### Process vs. Goal Dilemma
-While it's essential to focus on learning and growth, it's equally crucial to confront the results of our actions. A healthy balance between the process and the goal facilitates personal development, preparing us mentally and emotionally for the unavoidable obstacles along the path.
+[[Just like the hermit crab must leave its shell and face vulnerability in order to find a larger, more fitting shell, individuals must embrace a long-term, organic learning process instead of sticking to static, safe mediocrity]]
 
-### Necessity of Vulnerability
-Growth often requires us to step out of our comfort zones and expose ourselves to the possibility of failure. Just like a hermit crab must abandon its shell to grow, we too must embrace vulnerability and risk to reach our full potential.
+[[Achieving greatness necessitates a relentless commitment to improvement]]
 
-### The Power of Dedication
-Achieving greatness necessitates a relentless commitment to improvement. This means being willing to repeatedly confront failure and learn from it, just like basketball icon Michael Jordan. Dedication and tenacity, paired with an openness to learning, can lead to extraordinary achievements.
+[[Success is often a product of a long-term, incremental approach to learning that values both the journey and the outcome]]
 
-### The Long-term Learning Process
-Success is often a product of a long-term, incremental approach to learning that values both the journey and the outcome. Emphasizing the importance of lessons learned from both victories and defeats, this process involves a continuous cycle of effort, learning, and adaptation.
-
-### The Importance of Mindset
-A mindset that views intelligence and abilities as malleable and capable of growth (incremental theory) is pivotal in the pursuit of excellence. Those who can derive wisdom from every experience, irrespective of the immediate outcome, tend to be more successful and content in the long run.
+[[A mindset that views intelligence and abilities as malleable and capable of growth is pivotal in the pursuit of excellence]]
 
 Related:
 - [[Value process before results - Entity theorists vs Incremental theorists]]

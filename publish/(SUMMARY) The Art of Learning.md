@@ -16,7 +16,7 @@ created: 2023-06-05
 
 ### Peak Performance
 - [[The power of presence]]
-- [[The soft zone]]
+- [[The "Soft Zone" represents a state of deep yet adaptive focus]]
 - [[The downward spiral]]
 - [[Stress and recovery]]
 - [[Building your trigger]]

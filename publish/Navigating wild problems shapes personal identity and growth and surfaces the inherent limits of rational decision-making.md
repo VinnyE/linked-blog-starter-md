@@ -7,20 +7,15 @@ Life presents us with wild problems, pivotal decisions shrouded in uncertainty, 
 
 ## Concept Breakdown
 
-### Wild Problems
-Wild problems are the significant, life-altering decisions we encounter, where the outcomes are unclear, and each choice can significantly influence our identity and future. Unlike other, more manageable issues, these problems are complex, unpredictable, and defy standard approaches to problem-solving.
+[[remote-blog/publish/Wild Problems]]
 
-### The Decline of Authority and Tradition
-For much of human history, authority and tradition helped guide us through wild problems. But as the influence of kings, religion, and established cultural norms diminishes, we often find ourselves navigating these challenges without their guidance.
+[[The decline of authority and tradition has led to more uncertainty in navigating wild problems]]
 
-### The Misleading Comfort of Quantification
-In the face of wild problems, it's tempting to measure and quantify what we can in the hopes of making the best decision. This process can provide a comforting illusion of progress. However, focusing solely on what we can measure can often lead us astray.
+[[The Misleading Comfort of Quantification]]
 
-### The Illusion of the Right Decision
-Many of us are conditioned to believe that there's always a 'right' decision waiting to be uncovered. But with wild problems, this is often not the case. These problems require us to embrace the inherent uncertainty and be open to the full range of possible choices.
+[[The Illusion of the Right Decision]]
 
-### The Streetlight Effect
-The Streetlight Effect illustrates the human tendency to search for answers where it's easiest, not necessarily where they are. In trying to solve wild problems, we might focus on the most illuminated, quantifiable aspects, ignoring the vast range of possibilities hidden in the shadows of the unknown.
+[[The Streetlight Effect]]
 
 
 Related: 
@@ -54,6 +49,6 @@ Related:
 > But it can be a step in the wrong direction. If you’re not careful, you’re like the person under the streetlight searching for lost keys. Did you lose them here? asks a passerby who volunteers to help. No, says the seeker, but the light’s better here. Using a flashlight to make the area under the streetlight even brighter might seem like a rational response, but if the keys are far from the light and deep in the shadows, you’re only fooling yourself into thinking you’re getting closer to finding them. By focusing on what you know about and can imagine, you’re ignoring the full range of choices open to you. 
 
 ### Related Notes
-**Source**: [[Wild Problems]]
+**Source**: [[remote-blog/publish/Wild Problems]]
 **Tags**: #EvergreenNote
 
