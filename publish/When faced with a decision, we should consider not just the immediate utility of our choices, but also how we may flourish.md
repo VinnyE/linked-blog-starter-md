@@ -1,4 +1,4 @@
----
+ ---
 title: "When faced with a decision, we should consider not just the immediate utility of our choices, but also how we may flourish"
 created: 2023-05-30
 ---

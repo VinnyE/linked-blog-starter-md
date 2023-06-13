@@ -23,7 +23,6 @@ Related:
 - [[Navigating wild problems shapes personal identity and growth and surfaces the inherent limits of rational decision-making]]
 - [[The Vampire Problem]]
 - [[When faced with a decision, we should consider not just the immediate utility of our choices, but also how we may flourish]]
-- [[The journey to flourishing is paved with Type 2 experiences]]
 
 --- 
 ### References
