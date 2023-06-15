@@ -1,5 +1,5 @@
 ---
-title:  SUMMARY - Storyworthy
+title: "(SUMMARY) Storyworthy"
 created: 2023-06-15
 ---
 
