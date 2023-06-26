@@ -7,5 +7,5 @@ Experiences aren't just about their nature (pleasurable or painful), but also th
 
 ### Related Notes
 **Source**: [[The journey to flourishing is paved with Type 2 experiences]]
-**Tags**: #EvergreenNote #WildProblems #WaitingRoom 
+**Tags**: #EvergreenNote #WildProblems #Experiences
 

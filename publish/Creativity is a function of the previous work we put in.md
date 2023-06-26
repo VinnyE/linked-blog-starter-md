@@ -8,4 +8,4 @@ Creativity is not a standalone phenomenon but a function of deeply internalized 
 
 ### Related Notes
 **Source**: [[Numbers to leave numbers]]
-**Tags**: #EvergreenNote #TheArtOfLearning #WaitingRoom 
+**Tags**: #EvergreenNote #TheArtOfLearning #Creativity 

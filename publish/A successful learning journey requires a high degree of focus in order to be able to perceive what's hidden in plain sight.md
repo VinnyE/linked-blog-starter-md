@@ -11,4 +11,4 @@ A successful learning journey requires a high degree of focus. A student unable 
 
 ### Related Notes
 **Source**: [[Learning the macro from the micro]]
-**Tags**: #EvergreenNote #TheArtOfLearning #WaitingRoom 
+**Tags**: #EvergreenNote #TheArtOfLearning #Focus #MacroFromMicro

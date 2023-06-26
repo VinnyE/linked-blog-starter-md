@@ -7,5 +7,5 @@ In decision-making, we are often drawn to the simplicity of numbers, or 'scalars
 
 ### Related Notes
 **Source**: [[Darwin's dilemma and the illusion of rationality in wild problem decision-making]]
-**Tags**: #EvergreenNote #WildProblems #WaitingRoom 
+**Tags**: #EvergreenNote #WildProblems #DecisionMaking 
 

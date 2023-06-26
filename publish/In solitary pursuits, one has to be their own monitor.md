@@ -7,5 +7,5 @@ In solitary pursuits, one has to be their own monitor. The quality of presence i
 
 ### Related Notes
 **Source**: [[The power of presence]]
-**Tags**: #EvergreenNote #TheArtOfLearning #WaitingRoom 
+**Tags**: #EvergreenNote #TheArtOfLearning #Mastery #Learning #Presence 
 

@@ -10,5 +10,5 @@ A supportive present adult can help foster a liberated mindset in an ambitious c
 
 ### Related Notes
 **Source**: [[Loving the game]]
-**Tags**: #EvergreenNote #TheArtOfLearning #WaitingRoom 
+**Tags**: #EvergreenNote #TheArtOfLearning #Learning
 

@@ -7,4 +7,4 @@ Excellence is not a state to be reached, but a continuous pursuit. It requires t
 
 ### Related Notes
 **Source**: [[The power of presence]]
-**Tags**: #EvergreenNote #TheArtOfLearning #WaitingRoom 
+**Tags**: #EvergreenNote #TheArtOfLearning #Mastery 

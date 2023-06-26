@@ -8,4 +8,4 @@ Mastery of a skill, such as martial arts, begins with understanding and practici
 
 ### Related Notes
 **Source**: [[Making smaller circles]]
-**Tags**: #EvergreenNote #TheArtOfLearning #WaitingRoom 
+**Tags**: #EvergreenNote #TheArtOfLearning #Mastery 

@@ -1,5 +1,5 @@
 ---
-title: "The Pursuit of Meaningfulness"
+title: "Human decisions are deeply rooted in the quest for meaningfulness, often choosing paths in life based on what feels right and what aligns with our identity and sense of purpose"
 created: 2023-06-11
 ---
 
@@ -8,4 +8,4 @@ Human decisions are deeply rooted in the quest for meaningfulness. We often choo
 
 ### Related Notes
 **Source**: [[Adam Smith's perspective on flourishing and contentment]]
-**Tags**: #EvergreenNote #WildProblems #WaitingRoom 
+**Tags**: #EvergreenNote #WildProblems #HumanNature #DecisionMaking 

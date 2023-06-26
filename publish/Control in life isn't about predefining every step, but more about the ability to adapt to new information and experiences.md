@@ -7,5 +7,5 @@ Control in life isn't about predefining every step, but more about the ability t
 
 ### Related Notes
 **Source**: [[To live like an artist release control and embrace discovery]]
-**Tags**: #EvergreenNote #WildProblems #WaitingRoom 
+**Tags**: #EvergreenNote #WildProblems #Resilience #LearningToFlow
 

@@ -9,5 +9,5 @@ The ancient greeks referred to this state as [[Eudaemonia]]
 
 ### Related Notes
 **Source**: [[The journey to flourishing is paved with Type 2 experiences]]
-**Tags**: #EvergreenNote #WildProblems #WaitingRoom 
+**Tags**: #EvergreenNote #WildProblems #Flourishing 
 

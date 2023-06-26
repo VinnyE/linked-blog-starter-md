@@ -8,6 +8,7 @@ Just as great writers understand that writing is revising, life is about continu
 
 ### Related Notes
 **Source**: [[To live like an artist release control and embrace discovery]]
-**Tags**: #EvergreenNote #WildProblems #WaitingRoom 
+**Tags**: #EvergreenNote #WildProblems #JourneyOfLife
+
 
 

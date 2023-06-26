@@ -8,4 +8,4 @@ Effective learning requires both openness to new ideas and preservation of your 
 
 ### Related Notes
 **Source**: [[Navigating greyness with the middle way]]
-**Tags**: #EvergreenNote #TheArtOfLearning #WaitingRoom 
+**Tags**: #EvergreenNote #TheArtOfLearning #Learning

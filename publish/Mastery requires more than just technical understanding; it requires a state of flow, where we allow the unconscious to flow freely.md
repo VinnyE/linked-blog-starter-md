@@ -8,5 +8,5 @@ Achieving mastery requires more than just technical understanding; it demands a 
 
 ### Related Notes
 **Source**: [[Developing the internal compass]]
-**Tags**: #EvergreenNote #TheArtOfLearning #WaitingRoom 
+**Tags**: #EvergreenNote #TheArtOfLearning #Mastery #Creativity 
 

@@ -8,4 +8,4 @@ Intuition serves as the bridge between our conscious and unconscious mind. To re
 
 ### Related Notes
 **Source**: [[Developing the internal compass]]
-**Tags**: #EvergreenNote #TheArtOfLearning #WaitingRoom 
+**Tags**: #EvergreenNote #TheArtOfLearning #Intuition #Mastery 

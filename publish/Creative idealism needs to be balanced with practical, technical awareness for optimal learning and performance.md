@@ -8,5 +8,5 @@ Creative idealism needs to dance with practical, technical awareness for optimal
 
 ### Related Notes
 **Source**: [[Navigating greyness with the middle way]]
-**Tags**: #EvergreenNote #TheArtOfLearning #WaitingRoom 
+**Tags**: #EvergreenNote #TheArtOfLearning #Learning
 

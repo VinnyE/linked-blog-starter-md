@@ -7,4 +7,4 @@ Once you've mastered the ability to stay focused amidst disruptions and turn the
 
 ### Related Notes
 **Source**: [[The soft zone]]
-**Tags**: #EvergreenNote #TheArtOfLearning #WaitingRoom 
+**Tags**: #EvergreenNote #TheArtOfLearning #MasteringEmotions 

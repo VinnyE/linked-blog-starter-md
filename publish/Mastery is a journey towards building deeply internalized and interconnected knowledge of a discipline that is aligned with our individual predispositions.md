@@ -8,4 +8,4 @@ Mastery in any discipline is a journey that begins with understanding the fundam
 
 ### Related Notes
 **Source**: [[Developing the internal compass]]
-**Tags**: #EvergreenNote #TheArtOfLearning #WaitingRoom 
+**Tags**: #EvergreenNote #TheArtOfLearning #Mastery 

@@ -8,6 +8,6 @@ In the context of finding a life partner, the term 'best' poses significant issu
 
 ### Related Notes
 **Source**: [[Penelope's dilemma, the secretary problem, and the fallacy of 'best' in human relationships]]
-**Tags**: #EvergreenNote #WildProblems #WaitingRoom 
+**Tags**: #EvergreenNote #WildProblems #DecisionMaking #FindingAPartner
 
 

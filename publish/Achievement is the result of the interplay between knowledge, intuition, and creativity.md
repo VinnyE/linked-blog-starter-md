@@ -8,5 +8,5 @@ Achievement is not a product of knowledge alone but is the result of the interpl
 
 ### Related Notes
 **Source**: [[Master the fundamentals]]
-**Tags**: #EvergreenNote #TheArtOfLearning #WaitingRoom 
+**Tags**: #EvergreenNote #TheArtOfLearning #Intuition #Creativity
 

@@ -7,4 +7,4 @@ In dealing with life's unpredictability, it's more effective to develop resilien
 
 ### Related Notes
 **Source**: [[The soft zone]]
-**Tags**: #EvergreenNote #TheArtOfLearning #WaitingRoom 
+**Tags**: #EvergreenNote #TheArtOfLearning #Resilience 

@@ -8,5 +8,5 @@ In the face of wild problems, it's tempting to measure and quantify what we can 
 
 ### Related Notes
 **Source**: [[Penelope's dilemma, the secretary problem, and the fallacy of 'best' in human relationships]]
-**Tags**: #EvergreenNote #WildProblems #WaitingRoom 
+**Tags**: #EvergreenNote #WildProblems #DecisionMaking 
 

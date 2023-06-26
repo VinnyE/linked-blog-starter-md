@@ -10,4 +10,4 @@ Why is this important? Because [[Success and failure in different fields can be 
 
 ### Related Notes
 **Source**: [[Value process before results - Entity theorists vs Incremental theorists]]
-**Tags**: #EvergreenNote #TheArtOfLearning #WaitingRoom 
+**Tags**: #EvergreenNote #TheArtOfLearning #GrowthMindset 

@@ -8,5 +8,6 @@ Herbert Simon's concept of 'satisficing' describes the process of making the bes
 
 ### Related Notes
 **Source**: [[Penelope's dilemma, the secretary problem, and the fallacy of 'best' in human relationships]]
-**Tags**: #EvergreenNote #WildProblems #WaitingRoom 
+**Tags**: #EvergreenNote #WildProblems #DecisionMaking
+
 

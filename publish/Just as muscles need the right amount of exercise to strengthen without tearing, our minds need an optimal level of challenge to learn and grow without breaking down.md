@@ -8,4 +8,4 @@ Just as muscles need the right amount of exercise to strengthen without tearing,
 
 ### Related Notes
 **Source**: [[Navigating greyness with the middle way]]
-**Tags**: #EvergreenNote #TheArtOfLearning #WaitingRoom 
+**Tags**: #EvergreenNote #TheArtOfLearning #Learning #Mastery 

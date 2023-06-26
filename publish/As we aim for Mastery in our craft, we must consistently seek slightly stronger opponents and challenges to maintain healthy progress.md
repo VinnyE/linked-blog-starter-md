@@ -8,4 +8,4 @@ In the context of chess, maintaining a healthy perspective on the game means con
 
 ### Related Notes
 **Source**: [[Loving the game]]
-**Tags**: #EvergreenNote #TheArtOfLearning #WaitingRoom 
+**Tags**: #EvergreenNote #TheArtOfLearning #Mastery

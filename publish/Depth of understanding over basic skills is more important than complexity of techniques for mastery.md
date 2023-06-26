@@ -8,4 +8,4 @@ The strength of any expertise lies not in the complexity of techniques one knows
 
 ### Related Notes
 **Source**: [[Master the fundamentals]]
-**Tags**: #EvergreenNote #TheArtOfLearning #WaitingRoom 
+**Tags**: #EvergreenNote #TheArtOfLearning #Mastery

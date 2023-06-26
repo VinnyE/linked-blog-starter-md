@@ -8,5 +8,5 @@ Humans care about more than transient joy or avoidance of pain. We desire purpos
 
 ### Related Notes
 **Source**: [[When faced with a decision, we should consider not just the immediate utility of our choices, but also how we may flourish]]
-**Tags**: #EvergreenNote #WildProblems #WaitingRoom 
+**Tags**: #EvergreenNote #WildProblems #Flourishing #HumanNature 
 

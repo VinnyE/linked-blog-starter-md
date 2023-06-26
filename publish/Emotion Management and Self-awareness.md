@@ -7,5 +7,5 @@ Emotions need not control us. Through self-awareness and the practice of emotion
 
 ### Related Notes
 **Source**: [[The internal solution]]
-**Tags**: #EvergreenNote #TheArtOfLearning #WaitingRoom 
+**Tags**: #EvergreenNote #TheArtOfLearning #MasteringEmotions 
 

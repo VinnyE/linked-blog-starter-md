@@ -10,4 +10,4 @@ As we age, fear of failure and the pressure to perform can transform our balance
 
 ### Related Notes
 **Source**: [[Loving the game]]
-**Tags**: #EvergreenNote #TheArtOfLearning #WaitingRoom 
+**Tags**: #EvergreenNote #TheArtOfLearning #Learning 

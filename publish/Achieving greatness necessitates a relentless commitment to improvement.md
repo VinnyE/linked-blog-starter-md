@@ -1,5 +1,5 @@
 ---
-title: Achieving greatness necessitates a relentless commitment to improvement
+title: "Achieving greatness necessitates a relentless commitment to improvement"
 created: 2023-06-11
 ---
 
@@ -7,4 +7,4 @@ Achieving greatness necessitates a relentless commitment to improvement. This me
 
 ### Related Notes
 **Source**: [[Investment in loss]]
-**Tags**: #EvergreenNote #TheArtOfLearning #WaitingRoom 
+**Tags**: #EvergreenNote #TheArtOfLearning #Mastery
