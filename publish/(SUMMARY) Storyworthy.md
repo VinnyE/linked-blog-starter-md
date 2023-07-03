@@ -12,7 +12,7 @@ created: 2023-06-15
 #### CHAPTER ONE My Promise to You
 
 #### CHAPTER TWO What Is a Story? (and What Is the Dinner Test?)
-- [[Storyworthy–Chapter 2–What is a Story?]]
+- [[Storyworthy-Chapter2-What is a Story?]]
 
 #### CHAPTER THREE Homework for Life
 - [[Storyworthy-Chapter 3-Homework for Life]]
