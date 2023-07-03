@@ -1,5 +1,5 @@
 ---
-title: "What is a Story?"
+title: "What is a Story"
 created: 2023-06-15
 ---
 

@@ -12,7 +12,7 @@ created: 2023-06-15
 #### CHAPTER ONE My Promise to You
 
 #### CHAPTER TWO What Is a Story? (and What Is the Dinner Test?)
-- [[What is a Story?]]
+- [[What is a Story]]
 - [[Value process before results - Entity theorists vs Incremental theorists]]
 
 #### CHAPTER THREE Homework for Life
