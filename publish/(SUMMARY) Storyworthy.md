@@ -13,6 +13,7 @@ created: 2023-06-15
 
 #### CHAPTER TWO What Is a Story? (and What Is the Dinner Test?)
 - [[What is a Story?]]
+- [[Value process before results - Entity theorists vs Incremental theorists]]
 
 #### CHAPTER THREE Homework for Life
 - [[Storyworthy-Chapter 3-Homework for Life]]
