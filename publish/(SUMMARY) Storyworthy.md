@@ -16,3 +16,14 @@ created: 2023-06-15
 
 #### CHAPTER THREE Homework for Life
 - [[Storyworthy-Chapter 3-Homework for Life]]
+
+#### CHAPTER FOUR Dreaming at the End of Your Pen
+- [[Storyworthy-Chapter 4-Dreaming at the End of Your Pen]]
+
+#### CHAPTER FIVE First Last Best Worst: Great for Long Car Rides, First Dates, and Finding Stories
+- [[Storyworthy-Chapter 5-First Last Best Worst]]
+
+
+
+
+
