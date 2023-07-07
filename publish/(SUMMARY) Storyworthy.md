@@ -37,5 +37,11 @@ n/a
 #### CHAPTER SEVEN Every Story Takes Only Five Seconds to Tell (and Jurassic Park Wasn’t a Movie about Dinosaurs)
 - [[Storyworthy-Chapter 7-Every Story Takes Only Five Seconds to Tell]]
 
+#### CHAPTER EIGHT Finding Your Beginning (I’m Also About to Forever Ruin Most Movies and Many Books for You)
+- [[Storyworthy-Chapter 8-Finding Your Beginning]]
 
+#### CHAPTER NINE Stakes: Five Ways to Keep Your Story Compelling (and Why There Are Dinosaurs in Jurassic Park
+- [[Storyworthy-Chapter 9-Five Ways to Keep Your Story Compelling]]
+
+ 
 
