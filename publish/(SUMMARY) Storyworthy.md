@@ -43,5 +43,25 @@ n/a
 #### CHAPTER NINE Stakes: Five Ways to Keep Your Story Compelling (and Why There Are Dinosaurs in Jurassic Park
 - [[Storyworthy-Chapter 9-Five Ways to Keep Your Story Compelling]]
 
- 
+#### CHAPTER TEN The Five Permissible Lies of True Storytelling 
+- [[Storyworthy-Chapter 10-The Five Permissible Lies of true Storytelling]]
 
+#### CHAPTER ELEVEN Cinema of the Mind (Also Known as “Where the Hell Are You?”)
+- [[Storyworthy-Chapter 11-Cinema of the Mind]]
+
+#### CHAPTER TWELVE The Principle of But and Therefore
+- [[Storyworthy-Chapter 12-The Principle of But and Therefore]]
+
+
+
+
+
+
+
+--- 
+### References
+
+
+### Related Notes
+**Source**: [[(SUMMARY) Storyworthy]]
+**Tags**: #LiteratureNote #Storyworthy #WaitingRoom 
