@@ -14,4 +14,4 @@ excerpt: "Home page"
 - [[(SUMMARY) Bulletproof Problem Solving]]
 - [[(SUMMARY) Wild Problems]]
 - [[(SUMMARY) The Art of Learning]]
-- [[(SUMMARY) Storyworthy]] - *IN PROGRESS*
+- [[(SUMMARY) Storyworthy]]

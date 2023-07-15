@@ -52,16 +52,38 @@ n/a
 #### CHAPTER TWELVE The Principle of But and Therefore
 - [[Storyworthy-Chapter 12-The Principle of But and Therefore]]
 
+#### CHAPTER FOURTEEN The Secret to the Big Story: Make It Little
+- [[Storyworthy-Chapter 14-Make It Little]]
 
+#### Brevity Is the Soul of Wit
+- [[Storyworthy-Storybreak-Brevity Is the Soul of Wit]]
 
+#### CHAPTER FIFTEEN There Is Only One Way to Make Someone Cry
+- [[Storyworthy-Chapter 15-There Is Only One Way to Make Someone Cry]]
 
+#### CHAPTER SIXTEEN Milk Cans and Baseballs, Babies and Blenders: Simple, Effective Ways to Be Funny in Storytelling (Even if You're Not Funny at All)
+- [[Storyworthy-Chapter 16-Simple, Effective Ways to Be Funny in Storytelling]]
 
+#### CHAPTER SEVENTEEN Finding the Frayed Ending of Your Story (or, What the Hell Did That Mean?)
+- [[Storyworthy-Chapter 17-Finding the Frayed Ending of Your Story]]
 
+### Part III Telling Your Story
 
---- 
-### References
+#### CHAPTER EIGHTEEN The Present Tense Is King (but the Queen Can Play a Role Too) ⭐
+- [[Storyworthy-Chapter 18-The Present Tense Is King]]
 
+#### CHAPTER NINETEEN The Two Ways of Telling a Hero Story (or, How to Avoid Sounding Like a Douchebag)
+- [[Storyworthy-Chapter 19-The Two Ways of Telling a Hero Story]]
 
-### Related Notes
-**Source**: [[(SUMMARY) Storyworthy]]
-**Tags**: #LiteratureNote #Storyworthy #WaitingRoom 
+#### CHAPTER TWENTY Storytelling Is Time Travel (If You Don’t Muck It Up)
+- [[Storyworthy-Chapter 20-Storytelling Is Time Travel]]
+
+#### CHAPTER TWENTY-ONE Words to Say, Words to Avoid
+- [[Storyworthy-Chapter 21-ONE Words to Say, Words to Avoid]]
+
+#### CHAPTER TWENTY-TWO Time to Perform (Onstage, in the Boardroom, on a Date, or at the Thanksgiving
+- [[Storyworthy-Chapter 22- Time to Perform]]
+
+#### CHAPTER TWENTY-THREE Why Did You Read This Book? To Become a Superhero!
+- [[Storyworthy-Chapter 23-Why Did You Read This Book]]
+
